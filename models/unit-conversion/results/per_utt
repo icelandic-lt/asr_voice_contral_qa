@@ -1,0 +1,800 @@
+1_Bjartur ref  Breyttu  sjö  hundruð  og  sex  þúsund  tvö  hundruð  sjötíu  og  fjórum  fetum  í  metra
+1_Bjartur hyp  Breyttu  sjö  hundruð  og  sex  þúsund  tvö  hundruð  sjötíu  og  fjórum  fetum  í  metra
+1_Bjartur op      C      C      C      C   C      C     C      C        C     C     C      C    C    C  
+1_Bjartur #csid 14 0 0 0
+2_Bjartur ref  Hversu  marga  bandaríkjadali  fæ  ég  fyrir  sjö  hundruð  níutíu  og  sex  þúsund  eitt  hundrað  sextíu  og  einn  pesa
+2_Bjartur hyp  Hversu  marga  bandaríkjadali  fæ  ég  fyrir  sjö  hundruð  níutíu  og  sex  þúsund  eitt  hundrað  sextíu  og  einn  pesa
+2_Bjartur op      C      C           C         C   C    C     C      C        C     C   C      C      C      C        C     C    C     C 
+2_Bjartur #csid 18 0 0 0
+3_Alfur_v2 ref  Hvað  eru  áttatíu  og  fjögur  þúsund  fimm  hundruð  fimmtíu  og  þrír  lítrar  margir  sentilítrar
+3_Alfur_v2 hyp  Hvað  eru  áttatíu  og  fjögur  þúsund  fimm  hundruð  fimmtíu  og  þrír  lítrar  margir     pelar   
+3_Alfur_v2 op     C    C      C      C     C       C      C      C        C      C    C      C       C         S     
+3_Alfur_v2 #csid 13 1 0 0
+4_Rosa ref  Hvað  eru  sex  hundruð  fimmtíu  og  sex  þúsund  þrjú  hundruð  og  tólf   milligrömm   í  kílógrömmum
+4_Rosa hyp  Hvað  eru  sex  hundruð  fimmtíu  og  sex  þúsund  þrjú  hundruð  og  tólf  milligrömmum  í   kílógrömm 
+4_Rosa op     C    C    C      C        C      C   C      C      C      C      C    C         S       C       S     
+4_Rosa #csid 13 2 0 0
+5_Bjartur ref  Hvað  eru  fimm  hundruð  tuttugu  og  átta  þúsund  fimm  hundruð  og  sjötíu  kílómetrar  í  millimetrum
+5_Bjartur hyp  Hvað  eru  fimm  hundruð  tuttugu  og  átta  þúsund  fimm  hundruð  og  sjötíu  kílómetrar  í  millimetrum
+5_Bjartur op     C    C     C      C        C      C    C      C      C      C      C     C         C      C       C     
+5_Bjartur #csid 15 0 0 0
+6_Rosa ref  Hvað  er  átta  hundruð  þrjátíu  og  tvö  þúsund  og  ein  teskeið  í  pintum
+6_Rosa hyp  Hvað  er  átta  hundruð  þrjátíu  og  tvö  þúsund  og  ein  teskeið  í  könnum
+6_Rosa op     C    C    C      C        C      C   C      C     C   C      C     C     S  
+6_Rosa #csid 12 1 0 0
+7_Karl ref  Hvað  eru  níu  hundruð  sjötíu  og  sjö  þúsund  fimm  hundruð  níutíu  og  níu  fet  í  tommum
+7_Karl hyp  Hvað  eru  níu  hundruð  sjötíu  og  sjö  þúsund  fimm  hundruð  níutíu  og  níu  fet  í   tonn 
+7_Karl op     C    C    C      C        C     C   C      C      C      C        C     C   C    C   C     S  
+7_Karl #csid 15 1 0 0
+8_Dora ref  Hvað  eru  fjögur  hundruð  og  sex  þúsund  sex  hundruð  og  ellefu  tommur  margar  mílur
+8_Dora hyp  Hvað  eru  fjögur  hundruð  og  sex  þúsund  sex  hundruð  og  ellefu  tommur  margar  '***'
+8_Dora op     C    C      C       C      C   C      C     C      C      C     C       C       C      D  
+8_Dora #csid 13 0 0 1
+9_Bjartur ref  Hvað  er  margir  rúmsentímetrar  í  sex  hundruð  sextíu  og  þrjú  þúsund  eitt  hundrað  níutíu  og  einu  pinti
+9_Bjartur hyp  Hvað  er  margir  rúmsentímetrar  í  sex  hundruð  sextíu  og  þrjú  þúsund  eitt  hundrað  níutíu  og  einu  pinti
+9_Bjartur op     C    C     C           C        C   C      C        C     C    C      C      C      C        C     C    C     C  
+9_Bjartur #csid 17 0 0 0
+10_Rosa ref  Breyttu  sjö  hundruð  níutíu  og  sjö  þúsund  þrjú  hundruð  níutíu  og  þrem  ísraelskum  siklum  í  dali
+10_Rosa hyp  Breyttu  sjö  hundruð  níutíu  og  sjö  þúsund  þrjú  hundruð  níutíu  og  þrem  ísraelskum  siklum  í  dali
+10_Rosa op      C      C      C        C     C   C      C      C      C        C     C    C        C         C    C    C 
+10_Rosa #csid 16 0 0 0
+11_Bjartur ref  Hvað   er  fimm  hundruð  og  átta  þúsund  fjögur  hundruð  áttatíu  og  eitt  pund  í  grömmum
+11_Bjartur hyp  Hvað  eru  fimm  hundruð  og  átta  þúsund  fjögur  hundruð  áttatíu  og  eitt  pund  í  grömmum
+11_Bjartur op     C    S     C      C      C    C      C       C       C        C      C    C     C   C     C   
+11_Bjartur #csid 14 1 0 0
+12_Alfur ref  Breyttu  fjögur  hundruð  fimmtíu  og  fimm  þúsund  eitt  hundrað  þrjátíu  og  tveim  metrum    í    sjómílur
+12_Alfur hyp  Breyttu  fjögur  hundruð  fimmtíu  og  fimm  þúsund  eitt  hundrað  þrjátíu  og  tveim  metrum  '***'    '***' 
+12_Alfur op      C        C       C        C      C    C      C      C      C        C      C    C       C      D        D   
+12_Alfur #csid 13 0 0 2
+13_Rosa ref  Hversu  mörg  pund  eru  í  níu  hundruð  og  fjörutíu  þúsund  átta  hundruð  tuttugu  og  fimm  grömmum
+13_Rosa hyp  Hversu  mörg  pund  eru  í  níu  hundruð  og  fjörutíu  þúsund  átta  hundruð  tuttugu  og  fimm  grömmum
+13_Rosa op      C      C     C    C   C   C      C      C      C        C      C      C        C      C    C      C   
+13_Rosa #csid 16 0 0 0
+14_Rosa ref  Hvað  eru  fjögur  hundruð  og  níutíu  þúsund  fimm  hundruð  og  fimm  mílur  í  fetum
+14_Rosa hyp  Hvað  eru  fjögur  hundruð  og  níutíu  þúsund  fimm  hundruð  og   sjö  mílum  í   fet 
+14_Rosa op     C    C      C       C      C     C       C      C      C      C    S     S    C    S  
+14_Rosa #csid 11 3 0 0
+15_Bjartur ref  Hvað  eru  margir  lítrar  í  sjö  hundruð  og  þrjátíu  þúsund  sjö  hundruð  og  sextíu  matskeiðum
+15_Bjartur hyp  Hvað  eru  margir  lítrar  í  sjö  hundruð  og  þrjátíu  þúsund  sjö  hundruð  og  sextíu   matskeið 
+15_Bjartur op     C    C      C       C    C   C      C      C     C        C     C      C      C     C         S    
+15_Bjartur #csid 14 1 0 0
+16_Dora ref  Hvað  eru  tuttugu  og  fimm  þúsund    og   fjögur  hundruð  og  fjórtán  taílensk  böt  mörg  suðurafrísk  rönd
+16_Dora hyp  Hvað  eru  tuttugu  og  fimm  þúsund  '***'  fjögur  hundruð  og  fjórtán  taílensk  böt  mörg  suðurafrísk  rönd
+16_Dora op     C    C      C      C    C      C      D       C       C      C     C         C      C     C        C         C 
+16_Dora #csid 15 0 0 1
+17_Dilja ref  Hvað   er  sex  hundruð  áttatíu  og  sex  þúsund  átta  hundruð  fjörutíu  og  eitt  fet  í  millimetrum
+17_Dilja hyp  Hvað  eru  sex  hundruð  áttatíu  og  sex  þúsund  átta  hundruð  fjörutíu  og  eitt  fet  í     metrum  
+17_Dilja op     C    S    C      C        C      C   C      C      C      C         C      C    C    C   C       S     
+17_Dilja #csid 14 2 0 0
+18_Dora ref  Breyttu  tvö  hundruð  og  sjö  þúsund  fimm  hundruð  sjötíu  og  átta  sentimetrum    í    kílómetra
+18_Dora hyp  Breyttu  tvö  hundruð  og  sjö  þúsund  fimm  hundruð  sjötíu  og  átta  sentimetrum  '***'    '***'  
+18_Dora op      C      C      C      C   C      C      C      C        C     C    C        C         D        D    
+18_Dora #csid 12 0 0 2
+19_Rosa ref  Hvað   er  níu  hundruð  tuttugu  og  tvö  þúsund  þrjú  hundruð  sextíu  og  ein  dönsk  króna  í  siklum
+19_Rosa hyp  Hvað  eru  níu  hundruð  tuttugu  og  tvö  þúsund  þrjú  hundruð  sextíu  og  ein  dönsk  króna  í  siklum
+19_Rosa op     C    S    C      C        C      C   C      C      C      C        C     C   C     C      C    C     C  
+19_Rosa #csid 16 1 0 0
+20_Alfur_v2 ref  Breyttu  sex  hundruð  sjötíu  og  fimm  þúsund  áttatíu  og  tveim  fetum    í    mílur
+20_Alfur_v2 hyp  Breyttu  sex  hundruð  sjötíu  og  fimm  þúsund  áttatíu  og  tveim  fetum  '***'  '***'
+20_Alfur_v2 op      C      C      C        C     C    C      C       C      C    C      C      D      D  
+20_Alfur_v2 #csid 11 0 0 2
+21_Dora ref  Breyttu  níu  hundruð  þrjátíu  og  þrjú  þúsund  þrjátíu  og  fjórum  kílóum    í    grömm
+21_Dora hyp  Breyttu  níu  hundruð  þrjátíu  og  þrjú  þúsund  þrjátíu  og  fjórum  kílóum  '***'  '***'
+21_Dora op      C      C      C        C      C    C      C       C      C     C       C      D      D  
+21_Dora #csid 11 0 0 2
+22_Alfur_v2 ref  Breyttu  níutíu  og  sjö  þúsund  og  eitt  hundrað  og  níutíu  kílóum    í    milligrömm
+22_Alfur_v2 hyp  Breyttu  níutíu  og  sjö  þúsund  og  eitt  hundrað  og  níutíu  kílóum  '***'     '***'  
+22_Alfur_v2 op      C        C     C   C      C     C    C      C      C     C       C      D         D    
+22_Alfur_v2 #csid 11 0 0 2
+23_Alfur ref  Breyttu  fimm  hundruð  og  tíu  þúsund  eitt  hundrað  þrjátíu  og  þrem  fetum    í    metra
+23_Alfur hyp  Breyttu  fimm  hundruð  og  tíu  þúsund  eitt  hundrað  þrjátíu  og  þrem  fetum  '***'  '***'
+23_Alfur op      C       C      C      C   C      C      C      C        C      C    C     C      D      D  
+23_Alfur #csid 12 0 0 2
+24_Dilja_v2 ref  Hvað  eru  átta  hundruð  sextíu  og  níu  þúsund  eitt  hundrað  áttatíu  og  þrjár  danskar  krónur  margir  hong  kong  dalir
+24_Dilja_v2 hyp  Hvað  eru  átta  hundruð  sextíu  og  níu  þúsund  eitt  hundrað  áttatíu  og  þrjár  danskar  krónur  margir  hong  kong  dalir
+24_Dilja_v2 op     C    C     C      C        C     C   C      C      C      C        C      C    C       C        C       C      C     C     C  
+24_Dilja_v2 #csid 19 0 0 0
+25_Alfur ref  Hvað  eru  sex  hundruð  og  átta  þúsund  átta  hundruð  fjörutíu  og  tvær  matskeiðar  margir  lítrar
+25_Alfur hyp  Hvað  eru  sex  hundruð  og  átta  þúsund  átta  hundruð  fjörutíu  og  tvær  matskeiðar  margir   '***'
+25_Alfur op     C    C    C      C      C    C      C      C      C         C      C    C        C         C       D  
+25_Alfur #csid 14 0 0 1
+26_Bjartur ref  Hversu  margar  könnur  eru  í  hundrað  sjötíu  og  sjö  þúsund  fimm  hundruð  og  sextán  sentilítrum
+26_Bjartur hyp  Hversu  margar  könnur  eru  í  hundrað  sjötíu  og  sjö  þúsund  fimm  hundruð  og  sextán  sentilítrum
+26_Bjartur op      C       C       C     C   C     C        C     C   C      C      C      C      C     C         C     
+26_Bjartur #csid 15 0 0 0
+27_Rosa ref  Hvað  er  sex  hundruð  fimmtíu  og  átta  þúsund  sjö  hundruð  þrjátíu  og   eitt   fet     í   tommum
+27_Rosa hyp  Hvað  er  sex  hundruð  fimmtíu  og  átta  þúsund  sjö  hundruð  þrjátíu  og  '***'  '***'  einu   pinti
+27_Rosa op     C    C   C      C        C      C    C      C     C      C        C      C    D      D      S      S  
+27_Rosa #csid 12 2 0 2
+28_Bjartur ref  Hvað  er  hundrað  þrjátíu  og  sjö  þúsund  sjö  hundruð  sextíu  og  einn  mexíkóskur  pesi  margar  evrur
+28_Bjartur hyp  Hvað  er  hundrað  þrjátíu  og  sjö  þúsund  sjö  hundruð  sextíu  og  einn  mexíkóskur  pesi  margar  evrur
+28_Bjartur op     C    C     C        C      C   C      C     C      C        C     C    C        C        C      C      C  
+28_Bjartur #csid 16 0 0 0
+29_Dilja_v2 ref  Hvað  eru  fimmtán  þúsund  tvö  hundruð  níutíu  og  fjórir  mexíkóskir  pesar  margir  hong  kong  dalir
+29_Dilja_v2 hyp  Hvað  eru  fimmtán  þúsund  tvö  hundruð  níutíu  og  fjórir  mexíkóskir  pesar  margir  hong  kong  dalir
+29_Dilja_v2 op     C    C      C        C     C      C        C     C     C         C        C       C      C     C     C  
+29_Dilja_v2 #csid 15 0 0 0
+30_Alfur_v2 ref  Hvað  eru  átta  hundruð  tuttugu  og  sex  þúsund  tvö  hundruð  og  fjórtán  jamaískir  dalir  margir  pesar
+30_Alfur_v2 hyp  Hvað  eru  átta  hundruð  tuttugu  og  sex  þúsund  tvö  hundruð  og  fjórtán  jamaískir  dalir  margir  pesar
+30_Alfur_v2 op     C    C     C      C        C      C   C      C     C      C      C     C         C        C       C      C  
+30_Alfur_v2 #csid 16 0 0 0
+31_Rosa ref  Hvað  er  níu  hundruð  fimmtíu  og  tvö  þúsund  þrjú  hundruð  sjötíu  og  ein  dönsk  króna  í  nígerískum  nærum
+31_Rosa hyp  Hvað  er  níu  hundruð  fimmtíu  og  tvö  þúsund  þrjú  hundruð  sjötíu  og  ein  dönsk  króna  í  nígerískum  nærum
+31_Rosa op     C    C   C      C        C      C   C      C      C      C        C     C   C     C      C    C       C        C  
+31_Rosa #csid 18 0 0 0
+32_Dilja ref  Hversu  mörg  kílógrömm  eru  í  níu  hundruð  tuttugu  og  tvö  þúsund  tuttugu  og  tveimur  kílóum
+32_Dilja hyp  Hversu  mörg  kílógrömm  eru  í  níu  hundruð  tuttugu  og  tvö  þúsund  tuttugu  og  tveimur  kílóum
+32_Dilja op      C      C       C       C   C   C      C        C      C   C      C       C      C     C        C  
+32_Dilja #csid 15 0 0 0
+33_Dilja_v2 ref  Breyttu  fimm  hundruð  fimmtíu  og  fjögur  þúsund  eitt  hundrað  tuttugu  og  tveim  pintum  í  teskeiðar
+33_Dilja_v2 hyp  Breyttu  fimm  hundruð  fimmtíu  og  fjögur  þúsund  eitt  hundrað  tuttugu  og  tveim  pintum  í  teskeiðar
+33_Dilja_v2 op      C       C      C        C      C     C       C      C      C        C      C    C       C    C      C    
+33_Dilja_v2 #csid 15 0 0 0
+34_Dilja ref  Breyttu  þrjú  hundruð  tuttugu  og   þrjú   þúsund  níu  hundruð  fimmtíu  og  fjórum  sjómílum  í  sentimetra
+34_Dilja hyp  Breyttu  þrjú  hundruð  tuttugu  og  fjögur  þúsund  níu  hundruð  fimmtíu  og  fjórum  sjómílum  í  sentimetra
+34_Dilja op      C       C      C        C      C     S       C     C      C        C      C     C        C     C       C    
+34_Dilja #csid 14 1 0 0
+35_Bjartur ref  Hvað  eru  mörg  grömm  í  níu  hundruð  sextíu  og  eitt  þúsund  þrjú  hundruð  sjötíu  og  fjórum  pundum
+35_Bjartur hyp  Hvað  eru  mörg  grömm  í  níu  hundruð  sextíu  og  eitt  þúsund  þrjú  hundruð  sjötíu  og  fjórum  pundum
+35_Bjartur op     C    C     C     C    C   C      C        C     C    C      C      C      C        C     C     C       C  
+35_Bjartur #csid 17 0 0 0
+36_Karl ref  Hvað  eru  átta  hundruð  fjörutíu  og  fjögur  þúsund  sjö  hundruð  sjötíu  og  fimm  jen  margar  tékkneskar  krónur
+36_Karl hyp  Hvað  eru  átta  hundruð  fjörutíu  og  fjögur  þúsund  sjö  hundruð  sjötíu  og  fimm  jen  margar  tékkneskar  krónur
+36_Karl op     C    C     C      C         C      C     C       C     C      C        C     C    C    C      C         C         C  
+36_Karl #csid 17 0 0 0
+37_Bjartur ref  Hvað  eru  hundrað  sjötíu  og  fimm  þúsund  þrjú  hundruð  fjörutíu  og  fimm  lírur  mörg  jen
+37_Bjartur hyp  Hvað  eru  hundrað  sjötíu  og  fimm  þúsund  þrjú  hundruð  fjörutíu  og  fimm  lírur  mörg  jen
+37_Bjartur op     C    C      C        C     C    C      C      C      C         C      C    C     C      C    C 
+37_Bjartur #csid 15 0 0 0
+38_Dora ref  Hvað  eru  átta  hundruð  sjötíu  og  níu  þúsund  sjö  hundruð  þrjátíu  og  þrjár  könnur  í  sentilítrum
+38_Dora hyp  Hvað  eru  átta  hundruð  sjötíu  og  níu  þúsund  sjö  hundruð  þrjátíu  og  þrjár  könnur  í  sentilítrum
+38_Dora op     C    C     C      C        C     C   C      C     C      C        C      C    C       C    C       C     
+38_Dora #csid 16 0 0 0
+39_Alfur_v2 ref  Hvað  eru  margir  metrar  í  tvö  hundruð  sjötíu  og  tvö  þúsund  sjö  hundruð  þrjátíu  og  átta  tommum
+39_Alfur_v2 hyp  Hvað  eru  margir  metrar  í  tvö  hundruð  sjötíu  og  tvö  þúsund  sjö  hundruð  þrjátíu  og  átta  tommum
+39_Alfur_v2 op     C    C      C       C    C   C      C        C     C   C      C     C      C        C      C    C      C  
+39_Alfur_v2 #csid 17 0 0 0
+40_Karl ref  Hversu  mörg  pund  eru  í  fjögur  hundruð  þrjátíu  og  tvö  þúsund  níu  hundruð  og  þrjátíu  tonnum
+40_Karl hyp  Hversu  mörg  pund  eru  í  fjögur  hundruð  þrjátíu  og  tvö  þúsund  níu  hundruð  og  þrjátíu   tonn 
+40_Karl op      C      C     C    C   C     C       C        C      C   C      C     C      C      C     C        S  
+40_Karl #csid 15 1 0 0
+41_Bjartur ref  Breyttu  fimm  hundruð  og  fjörutíu  þúsund  níu  hundruð  tuttugu  og  þrem  norskum  krónum  í  brasilísk  ríöl
+41_Bjartur hyp  Breyttu  fimm  hundruð  og  fjörutíu  þúsund  níu  hundruð  tuttugu  og  þrem  norskum  krónum  í  brasilísk  ríöl
+41_Bjartur op      C       C      C      C      C        C     C      C        C      C    C      C        C    C      C        C 
+41_Bjartur #csid 16 0 0 0
+42_Alfur_v2 ref  Hvað  eru  mörg  kíló  í  hundrað  þúsund  sjö  hundruð  og  þremur  tonnum
+42_Alfur_v2 hyp  Hvað  eru  mörg  kíló  í  hundrað  þúsund  sjö  hundruð  og  þremur   tonn 
+42_Alfur_v2 op     C    C     C     C   C     C        C     C      C      C     C       S  
+42_Alfur_v2 #csid 11 1 0 0
+43_Rosa ref  Hvað  eru  margar  mílur  í  fimm  hundruð  og  sjö  þúsund  fjögur  hundruð  sjötíu  og  þrem  kílómetrum
+43_Rosa hyp  Hvað  eru  margar  mílur  í  fimm  hundruð  og  sjö  þúsund  fjögur  hundruð  sjötíu  og  þrem  kílómetrum
+43_Rosa op     C    C      C      C    C    C      C      C   C      C       C       C        C     C    C        C    
+43_Rosa #csid 16 0 0 0
+44_Dilja ref  Hvað  eru  áttatíu  og  átta  þúsund  og  átta  hundruð  og  tveir  lítrar  margir  sentilítrar
+44_Dilja hyp  Hvað  eru  áttatíu  og  átta  þúsund  og  átta  hundruð  og  tveir  lítrar  margir  sentilítrar
+44_Dilja op     C    C      C      C    C      C     C    C      C      C    C       C       C         C     
+44_Dilja #csid 14 0 0 0
+45_Bjartur ref  Hversu  mörg  pund  eru  í  níu  hundruð  og  sautján  þúsund  sex  hundruð  og  sextíu  grömmum
+45_Bjartur hyp  Hversu  mörg  pund  eru  í  níu  hundruð  og  sautján  þúsund  sex  hundruð  og  sextíu  grömmum
+45_Bjartur op      C      C     C    C   C   C      C      C     C        C     C      C      C     C       C   
+45_Bjartur #csid 15 0 0 0
+46_Alfur_v2 ref  Hversu  mörg  pund  eru  í  hundrað  áttatíu  og  eitt  þúsund  sex  hundruð  og  sextán  kílógrömmum
+46_Alfur_v2 hyp  Hversu  mörg  pund  eru  í  hundrað  áttatíu  og  eitt  þúsund  sex  hundruð  og  sextán     mílum   
+46_Alfur_v2 op      C      C     C    C   C     C        C      C    C      C     C      C      C     C         S     
+46_Alfur_v2 #csid 14 1 0 0
+47_Dilja ref  Hvað  eru   fimm  hundruð  fjörutíu  og  eitt  þúsund  átta  hundruð  og  átján  sjómílur  í  kílómetrum
+47_Dilja hyp  Hvað  eru  '***'   '***'   fjörutíu  og  eitt  þúsund  átta  hundruð  og  átján  sjómílum  í   kílómetra
+47_Dilja op     C    C     D       D         C      C    C      C      C      C      C    C        S     C       S    
+47_Dilja #csid 11 2 0 2
+48_Dilja_v2 ref  Hvað  er  fjögur  hundruð  fjörutíu  og  níu  þúsund  fjögur  hundruð  fjörutíu  og  ein  tomma  í  kílómetrum
+48_Dilja_v2 hyp  Hvað  er  fjögur  hundruð  fjörutíu  og  níu  þúsund  fjögur  hundruð  fjörutíu  og  ein  tomma  í  kílómetrum
+48_Dilja_v2 op     C    C     C       C         C      C   C      C       C       C         C      C   C     C    C       C    
+48_Dilja_v2 #csid 16 0 0 0
+49_Rosa ref  Hvað  eru  tvö  hundruð  níutíu  og  eitt  þúsund  og  sex  lítrar  í  könnum
+49_Rosa hyp  Hvað  eru  tvö  hundruð  níutíu  og  eitt  þúsund  og  sex  lítrar  í   '***'
+49_Rosa op     C    C    C      C        C     C    C      C     C   C      C    C     D  
+49_Rosa #csid 12 0 0 1
+50_Dilja_v2 ref  Breyttu  sex  hundruð  og  sex  þúsund  átta  hundruð  þrjátíu  og  fimm  kílógrömmum    í    grömm
+50_Dilja_v2 hyp  Breyttu  sex  hundruð  og  sex  þúsund  átta  hundruð  þrjátíu  og  fimm  kílógrömmum  '***'  '***'
+50_Dilja_v2 op      C      C      C      C   C      C      C      C        C      C    C        C         D      D  
+50_Dilja_v2 #csid 12 0 0 2
+51_Rosa ref  Hversu  marga  jamaíska  dali  fæ  ég  fyrir  sjö  hundruð  og  sextíu  þúsund  þrjú  hundruð  áttatíu  og  fjóra  svissneska  franka
+51_Rosa hyp  Hversu  marga  jamaíska  dali  fæ  ég  fyrir  sjö  hundruð  og    sex   þúsund  þrjú  hundruð  áttatíu  og  fjóra  svissneska  franka
+51_Rosa op      C      C        C       C    C   C    C     C      C      C     S       C      C      C        C      C    C         C         C  
+51_Rosa #csid 18 1 0 0
+52_Alfur ref  Breyttu  tvö  hundruð  og  fjörutíu  þúsund  eitt  hundrað  sextíu  og  einum  sentimetra    í    metra
+52_Alfur hyp  Breyttu  tvö  hundruð  og     tíu    þúsund  eitt  hundrað  sextíu  og  einum  sentimetra  '***'  '***'
+52_Alfur op      C      C      C      C      S        C      C      C        C     C    C         C        D      D  
+52_Alfur #csid 11 1 0 2
+53_Karl ref  Hvað  eru  margir  metrar  í  átta  hundruð  þrjátíu  og  fjögur  þúsund  sjö  hundruð  níutíu  og  þremur  fetum
+53_Karl hyp  Hvað  eru  margir  metrar  í  átta  hundruð  þrjátíu  og  fjögur  þúsund  sjö  hundruð  níutíu  og  þremur  fetum
+53_Karl op     C    C      C       C    C    C      C        C      C     C       C     C      C        C     C     C      C  
+53_Karl #csid 17 0 0 0
+54_Karl ref  Hvað  eru  mörg  kílógrömm  í  fimm  hundruð  sjötíu  og  fjögur  þúsund  fimm  hundruð  sextíu  og  þrem  tonnum
+54_Karl hyp  Hvað  eru  mörg  kílógrömm  í  fimm  hundruð  sjötíu  og  fjögur  þúsund  fimm  hundruð  sextíu  og  þrem   '***'
+54_Karl op     C    C     C       C      C    C      C        C     C     C       C      C      C        C     C    C      D  
+54_Karl #csid 16 0 0 1
+55_Karl ref  Breyttu  sex  hundruð  þrjátíu  og  fimm  þúsund  fimm  hundruð  og  fimm  tonnum    í    grömm
+55_Karl hyp  Breyttu  sex  hundruð  þrjátíu  og  fimm  þúsund  fimm  hundruð  og  fimm  tonnum  '***'  '***'
+55_Karl op      C      C      C        C      C    C      C      C      C      C    C      C      D      D  
+55_Karl #csid 12 0 0 2
+56_Bjartur ref  Breyttu  sjö  hundruð  níutíu  og  eitt  þúsund  sjö  hundruð  fimmtíu  og  fjórum  rúmmetrum  í  lítra
+56_Bjartur hyp  Breyttu  sjö  hundruð  níutíu  og  eitt  þúsund  sjö  hundruð  fimmtíu  og  fjórum  rúmmetrum  í  lítra
+56_Bjartur op      C      C      C        C     C    C      C     C      C        C      C     C        C      C    C  
+56_Bjartur #csid 15 0 0 0
+57_Rosa ref  Hvað  eru  mörg  kílógrömm  í  sex  hundruð  fimmtíu  og  eitt  þúsund  fjörutíu  og  átta  pundum
+57_Rosa hyp  Hvað  eru  mörg  kílógrömm  í  sex  hundruð  fimmtíu  og  eitt  þúsund  fjörutíu  og  átta   pund 
+57_Rosa op     C    C     C       C      C   C      C        C      C    C      C        C      C    C      S  
+57_Rosa #csid 14 1 0 0
+58_Dora ref  Breyttu  þrjú  hundruð  sextíu  og  níu  þúsund  níu  hundruð  fjörutíu  og  þrem  jamaískum  dölum  í  suðurkóresk  vonn
+58_Dora hyp  Breyttu  þrjú  hundruð  sextíu  og  níu  þúsund  níu  hundruð  fjörutíu  og  þrem  jamaískum  dölum  í  suðurkóresk  vonn
+58_Dora op      C       C      C        C     C   C      C     C      C         C      C    C       C        C    C       C         C 
+58_Dora #csid 17 0 0 0
+59_Karl ref  Hversu  marga  hong  kong  dali  fæ  ég  fyrir  sjö  hundruð  fimmtíu  og  átta  þúsund  níu  hundruð  og  sjötíu  svissneska  franka
+59_Karl hyp  Hversu  marga  hong  kong  dali  fæ  ég  fyrir  sjö  hundruð  fimmtíu  og  átta  þúsund  níu  hundruð  og  sjötíu  svissneska   '***'
+59_Karl op      C      C      C     C     C    C   C    C     C      C        C      C    C      C     C      C      C     C         C         D  
+59_Karl #csid 19 0 0 1
+60_Dilja_v2 ref  Hvað  er  margir  bollar  í  þrjú  hundruð  áttatíu  og  fimm  þúsund  sjö  hundruð  fimmtíu  og  einum  lítra
+60_Dilja_v2 hyp  Hvað  er  margir  bollar  í  þrjú  hundruð  áttatíu  og  fimm  þúsund  sjö  hundruð  fimmtíu  og  einum    í  
+60_Dilja_v2 op     C    C     C       C    C    C      C        C      C    C      C     C      C        C      C    C      S  
+60_Dilja_v2 #csid 16 1 0 0
+61_Alfur_v2 ref  Hvað  eru  átta  hundruð  áttatíu  og  fjögur  þúsund  fimm  hundruð  fjörutíu  og  tveir  jamaískir  dalir  í  tékkneskum  krónum
+61_Alfur_v2 hyp  Hvað  eru  átta  hundruð  áttatíu  og  fjögur  þúsund  fimm  hundruð  fjörutíu  og  tveir  jamaískir  dalir  í  tékkneskum  krónum
+61_Alfur_v2 op     C    C     C      C        C      C     C       C      C      C         C      C    C        C        C    C       C         C  
+61_Alfur_v2 #csid 18 0 0 0
+62_Bjartur ref  Hvað  eru  margar  matskeiðar  í  fimm  hundruð  sextíu  og  tvö  þúsund  tvö  hundruð  sjötíu  og  fimm  sentilítrum
+62_Bjartur hyp  Hvað  eru  margar  matskeiðar  í  fimm  hundruð  sextíu  og  tvö  þúsund  tvö  hundruð  sjötíu  og  fimm  sentilítrum
+62_Bjartur op     C    C      C         C      C    C      C        C     C   C      C     C      C        C     C    C        C     
+62_Bjartur #csid 17 0 0 0
+63_Alfur ref  Hversu  margar  rúpíur  fæ  ég  fyrir  níu  hundruð  tuttugu  og  eitt  þúsund  átta  hundruð  sjötíu  og  tvö  suðurafrísk   rönd
+63_Alfur hyp  Hversu  margar  rúpíur  fæ  ég  fyrir  níu  hundruð  tuttugu  og  eitt  þúsund  átta  hundruð  sjötíu  og  tvö  suðurafrísk  '***'
+63_Alfur op      C       C       C     C   C    C     C      C        C      C    C      C      C      C        C     C   C        C         D  
+63_Alfur #csid 18 0 0 1
+64_Karl ref  Hversu  margir  desilítrar  eru  í  átta  hundruð  áttatíu  og  níu  þúsund  fimm  hundruð  tuttugu  og  fimm  bollum
+64_Karl hyp  Hversu  margir  desilítrar  eru  í  átta  hundruð  áttatíu  og  níu  þúsund  fimm  hundruð  tuttugu  og  fimm    böt 
+64_Karl op      C       C         C       C   C    C      C        C      C   C      C      C      C        C      C    C      S  
+64_Karl #csid 16 1 0 0
+65_Dilja_v2 ref  Hvað  eru  mörg  grömm  í  tvö  hundruð  sextíu  og  sex  þúsund  sjö  hundruð  þrjátíu  og  sjö  tonnum
+65_Dilja_v2 hyp  Hvað  eru  mörg  grömm  í  tvö  hundruð  sextíu  og  sex  þúsund  sjö  hundruð  þrjátíu  og  sjö  tonnum
+65_Dilja_v2 op     C    C     C     C    C   C      C        C     C   C      C     C      C        C      C   C      C  
+65_Dilja_v2 #csid 17 0 0 0
+66_Rosa ref  Hversu  mörg  kínversk  júön  fæ  ég  fyrir  átta  hundruð  áttatíu  og  fjögur  þúsund  fimm  hundruð  og  átján  japönsk  jen
+66_Rosa hyp  Hversu  mörg  kínversk  júön  fæ  ég  fyrir  átta  hundruð  áttatíu  og  fjögur  þúsund  fimm  hundruð  og  átján  japönsk  jen
+66_Rosa op      C      C       C       C    C   C    C      C      C        C      C     C       C      C      C      C    C       C      C 
+66_Rosa #csid 19 0 0 0
+67_Dora ref  Hvað  eru  mörg  pint  í  sextíu  og  níu  þúsund  níu  hundruð  tuttugu  og  sex  únsum
+67_Dora hyp  Hvað  eru  mörg  pint  í  sextíu  og  níu  þúsund  níu  hundruð  tuttugu  og  sex  '***'
+67_Dora op     C    C     C     C   C     C     C   C      C     C      C        C      C   C     D  
+67_Dora #csid 14 0 0 1
+68_Dilja ref  Hversu  margar  teskeiðar  eru  í  þrjú  hundruð  tuttugu  og  sex  þúsund  níu  hundruð  tuttugu  og   þremur  könnum
+68_Dilja hyp  Hversu  margar  teskeiðar  eru  í  þrjú  hundruð  tuttugu  og  sex  þúsund  níu  hundruð  tuttugu  og  tveimur  könnum
+68_Dilja op      C       C        C       C   C    C      C        C      C   C      C     C      C        C      C     S        C  
+68_Dilja #csid 16 1 0 0
+69_Dilja_v2 ref  Hvað  eru  tuttugu  og  þrjú  þúsund  sjö  hundruð  níutíu  og  níu  siklar  í  krónum
+69_Dilja_v2 hyp  Hvað  eru  tuttugu  og  þrjú  þúsund  sjö  hundruð  níutíu  og  níu  siklar  í  krónum
+69_Dilja_v2 op     C    C      C      C    C      C     C      C        C     C   C      C    C     C  
+69_Dilja_v2 #csid 14 0 0 0
+70_Dilja ref  Breyttu  sextíu    og   níu  þúsund  fimmtíu  og  átta  milligrömmum  í  pund
+70_Dilja hyp  Breyttu   '***'  '***'  tíu  þúsund   '***'   og  átta  milligrömmum  í  pund
+70_Dilja op      C        D      D     S      C       D      C    C         C       C    C 
+70_Dilja #csid 7 1 0 3
+71_Dilja ref  Hvað  eru   tvö   hundruð    og   tólf  þúsund  sjö  hundruð  tuttugu  og  fjórir  lítrar  margir  pelar
+71_Dilja hyp  Hvað  eru  '***'   '***'   '***'  tólf  þúsund  sjö  hundruð  tuttugu  og  fjórir  lítrar  margir  pelar
+71_Dilja op     C    C     D       D       D      C      C     C      C        C      C     C       C       C      C  
+71_Dilja #csid 12 0 0 3
+72_Dora ref  Breyttu  fimm  hundruð  fjörutíu  og  níu  þúsund  sjö  hundruð  þrjátíu  og  sjö  tonnum    í     kíló
+72_Dora hyp  Breyttu  fimm  hundruð  fjörutíu  og  níu  þúsund  sjö  hundruð  þrjátíu  og  sjö  tonnum  '***'  '***'
+72_Dora op      C       C      C         C      C   C      C     C      C        C      C   C      C      D      D  
+72_Dora #csid 13 0 0 2
+73_Dora ref  Hvað  eru  hundrað  fimmtíu  og  þrjú  þúsund  átta  hundruð  og  tveir  metrar  margar  tommur
+73_Dora hyp  Hvað  eru  hundrað  fimmtíu  og  þrjú  þúsund  átta  hundruð  og  tveir  metrar  margar  tommur
+73_Dora op     C    C      C        C      C    C      C      C      C      C    C       C       C       C  
+73_Dora #csid 14 0 0 0
+74_Dilja_v2 ref  Hversu  margir  sentimetrar  eru  í  tvö  hundruð  níutíu  og  níu  þúsund  sex  hundruð  sextíu  og  fimm  metrum
+74_Dilja_v2 hyp  Hversu  margir  sentimetrar  eru  í  tvö  hundruð  níutíu  og  níu  þúsund  sex  hundruð  sextíu  og  fimm  metrum
+74_Dilja_v2 op      C       C         C        C   C   C      C        C     C   C      C     C      C        C     C    C      C  
+74_Dilja_v2 #csid 17 0 0 0
+75_Alfur_v2 ref  Hversu  margir  rúmmetrar  eru  í  sex  hundruð  tuttugu  og  fjögur  þúsund  sex  hundruð  fimmtíu  og  fimm  pelum
+75_Alfur_v2 hyp  Hversu  margir  rúmmetrar  eru  í  sex  hundruð  tuttugu  og  fjögur  þúsund  sex  hundruð  fimmtíu  og  fimm   pesa
+75_Alfur_v2 op      C       C        C       C   C   C      C        C      C     C       C     C      C        C      C    C     S  
+75_Alfur_v2 #csid 16 1 0 0
+76_Dilja_v2 ref  Breyttu  fimm  hundruð  og  tólf  þúsund  fimm  hundruð  fjörutíu  og  fjórum  millimetrum    í    mílur
+76_Dilja_v2 hyp  Breyttu  fimm  hundruð  og  tólf  þúsund  fimm  hundruð  fjörutíu  og  fjórum  millimetrum  '***'  '***'
+76_Dilja_v2 op      C       C      C      C    C      C      C      C         C      C     C         C         D      D  
+76_Dilja_v2 #csid 12 0 0 2
+77_Alfur_v2 ref  Hvað  eru  fimm  hundruð  fjörutíu  og  eitt  þúsund  sjö  hundruð  áttatíu  og  fjögur  fet  í  tommum
+77_Alfur_v2 hyp  Hvað  eru  fimm  hundruð  fjörutíu  og  eitt  þúsund  sjö  hundruð  áttatíu  og  fjögur  fet  í  tommum
+77_Alfur_v2 op     C    C     C      C         C      C    C      C     C      C        C      C     C     C   C     C  
+77_Alfur_v2 #csid 16 0 0 0
+78_Dilja_v2 ref  Hvað  eru  þrjú  hundruð  fimmtíu  og  tvö  þúsund  fjögur  hundruð  og  fjögur  pund  í  kílóum
+78_Dilja_v2 hyp  Hvað  eru  þrjú  hundruð  fimmtíu  og  tvö  þúsund  fjögur  hundruð  og  fjögur  pund  í  kílóum
+78_Dilja_v2 op     C    C     C      C        C      C   C      C       C       C      C     C      C   C     C  
+78_Dilja_v2 #csid 15 0 0 0
+79_Karl ref  Hvað  er  fimm  hundruð  og  nítján  þúsund  fjögur  hundruð  tuttugu  og  ein  tomma  margar  sjómílur
+79_Karl hyp  Hvað  er  fimm  hundruð  og  nítján  þúsund  fjögur  hundruð  tuttugu  og  ein  tomma  margar  sjómílur
+79_Karl op     C    C    C      C      C     C       C       C       C        C      C   C     C       C        C   
+79_Karl #csid 15 0 0 0
+80_Dora ref  Hvað  eru  fjögur  hundruð  sjötíu  og  sex  þúsund  þrjú  hundruð  og  tvær  tékkneskar  krónur  margar  ungverskar  fórintur
+80_Dora hyp  Hvað  eru  fjögur  hundruð  sjötíu  og  sex  þúsund  þrjú  hundruð  og  tvær  tékkneskar  krónur  margar  ungverskar  fórintur
+80_Dora op     C    C      C       C        C     C   C      C      C      C      C    C        C         C       C         C          C   
+80_Dora #csid 17 0 0 0
+81_Dora ref  Hvað  eru  fjögur  hundruð  áttatíu  og  sex  þúsund  sextíu  og  þrjú  fet  í  sentimetrum
+81_Dora hyp  Hvað  eru  fjögur  hundruð  áttatíu  og  sex  þúsund  sextíu  og  þrjú  fet  í  sentimetrum
+81_Dora op     C    C      C       C        C      C   C      C       C     C    C    C   C       C     
+81_Dora #csid 14 0 0 0
+82_Karl ref  Hvað  eru  hundrað  og  sextán  þúsund  sjö  hundruð  og  þrjár  matskeiðar  margir  rúmsentímetrar
+82_Karl hyp  Hvað  eru  hundrað  og  sextán  þúsund  sjö  hundruð  og  þrjár  matskeiðar  margir     rúmmetrar  
+82_Karl op     C    C      C      C     C       C     C      C      C    C         C         C           S      
+82_Karl #csid 12 1 0 0
+83_Rosa ref  Hvað  er  átta  hundruð  sextíu  og  fjögur  þúsund  tvö  hundruð  sextíu  og  eitt  pint  í  desilítrum
+83_Rosa hyp  Hvað  er  átta  hundruð  sextíu  og  fjögur  þúsund  tvö  hundruð  sextíu  og  eitt  pint  í  desilítrum
+83_Rosa op     C    C    C      C        C     C     C       C     C      C        C     C    C     C   C       C    
+83_Rosa #csid 16 0 0 0
+84_Alfur_v2 ref  Hversu  marga  pesa  fæ  ég  fyrir  átta  hundruð  fjörutíu  og  þrjú  þúsund  tvö  hundruð  tuttugu  og  tvo  jamaíska  dali
+84_Alfur_v2 hyp  Hversu  marga  pesa  fæ  ég  fyrir  átta  hundruð  fjörutíu  og  þrjú  þúsund  tvö  hundruð  tuttugu  og  tvo  jamaíska  dali
+84_Alfur_v2 op      C      C      C    C   C    C      C      C         C      C    C      C     C      C        C      C   C       C       C 
+84_Alfur_v2 #csid 19 0 0 0
+85_Dilja_v2 ref  Hvað  eru  margar  matskeiðar  í  sex  hundruð  og  þrettán  þúsund  fimmtíu  og  þremur  bollum
+85_Dilja_v2 hyp  Hvað  eru  margar  matskeiðar  í  sex  hundruð  og  þrettán  þúsund  fimmtíu  og  þremur  bollum
+85_Dilja_v2 op     C    C      C         C      C   C      C      C     C        C       C      C     C       C  
+85_Dilja_v2 #csid 14 0 0 0
+86_Rosa ref  Hversu  mörg  kínversk  júön  fæ  ég  fyrir  þrjátíu  og  fjögur  þúsund  átta  hundruð  áttatíu  og  einn  súrínamskan  dal
+86_Rosa hyp  Hversu  mörg  kínversk  júön  fæ  ég  fyrir  þrjátíu  og  fjögur  þúsund  átta  hundruð  áttatíu  og  einn  súrínamskan  dal
+86_Rosa op      C      C       C       C    C   C    C       C      C     C       C      C      C        C      C    C        C        C 
+86_Rosa #csid 18 0 0 0
+87_Alfur_v2 ref  Hversu  margir  sentilítrar  eru  í  þrjú  hundruð  og  tíu  þúsund  þrjú  hundruð  og  tveimur  únsum
+87_Alfur_v2 hyp  Hversu  margir  sentilítrar  eru  í  þrjú  hundruð  og  tíu  þúsund  þrjú  hundruð  og  tveimur  '***'
+87_Alfur_v2 op      C       C         C        C   C    C      C      C   C      C      C      C      C     C       D  
+87_Alfur_v2 #csid 14 0 0 1
+88_Bjartur ref  Hvað  eru  áttatíu  og  sex  þúsund  og  níu  hundruð  og  níu  tonn  mörg  grömm
+88_Bjartur hyp  Hvað  eru  áttatíu  og  sex  þúsund  og  níu  hundruð  og  níu  tonn  mörg   pund
+88_Bjartur op     C    C      C      C   C      C     C   C      C      C   C     C     C     S  
+88_Bjartur #csid 13 1 0 0
+89_Bjartur ref  Hvað  eru  sex  hundruð  níutíu  og  níu  þúsund  fimm  hundruð  fimmtíu  og  sjö  teskeiðar  margar  únsur
+89_Bjartur hyp  Hvað  eru  sex  hundruð  níutíu  og  níu  þúsund  fimm  hundruð  fimmtíu  og  sjö  teskeiðar  margar  únsur
+89_Bjartur op     C    C    C      C        C     C   C      C      C      C        C      C   C       C         C      C  
+89_Bjartur #csid 16 0 0 0
+90_Dilja_v2 ref  Breyttu  tvö  hundruð  fimmtíu  og  tvö  þúsund  fjögur  hundruð  níutíu  og  níu  nýsjálenskum  dölum  í  lírur
+90_Dilja_v2 hyp  Breyttu  tvö  hundruð  fimmtíu  og  tvö  þúsund  fjögur  hundruð  níutíu  og  níu  nýsjálenskum  dölum  í   jen 
+90_Dilja_v2 op      C      C      C        C      C   C      C       C       C        C     C   C         C         C    C    S  
+90_Dilja_v2 #csid 15 1 0 0
+91_Bjartur ref  Hversu  margar  tommur  eru  í  sex  hundruð  og  sjötíu  þúsund  þrjú  hundruð  þrjátíu  og  sex  kílómetrum
+91_Bjartur hyp  Hversu  margar  tommur  eru  í  sex  hundruð  og  sjötíu  þúsund  þrjú  hundruð  þrjátíu  og  sex  kílómetrum
+91_Bjartur op      C       C       C     C   C   C      C      C     C       C      C      C        C      C   C        C    
+91_Bjartur #csid 16 0 0 0
+92_Rosa ref  Hvað   er   þrjú   hundruð  sextíu  og  sjö  þúsund  þrjú  hundruð  og  eitt  pint  í  könnum
+92_Rosa hyp  Hvað  eru  fjögur  hundruð  sextíu  og  sjö  þúsund  þrjú  hundruð  og  eitt  pint  í  könnum
+92_Rosa op     C    S      S       C        C     C   C      C      C      C      C    C     C   C     C  
+92_Rosa #csid 13 2 0 0
+93_Rosa ref  Hvað  eru  þrjú  hundruð  sjötíu  og  átta  þúsund  sex  hundruð  fimmtíu  og  tvö  pint  margar  matskeiðar
+93_Rosa hyp  Hvað  eru  þrjú  hundruð  sjötíu  og  átta  þúsund  sex  hundruð  fimmtíu  og  tvö  pint  margar  matskeiðar
+93_Rosa op     C    C     C      C        C     C    C      C     C      C        C      C   C     C      C         C    
+93_Rosa #csid 16 0 0 0
+94_Rosa ref  Breyttu  sjö  hundruð  þrjátíu  og  eitt  þúsund  sjötíu  og  fimm  únsum  í  pint
+94_Rosa hyp  Breyttu  sjö  hundruð  þrjátíu  og  eitt  þúsund  sjötíu  og  fimm  únsum  í  pint
+94_Rosa op      C      C      C        C      C    C      C       C     C    C     C    C    C 
+94_Rosa #csid 13 0 0 0
+95_Alfur ref  Hvað  eru  margir  sentimetrar  í  níu  hundruð  sextíu  og  tvö  þúsund  tvö  hundruð  og   tólf  tommum
+95_Alfur hyp  Hvað  eru  margir  sentimetrar  í  níu  hundruð  sextíu  og  tvö  þúsund  tvö  hundruð  og  '***'    tvo 
+95_Alfur op     C    C      C         C       C   C      C        C     C   C      C     C      C      C    D       S  
+95_Alfur #csid 14 1 0 1
+96_Alfur_v2 ref  Hversu  margir  sentimetrar  eru  í  átta  hundruð  og  áttatíu  þúsund  sjö  hundruð  þrjátíu  og  þremur  fetum
+96_Alfur_v2 hyp  Hversu  margir  sentimetrar  eru  í  átta  hundruð  og  áttatíu  þúsund  sjö  hundruð  þrjátíu  og  þremur  fetum
+96_Alfur_v2 op      C       C         C        C   C    C      C      C     C        C     C      C        C      C     C      C  
+96_Alfur_v2 #csid 16 0 0 0
+97_Alfur ref  Hvað  eru  þrjú  hundruð  þrjátíu  og  fjögur  þúsund  sex  hundruð  níutíu  og  þrír  millimetrar    í      sjómílum 
+97_Alfur hyp  Hvað  eru  þrjú  hundruð  þrjátíu  og  fjögur  þúsund  sex  hundruð  níutíu  og  þrír     '***'     '***'  millimetrum
+97_Alfur op     C    C     C      C        C      C     C       C     C      C        C     C    C        D         D         S     
+97_Alfur #csid 13 1 0 2
+98_Alfur ref  Hvað  eru  mörg  kílógrömm  í   fimm  hundruð  fimmtíu  og  fimm  þúsund  átta  hundruð  og  fjórum  milligrömmum
+98_Alfur hyp  Hvað  eru  mörg  kílógrömm  í  '***'  hundrað  fimmtíu  og  fimm  þúsund  átta  hundruð  og  fjórum      mílum   
+98_Alfur op     C    C     C       C      C    D       S        C      C    C      C      C      C      C     C          S     
+98_Alfur #csid 13 2 0 1
+99_Dilja ref  Hversu  margir  desilítrar  eru  í  tvö  hundruð  og  tvö  þúsund  fimm  hundruð  og  fjörutíu  könnum
+99_Dilja hyp  Hversu   mörg      grömm    eru  í  tvö  hundruð  og  tvö  þúsund  fimm  hundruð  og     tíu    könnum
+99_Dilja op      C       S         S       C   C   C      C      C   C      C      C      C      C      S        C  
+99_Dilja #csid 12 3 0 0
+100_Bjartur ref  Hversu  mörg  lef  fæ  ég  fyrir  sjö  hundruð  sjötíu  og  fjögur  þúsund  átta  hundruð  og  þrjú  kínversk  júön
+100_Bjartur hyp  Hversu  mörg  lef  fæ  ég  fyrir  sjö  hundruð  sjötíu  og  fjögur  þúsund  átta  hundruð  og  þrjú  kínversk  júön
+100_Bjartur op      C      C    C    C   C    C     C      C        C     C     C       C      C      C      C    C       C       C 
+100_Bjartur #csid 18 0 0 0
+101_Karl ref  Breyttu  sjö  hundruð  sextíu  og  fimm  þúsund  fimm  hundruð  níutíu  og  fjórum  suðurafrískum  röndum  í  evrur
+101_Karl hyp  Breyttu  sjö  hundruð  sextíu  og  fimm  þúsund  fimm  hundruð  níutíu  og  fjórum  suðurafrískum  röndum  í  '***'
+101_Karl op      C      C      C        C     C    C      C      C      C        C     C     C          C           C    C    D  
+101_Karl #csid 15 0 0 1
+102_Dilja_v2 ref  Hvað  eru  mörg  kíló  í  fjögur  hundruð  áttatíu  og  eitt  þúsund  átta  hundruð  fjörutíu  og  níu  pundum
+102_Dilja_v2 hyp  Hvað  eru  mörg  kíló  í  fjögur  hundruð  áttatíu  og  eitt  þúsund  átta  hundruð  fjörutíu  og  níu   pund 
+102_Dilja_v2 op     C    C     C     C   C     C       C        C      C    C      C      C      C         C      C   C      S  
+102_Dilja_v2 #csid 16 1 0 0
+103_Alfur_v2 ref  Breyttu  fjögur  hundruð  fjörutíu  og  þrjú  þúsund  tvö  hundruð  sextíu  og  einu  feti  í  sentimetra
+103_Alfur_v2 hyp  Breyttu  fjögur  hundruð  fjörutíu  og  þrjú  þúsund  tvö  hundruð  sextíu  og  einu  feti  í  sentimetra
+103_Alfur_v2 op      C        C       C         C      C    C      C     C      C        C     C    C     C   C       C    
+103_Alfur_v2 #csid 15 0 0 0
+104_Karl ref  Hvað   er  tvö  hundruð  sextíu  og  fjögur  þúsund  sex  hundruð  fjörutíu  og  ein  kanna  í  matskeiðum
+104_Karl hyp  Hvað  eru  tvö  hundruð  sextíu  og  fjögur  þúsund  sex  hundruð  fjörutíu  og  ein  kanna  í   matskeið 
+104_Karl op     C    S    C      C        C     C     C       C     C      C         C      C   C     C    C       S    
+104_Karl #csid 14 2 0 0
+105_Rosa ref  Hvað  eru  átta  hundruð  níutíu  og  fimm  þúsund  níu  hundruð  níutíu  og  fjögur  sterlingspund  í  siklum
+105_Rosa hyp  Hvað  eru  átta  hundruð  níutíu  og  fimm  þúsund  níu  hundruð  níutíu  og  fjögur  sterlingspund  í  siklum
+105_Rosa op     C    C     C      C        C     C    C      C     C      C        C     C     C          C        C     C  
+105_Rosa #csid 16 0 0 0
+106_Bjartur ref  Hvað  eru  níu  hundruð  níutíu  og  fimm  þúsund  þrjú  hundruð  og  áttatíu  grömm  mörg  kíló
+106_Bjartur hyp  Hvað  eru  níu  hundruð  níutíu  og  fimm  þúsund  þrjú  hundruð  og  áttatíu  grömm  mörg  kíló
+106_Bjartur op     C    C    C      C        C     C    C      C      C      C      C     C       C      C     C 
+106_Bjartur #csid 15 0 0 0
+107_Bjartur ref  Hversu  margar  tommur  eru  í  tvö  hundruð  þrjátíu  og  eitt  þúsund  níu  hundruð  sjötíu  og  fjórum  fetum
+107_Bjartur hyp  Hversu  margar  tommur  eru  í  tvö  hundruð  þrjátíu  og  eitt  þúsund  níu  hundruð  sjötíu  og  fjórum  fetum
+107_Bjartur op      C       C       C     C   C   C      C        C      C    C      C     C      C        C     C     C      C  
+107_Bjartur #csid 17 0 0 0
+108_Rosa ref  Hversu  mörg  milligrömm  eru  í  fimm  hundruð  og  tólf  þúsund  sex  hundruð  sextíu  og  fjórum  grömmum
+108_Rosa hyp  Hversu  mörg  milligrömm  eru  í  fimm  hundruð  og  tólf  þúsund  sex  hundruð  sextíu  og  fjórum  grömmum
+108_Rosa op      C      C        C       C   C    C      C      C    C      C     C      C        C     C     C       C   
+108_Rosa #csid 16 0 0 0
+109_Bjartur ref  Hvað  eru  sjö  hundruð  tuttugu  og  tvö  þúsund  sjö  hundruð  fjörutíu  og  níu  lef  í  sænskum  krónum
+109_Bjartur hyp  Hvað  eru  sjö  hundruð  tuttugu  og  tvö  þúsund  sjö  hundruð  fjörutíu  og  níu  lef  í  sænskum  krónum
+109_Bjartur op     C    C    C      C        C      C   C      C     C      C         C      C   C    C   C     C        C  
+109_Bjartur #csid 17 0 0 0
+110_Dilja ref  Hversu  margir  kílómetrar  eru  í  átta  hundruð  og  þrjátíu  þúsund  tvö  hundruð  níutíu  og  tveim  fetum
+110_Dilja hyp  Hversu   mörg      kíló     eru  í  átta  hundruð  og  þrjátíu  þúsund  tvö  hundruð  níutíu  og  tveim  fetum
+110_Dilja op      C       S         S       C   C    C      C      C     C        C     C      C        C     C    C      C  
+110_Dilja #csid 14 2 0 0
+111_Dilja ref  Hvað  eru  níu  hundruð  sextíu  og  sjö  þúsund  níu  hundruð  fjörutíu  og  sex  teskeiðar  í  rúmsentimetrum
+111_Dilja hyp  Hvað  eru  níu  hundruð  sextíu  og  sjö  þúsund  níu  hundruð  fjörutíu  og  sex  teskeiðar  í       únsum    
+111_Dilja op     C    C    C      C        C     C   C      C     C      C         C      C   C       C      C         S      
+111_Dilja #csid 15 1 0 0
+112_Dilja_v2 ref  Hvað  eru  margar  sjómílur  í  fimmtíu  og  þrjú  þúsund  átta  hundruð  áttatíu  og  tveim  kílómetrum
+112_Dilja_v2 hyp  Hvað  eru  margar  sjómílur  í  fimmtíu  og  þrjú  þúsund  átta  hundruð  áttatíu  og  tveim  kílómetrum
+112_Dilja_v2 op     C    C      C        C     C     C      C    C      C      C      C        C      C    C         C    
+112_Dilja_v2 #csid 15 0 0 0
+113_Dora ref  Hversu  margir  desilítrar  eru  í  átta  hundruð  tuttugu  og  tveim  pintum
+113_Dora hyp  Hversu  margir  desilítrar  eru  í  átta  hundruð  tuttugu  og  tveim   pelum
+113_Dora op      C       C         C       C   C    C      C        C      C    C       S  
+113_Dora #csid 10 1 0 0
+114_Karl ref  Hvað  eru  margir  kílómetrar  í  átta  hundruð  fjörutíu  og  tvö  þúsund  tvö  hundruð  tuttugu  og  sjö  tommum
+114_Karl hyp  Hvað  eru  margir  kílómetrar  í  átta  hundruð  fjörutíu  og  tvö  þúsund  tvö  hundruð  tuttugu  og  sjö   '***'
+114_Karl op     C    C      C         C      C    C      C         C      C   C      C     C      C        C      C   C      D  
+114_Karl #csid 16 0 0 1
+115_Rosa ref  Breyttu  átta  hundruð  og  þrettán  þúsund  sjö  hundruð  og  tveimur  sjómílum    í    tommur
+115_Rosa hyp  Breyttu  átta  hundruð  og  þrettán  þúsund  sjö  hundruð  og  tveimur  sjómílum  '***'   '***'
+115_Rosa op      C       C      C      C     C        C     C      C      C     C         C       D       D  
+115_Rosa #csid 11 0 0 2
+116_Karl ref  Breyttu  þrjú  hundruð  og  fjörutíu  þúsund  fjögur  hundruð  og  þrjátíu  súrínömskum  dölum  í  japönsk  jen
+116_Karl hyp  Breyttu  þrjú  hundruð  og  fjörutíu  þúsund  fjögur  hundruð  og  þrjátíu  súrínömskum  dölum  í  japönsk  jen
+116_Karl op      C       C      C      C      C        C       C       C      C     C          C         C    C     C      C 
+116_Karl #csid 15 0 0 0
+117_Dilja ref  Hversu  margar  könnur  eru  í  átta  hundruð  níutíu  og  tvö  þúsund  sex  hundruð  þrjátíu  og  níu  matskeiðum
+117_Dilja hyp  Hversu  margar  könnur  eru  í  átta  hundruð  níutíu  og  tvö  þúsund  sex  hundruð  þrjátíu  og  níu  matskeiðum
+117_Dilja op      C       C       C     C   C    C      C        C     C   C      C     C      C        C      C   C        C    
+117_Dilja #csid 17 0 0 0
+118_Bjartur ref  Breyttu  átta  hundruð  fjörutíu  og  átta  þúsund  þrjú  hundruð  sjötíu  og  þremur  evrum  í  pólsk  slot
+118_Bjartur hyp  Breyttu  átta  hundruð  fjörutíu  og  átta  þúsund  þrjú  hundruð  sjötíu  og  þremur  evrum  í  pólsk  slot
+118_Bjartur op      C       C      C         C      C    C      C      C      C        C     C     C      C    C    C      C 
+118_Bjartur #csid 16 0 0 0
+119_Dilja_v2 ref  Hversu  margir  sentilítrar  eru  í  átta  hundruð  og  níutíu  þúsund  sjö  hundruð  sextíu  og  einu  pinti
+119_Dilja_v2 hyp  Hversu  margir  sentilítrar  eru  í  átta  hundruð  og  níutíu  þúsund  sjö  hundruð  sextíu  og  einu  pinti
+119_Dilja_v2 op      C       C         C        C   C    C      C      C     C       C     C      C        C     C    C     C  
+119_Dilja_v2 #csid 16 0 0 0
+120_Alfur_v2 ref  Hvað  eru  mörg  grömm  í  átta  hundruð  og  tvö  þúsund  áttatíu  og  þremur  pundum
+120_Alfur_v2 hyp  Hvað  eru  mörg  grömm  í  átta  hundruð  og  tvö  þúsund  áttatíu  og  þremur  pundum
+120_Alfur_v2 op     C    C     C     C    C    C      C      C   C      C       C      C     C       C  
+120_Alfur_v2 #csid 14 0 0 0
+121_Rosa ref  Breyttu  fjögur  hundruð  og  níu  þúsund  níu  hundruð  áttatíu  og   þrem  rúpíum     í      slot
+121_Rosa hyp  Breyttu  fjögur  hundruð  og  níu  þúsund  níu  hundruð  áttatíu  og  '***'   '***'  tveimur  pelum
+121_Rosa op      C        C       C      C   C      C     C      C        C      C    D       D       S       S  
+121_Rosa #csid 10 2 0 2
+122_Karl ref  Hversu  mörg  tonn  eru  í  sex  hundruð  fimmtíu  og  eitt  þúsund  tvö  hundruð  tuttugu  og  átta  grömmum
+122_Karl hyp  Hversu  mörg  tonn  eru  í  sex  hundruð  fimmtíu  og  eitt  þúsund  tvö  hundruð  tuttugu  og  átta  grömmum
+122_Karl op      C      C     C    C   C   C      C        C      C    C      C     C      C        C      C    C      C   
+122_Karl #csid 17 0 0 0
+123_Alfur ref  Hvað  er  átta  hundruð  sjötíu  og  átta  þúsund  eitt  hundrað  tuttugu  og  eitt  milligramm  mörg  pund
+123_Alfur hyp  Hvað  er  átta  hundruð  sjötíu  og  átta  þúsund  eitt  hundrað  tuttugu  og  eitt  milligramm  mörg  pund
+123_Alfur op     C    C    C      C        C     C    C      C      C      C        C      C    C        C        C     C 
+123_Alfur #csid 16 0 0 0
+124_Alfur_v2 ref  Hvað  eru  átta  hundruð  þrjátíu  og  tvö  þúsund  sex  hundruð  sextíu  og  þrír  siklar  mörg  júön
+124_Alfur_v2 hyp  Hvað  eru  átta  hundruð  þrjátíu  og  tvö  þúsund  sex  hundruð  sextíu  og  þrír  siklar  mörg  júön
+124_Alfur_v2 op     C    C     C      C        C      C   C      C     C      C        C     C    C      C      C     C 
+124_Alfur_v2 #csid 16 0 0 0
+125_Alfur_v2 ref  Breyttu  sjötíu  og  fimm  þúsund  sjö  hundruð  sjötíu  og  fjórum  únsum    í    teskeiðar
+125_Alfur_v2 hyp  Breyttu  sjötíu  og  fimm  þúsund  sjö  hundruð  sjötíu  og  fjórum  únsum  '***'    '***'  
+125_Alfur_v2 op      C        C     C    C      C     C      C        C     C     C      C      D        D    
+125_Alfur_v2 #csid 11 0 0 2
+126_Karl ref  Hvað  eru  þrjú  hundruð  sjötíu  og  fjögur  þúsund  fjögur  hundruð  sextíu  og  fjórar  könnur  margir  pelar
+126_Karl hyp  Hvað  eru  þrjú  hundruð  sjötíu  og  fjögur  þúsund  fjögur  hundruð  sextíu  og  fjórar  könnur  margir  '***'
+126_Karl op     C    C     C      C        C     C     C       C       C       C        C     C     C       C       C      D  
+126_Karl #csid 15 0 0 1
+127_Bjartur ref  Hvað  er  sjö  hundruð  áttatíu  og  tvö  þúsund  fimm  hundruð  þrjátíu  og  eitt  kílógramm  mörg  tonn
+127_Bjartur hyp  Hvað  er  sjö  hundruð  áttatíu  og  tvö  þúsund  fimm  hundruð  þrjátíu  og  eitt  kílógramm  mörg  tonn
+127_Bjartur op     C    C   C      C        C      C   C      C      C      C        C      C    C       C        C     C 
+127_Bjartur #csid 16 0 0 0
+128_Dora ref  Breyttu  sex  hundruð  fimmtíu  og  eitt  þúsund  fimm  hundruð  áttatíu  og  þremur  könnum  í  matskeiðar
+128_Dora hyp  Breyttu  sex  hundruð  fimmtíu  og  eitt  þúsund  fimm  hundruð  áttatíu  og  þremur  könnum  í  matskeiðar
+128_Dora op      C      C      C        C      C    C      C      C      C        C      C     C       C    C       C    
+128_Dora #csid 15 0 0 0
+129_Dora ref  Hversu  margir  rúmsentímetrar  eru  í  fimmtíu  og  þrjú  þúsund  tvö  hundruð  níutíu  og  sjö  matskeiðum
+129_Dora hyp  Hversu  margir  rúmsentímetrar  eru  í  fimmtíu  og  þrjú  þúsund  tvö  hundruð  níutíu  og  sjö     '***'  
+129_Dora op      C       C           C         C   C     C      C    C      C     C      C        C     C   C        D    
+129_Dora #csid 14 0 0 1
+130_Dilja ref  Hvað  eru  margir  millimetrar  í  hundrað  og  fjögur  þúsund   þrjú   hundruð  sextíu  og   þrem  fetum
+130_Dilja hyp  Hvað  eru  margir  millimetrar  í  hundrað  og  fjögur  þúsund  fjögur  hundruð  sextíu  og  tveim  fetum
+130_Dilja op     C    C      C         C       C     C      C     C       C       S       C        C     C    S      C  
+130_Dilja #csid 13 2 0 0
+131_Rosa ref  Hvað  eru  átta  hundruð  sjötíu  og  sjö  þúsund  áttatíu  og  fjögur  sterlingspund  í  pundum
+131_Rosa hyp  Hvað  eru  átta  hundruð  sjötíu  og  sjö  þúsund  áttatíu  og  fjögur  sterlingspund  í  pundum
+131_Rosa op     C    C     C      C        C     C   C      C       C      C     C          C        C     C  
+131_Rosa #csid 14 0 0 0
+132_Rosa ref  Breyttu  níu  hundruð  tuttugu  og   þrjú   þúsund  sjö  hundruð  sjötíu  og  fimm  millimetrum  í  metra
+132_Rosa hyp  Breyttu  níu  hundruð  tuttugu  og  fjögur  þúsund  sjö  hundruð  sjötíu  og  fimm  millimetrum  í   fet 
+132_Rosa op      C      C      C        C      C     S       C     C      C        C     C    C        C       C    S  
+132_Rosa #csid 13 2 0 0
+133_Karl ref  Hvað  eru  mörg  fet  í  sjö  hundruð  þrjátíu  og  fimm  þúsund  átta  hundruð  þrjátíu  og  sex  sentimetrum
+133_Karl hyp  Hvað  eru  mörg  fet  í  sjö  hundruð  þrjátíu  og  fimm  þúsund  átta  hundruð  þrjátíu  og  sex     '***'   
+133_Karl op     C    C     C    C   C   C      C        C      C    C      C      C      C        C      C   C        D     
+133_Karl #csid 16 0 0 1
+134_Dora ref  Hversu  mörg  tonn  eru  í  fimm  hundruð  tuttugu  og  fimm  þúsund  þrjú  hundruð  níutíu  og  þremur  pundum
+134_Dora hyp  Hversu  mörg  tonn  eru  í  fimm  hundruð  tuttugu  og  fimm  þúsund  þrjú  hundruð  níutíu  og  þremur   pelum
+134_Dora op      C      C     C    C   C    C      C        C      C    C      C      C      C        C     C     C       S  
+134_Dora #csid 16 1 0 0
+135_Dilja_v2 ref  Breyttu  tvö  hundruð  níutíu  og  þrjú  þúsund  eitt  hundrað  fjörutíu  og  tveim  sádiarabískum  ríölum  í  suðurkóresk  vonn
+135_Dilja_v2 hyp  Breyttu  tvö  hundruð  níutíu  og  þrjú  þúsund  eitt  hundrað  fjörutíu  og  tveim  sádiarabískum  ríölum  í  suðurkóresk  vonn
+135_Dilja_v2 op      C      C      C        C     C    C      C      C      C         C      C    C          C           C    C       C         C 
+135_Dilja_v2 #csid 17 0 0 0
+136_Bjartur ref  Breyttu  hundrað  sextíu  og  fjögur  þúsund  þrjú  hundruð  tuttugu  og  fjórum  tyrkneskum  lírum  í  króatískar  kúnur
+136_Bjartur hyp  Breyttu  hundrað  sextíu  og  fjögur  þúsund  þrjú  hundruð  tuttugu  og  fjórum  tyrkneskum  lírum  í  króatískar  kúnur
+136_Bjartur op      C        C        C     C     C       C      C      C        C      C     C         C        C    C       C        C  
+136_Bjartur #csid 16 0 0 0
+137_Dora ref  Hvað  eru  sjö  hundruð  níutíu  og  sjö  þúsund  fjörutíu  og  fjórir  desilítrar  í  rúmsentimetrum
+137_Dora hyp  Hvað  eru  sjö  hundruð  níutíu  og  sjö  þúsund  fjörutíu  og  fjórir  desilítrar  í       únsum    
+137_Dora op     C    C    C      C        C     C   C      C        C      C     C         C      C         S      
+137_Dora #csid 13 1 0 0
+138_Alfur ref  Hvað  eru  sjö  hundruð  áttatíu  og  fjögur  þúsund  þrjú  hundruð  áttatíu  og  fimm  sjómílur    í      mílum 
+138_Alfur hyp  Hvað  eru  sjö  hundruð  áttatíu  og  fjögur  þúsund  þrjú  hundruð  áttatíu  og  fimm    '***'   '***'  sjómílum
+138_Alfur op     C    C    C      C        C      C     C       C      C      C        C      C    C       D       D        S   
+138_Alfur #csid 13 1 0 2
+139_Alfur_v2 ref  Hvað  eru  tvö  hundruð  og  tvö  þúsund  sjö  hundruð  þrjátíu  og  tveir  jamaískir  dalir  í  jenum
+139_Alfur_v2 hyp  Hvað  eru  tvö  hundruð  og  tvö  þúsund  sjö  hundruð  þrjátíu  og  tveir  jamaískir  dalir  í   jen 
+139_Alfur_v2 op     C    C    C      C      C   C      C     C      C        C      C    C        C        C    C    S  
+139_Alfur_v2 #csid 15 1 0 0
+140_Bjartur ref  Hvað  eru  mörg  pint  í  átta  hundruð  fimmtíu  og  sex  þúsund  fjögur  hundruð  tuttugu  og  sex  desilítrum
+140_Bjartur hyp  Hvað  eru  mörg  pint  í  átta  hundruð  fimmtíu  og  sex  þúsund  fjögur  hundruð  tuttugu  og  sex  desilítrum
+140_Bjartur op     C    C     C     C   C    C      C        C      C   C      C       C       C        C      C   C        C    
+140_Bjartur #csid 17 0 0 0
+141_Dilja ref  Hvað  eru   mörg   fet     í    fjögur  hundruð  þúsund  sjö  hundruð  og  níutíu  sentimetrum
+141_Dilja hyp  Hvað  eru  '***'  '***'  '***'  fjögur  hundruð  þúsund  sjö  hundruð  og  níutíu  sentimetrum
+141_Dilja op     C    C     D      D      D       C       C        C     C      C      C     C         C     
+141_Dilja #csid 10 0 0 3
+142_Rosa ref  Hvað  eru  tvö  hundruð  sextíu  og  níu  þúsund  áttatíu  og  fjögur  fet  margar  tommur
+142_Rosa hyp  Hvað  eru  tvö  hundruð  sextíu  og  níu  þúsund  áttatíu  og  fjögur  fet  margar  tommur
+142_Rosa op     C    C    C      C        C     C   C      C       C      C     C     C      C       C  
+142_Rosa #csid 14 0 0 0
+143_Dilja_v2 ref  Hvað  eru  fimmtíu  og  níu  þúsund  fjögur  hundruð  þrjátíu  og  tvær  könnur  í  lítrum
+143_Dilja_v2 hyp  Hvað  eru  fimmtíu  og  níu  þúsund  fjögur  hundruð  þrjátíu  og  tvær  könnur  í   pelum
+143_Dilja_v2 op     C    C      C      C   C      C       C       C        C      C    C      C    C     S  
+143_Dilja_v2 #csid 13 1 0 0
+144_Dilja ref  Hvað  eru  átta  hundruð  þrjátíu  og  eitt  þúsund  tvö  hundruð  fimmtíu  og  tveir  kílómetrar  margir  sentimetrar
+144_Dilja hyp  Hvað  eru  átta  hundruð  þrjátíu  og  eitt  þúsund  tvö  hundruð  fimmtíu  og  tveir  kílómetrar  margir  sentimetrar
+144_Dilja op     C    C     C      C        C      C    C      C     C      C        C      C    C         C         C         C     
+144_Dilja #csid 16 0 0 0
+145_Dilja_v2 ref  Breyttu  níu  hundruð  fimmtíu  og  eitt  þúsund  níutíu  og  einni  sjómílu    í     fet 
+145_Dilja_v2 hyp  Breyttu  níu  hundruð  fimmtíu  og  eitt  þúsund  níutíu  og  einni  sjómílu  '***'  '***'
+145_Dilja_v2 op      C      C      C        C      C    C      C       C     C    C       C       D      D  
+145_Dilja_v2 #csid 11 0 0 2
+146_Dilja_v2 ref  Hvað  eru  níu  hundruð  sjötíu  og  átta  þúsund  þrjú  hundruð  þrjátíu  og  níu  pund   mörg  grömm
+146_Dilja_v2 hyp  Hvað  eru  níu  hundruð  sjötíu  og  átta  þúsund  þrjú  hundruð  þrjátíu  og  níu  pund  '***'  '***'
+146_Dilja_v2 op     C    C    C      C        C     C    C      C      C      C        C      C   C     C     D      D  
+146_Dilja_v2 #csid 14 0 0 2
+147_Dilja_v2 ref  Hvað  eru  margir  kílómetrar  í  fimm  hundruð  áttatíu  og  eitt  þúsund  fjögur  hundruð  fjörutíu  og  þremur  sentimetrum
+147_Dilja_v2 hyp  Hvað  eru  margir  kílómetrar  í  fimm  hundruð  áttatíu  og  eitt  þúsund  fjögur  hundruð  fjörutíu  og  þremur  sentimetrum
+147_Dilja_v2 op     C    C      C         C      C    C      C        C      C    C      C       C       C         C      C     C         C     
+147_Dilja_v2 #csid 17 0 0 0
+148_Bjartur ref  Hversu  margir  millimetrar  eru  í  átta  hundruð  fjörutíu  og  átta  þúsund  sex  hundruð  áttatíu  og  þrem  fetum
+148_Bjartur hyp  Hversu  margir  millimetrar  eru  í  átta  hundruð  fjörutíu  og  átta  þúsund  sex  hundruð  áttatíu  og  þrem  fetum
+148_Bjartur op      C       C         C        C   C    C      C         C      C    C      C     C      C        C      C    C     C  
+148_Bjartur #csid 17 0 0 0
+149_Dilja_v2 ref  Hvað  eru  margar  únsur  í  þrjú  hundruð  og  tuttugu  þúsund  fimm  hundruð  áttatíu  og  fjórum  pintum
+149_Dilja_v2 hyp  Hvað  eru  margar  únsur  í  þrjú  hundruð  og  tuttugu  þúsund  fimm  hundruð  áttatíu  og  fjórum  pintum
+149_Dilja_v2 op     C    C      C      C    C    C      C      C     C        C      C      C        C      C     C       C  
+149_Dilja_v2 #csid 16 0 0 0
+150_Dilja_v2 ref  Breyttu  hundrað  þrjátíu  og  sjö  þúsund  sjö  hundruð  þrjátíu  og  fimm  tonnum  í  grömm
+150_Dilja_v2 hyp  Breyttu  hundrað  þrjátíu  og  sjö  þúsund  sjö  hundruð  þrjátíu  og  fimm  tonnum  í  grömm
+150_Dilja_v2 op      C        C        C      C   C      C     C      C        C      C    C      C    C    C  
+150_Dilja_v2 #csid 14 0 0 0
+151_Dora ref  Breyttu  þrjú  hundruð  og  átján  þúsund  sjö  hundruð  fjörutíu  og  fjórum  áströlskum  dölum  í  sænskar  krónur
+151_Dora hyp  Breyttu  þrjú  hundruð  og  átján  þúsund  sjö  hundruð  fjörutíu  og  fjórum  áströlskum  dölum  í  sænskar  krónur
+151_Dora op      C       C      C      C    C       C     C      C         C      C     C         C        C    C     C        C  
+151_Dora #csid 16 0 0 0
+152_Alfur ref  Hvað  eru  þrjú  hundruð  þrjátíu  og  þrjú  þúsund  níu  hundruð  fjörutíu  og  fjórir  kílómetrar  margir  metrar
+152_Alfur hyp  Hvað  eru  þrjú  hundruð  þrjátíu  og  þrjú  þúsund  níu  hundruð  fjörutíu  og  fjórir  kílómetrar  margir   '***'
+152_Alfur op     C    C     C      C        C      C    C      C     C      C         C      C     C         C         C       D  
+152_Alfur #csid 15 0 0 1
+153_Dilja_v2 ref  Hvað  eru  níu  hundruð  níutíu  og  þrjú  þúsund  fjögur  hundruð  sjötíu  og  sex   tonn   mörg   grömm
+153_Dilja_v2 hyp  Hvað  eru  níu  hundruð  níutíu  og  þrjú  þúsund  fjögur  hundruð  sjötíu  og  sex  '***'  '***'  tonnum
+153_Dilja_v2 op     C    C    C      C        C     C    C      C       C       C        C     C   C     D      D       S  
+153_Dilja_v2 #csid 13 1 0 2
+154_Bjartur ref  Breyttu  fjögur  hundruð  sextíu  og  sjö  þúsund  átta  hundruð  tuttugu  og  fjórum  pelum  í  rúmsentímetra
+154_Bjartur hyp  Breyttu  fjögur  hundruð  sextíu  og  sjö  þúsund  átta  hundruð  tuttugu  og  fjórum  pelum  í  rúmsentímetra
+154_Bjartur op      C        C       C        C     C   C      C      C      C        C      C     C      C    C        C      
+154_Bjartur #csid 15 0 0 0
+155_Karl ref  Breyttu  tvö  hundruð  áttatíu  og  eitt  þúsund  áttatíu  og  þrem  pelum  í  rúmsentímetra
+155_Karl hyp  Breyttu  tvö  hundruð  áttatíu  og  eitt  þúsund  áttatíu  og  þrem  pelum  í  rúmsentímetra
+155_Karl op      C      C      C        C      C    C      C       C      C    C     C    C        C      
+155_Karl #csid 13 0 0 0
+156_Rosa ref  Hvað   er  fimm  hundruð  fjörutíu  og  sex  þúsund  þrjú  hundruð  tuttugu  og  einn  rúmsentímetri  margir  bollar
+156_Rosa hyp  Hvað  eru  fimm  hundruð  fjörutíu  og  sex  þúsund  þrjú  hundruð  tuttugu  og  einn  rúmsentímetri  margir  bollar
+156_Rosa op     C    S     C      C         C      C   C      C      C      C        C      C    C         C           C       C  
+156_Rosa #csid 15 1 0 0
+157_Karl ref  Hversu  mörg  böt  fæ  ég  fyrir  sex  hundruð  sextíu  og  eitt  þúsund  þrjú  hundruð  þrjátíu  og  eitt  taílenskt  bat
+157_Karl hyp  Hversu  mörg  böt  fæ  ég  fyrir  sex  hundruð  sextíu  og  eitt  þúsund  þrjú  hundruð  þrjátíu  og  eitt  taílenskt  bat
+157_Karl op      C      C    C    C   C    C     C      C        C     C    C      C      C      C        C      C    C       C       C 
+157_Karl #csid 19 0 0 0
+158_Karl ref  Breyttu  hundrað  og  fjórtán  þúsund  sex  hundruð  fjörutíu  og  þrem  pintum    í    desilítra
+158_Karl hyp  Breyttu  hundrað  og  fjórtán  þúsund  sex  hundruð  fjörutíu  og  þrem  pintum  '***'    '***'  
+158_Karl op      C        C      C     C        C     C      C         C      C    C      C      D        D    
+158_Karl #csid 11 0 0 2
+159_Alfur ref  Hversu  mörg  búlgörsk  lef  fæ  ég  fyrir  fjörutíu  og  eitt  þúsund  níutíu  og   tvær  norskar  krónur
+159_Alfur hyp  Hversu  mörg  búlgörsk  lef  fæ  ég  fyrir  fjörutíu  og  eitt  þúsund  níutíu  og  tveir  norskar   '***'
+159_Alfur op      C      C       C      C    C   C    C        C      C    C      C       C     C    S       C        D  
+159_Alfur #csid 14 1 0 1
+160_Alfur ref  Hvað  eru  margir  millimetrar  í  tvö  hundruð  tuttugu  og  níu  þúsund  níu  hundruð  áttatíu  og  sjö  kílómetrum
+160_Alfur hyp  Hvað  eru  margir  millimetrar  í  tvö  hundruð  tuttugu  og  níu  þúsund  níu  hundruð  áttatíu  og  sjö    kílóum  
+160_Alfur op     C    C      C         C       C   C      C        C      C   C      C     C      C        C      C   C        S    
+160_Alfur #csid 16 1 0 0
+161_Karl ref  Hvað  eru  tvö  hundruð  tuttugu  og  sjö  þúsund  þrjú  hundruð  þrjátíu  og  fjögur  pund  mörg  kíló
+161_Karl hyp  Hvað  eru  tvö  hundruð  tuttugu  og  sjö  þúsund  þrjú  hundruð  þrjátíu  og  fjögur  pund  mörg   jen
+161_Karl op     C    C    C      C        C      C   C      C      C      C        C      C     C      C     C     S 
+161_Karl #csid 15 1 0 0
+162_Dora ref  Hversu  mörg  fet  eru  í  sjö  hundruð  sjötíu  og  fimm  þúsund  sex  hundruð  fimmtíu  og  tveim  mílum
+162_Dora hyp  Hversu  mörg  fet  eru  í  sjö  hundruð  sjötíu  og  fimm  þúsund  sex  hundruð  fimmtíu  og  tveim  mílum
+162_Dora op      C      C    C    C   C   C      C        C     C    C      C     C      C        C      C    C      C  
+162_Dora #csid 17 0 0 0
+163_Dilja ref  Hversu  marga  súrínamska  dali  fæ  ég  fyrir  sex  hundruð  áttatíu  og  sjö  þúsund  níutíu  og  sjö   jen 
+163_Dilja hyp  Hversu  marga  súrínamska  dali  fæ  ég  fyrir  sex  hundruð  áttatíu  og  sjö  þúsund  níutíu  og  sjö  '***'
+163_Dilja op      C      C         C        C    C   C    C     C      C        C      C   C      C       C     C   C     D  
+163_Dilja #csid 16 0 0 1
+164_Alfur ref  Hversu  margir  sentimetrar  eru  í  sex  hundruð  og  fjörutíu  þúsund  þrjú  hundruð  og  tveim  fetum
+164_Alfur hyp  Hversu  margir  sentimetrar  eru  í  sex  hundruð  og     tíu    þúsund  þrjú  hundruð  og  tveim  '***'
+164_Alfur op      C       C         C        C   C   C      C      C      S        C      C      C      C    C      D  
+164_Alfur #csid 13 1 0 1
+165_Rosa ref  Hvað  eru  tvö  hundruð  fimmtíu  og  fjögur  þúsund  níu  hundruð  og  tólf  kílómetrar    í       fetum  
+165_Rosa hyp  Hvað  eru  tvö  hundruð  fimmtíu  og  fjögur  þúsund  níu  hundruð  og  tólf     '***'    '***'  kílómetrum
+165_Rosa op     C    C    C      C        C      C     C       C     C      C      C    C        D        D         S    
+165_Rosa #csid 12 1 0 2
+166_Alfur ref  Breyttu  sex  hundruð  og  ellefu  þúsund  tvö  hundruð  og  tuttugu  kílógrömmum  í  kíló
+166_Alfur hyp  Breyttu  sex  hundruð  og  ellefu  þúsund  tvö  hundruð  og  tuttugu  kílógrömmum  í  tonn
+166_Alfur op      C      C      C      C     C       C     C      C      C     C          C       C    S 
+166_Alfur #csid 12 1 0 0
+167_Rosa ref  Breyttu  átta  þúsund  fjögur  hundruð  níutíu  og  níu  mílum  í  sentimetra
+167_Rosa hyp  Breyttu  átta  þúsund  fjögur  hundruð  níutíu  og  níu  mílum  í  sentimetra
+167_Rosa op      C       C      C       C       C        C     C   C     C    C       C    
+167_Rosa #csid 11 0 0 0
+168_Alfur_v2 ref  Hvað  eru  þrjú  hundruð  sextíu  og  níu  þúsund  þrjú  hundruð  áttatíu  og  þrjár  indverskar  rúpíur  í  jenum
+168_Alfur_v2 hyp  Hvað  eru  þrjú  hundruð  sextíu  og  níu  þúsund  þrjú  hundruð  áttatíu  og  þrjár  indverskar  rúpíur  í  jenum
+168_Alfur_v2 op     C    C     C      C        C     C   C      C      C      C        C      C    C         C         C    C    C  
+168_Alfur_v2 #csid 17 0 0 0
+169_Alfur_v2 ref  Hvað  eru  mörg  fet  í  fjögur  hundruð  áttatíu  og  eitt  þúsund  áttatíu  og  þremur  mílum
+169_Alfur_v2 hyp  Hvað  eru  mörg  fet  í  fjögur  hundruð  áttatíu  og  eitt  þúsund  áttatíu  og  þremur  mílum
+169_Alfur_v2 op     C    C     C    C   C     C       C        C      C    C      C       C      C     C      C  
+169_Alfur_v2 #csid 15 0 0 0
+170_Dora ref  Hvað  eru  níu  hundruð  fjörutíu  og  níu  þúsund  sex  hundruð  áttatíu  og  fjórir  millimetrar  í  mílum
+170_Dora hyp  Hvað  eru  níu  hundruð  fjörutíu  og  níu  þúsund  sex  hundruð  áttatíu  og  fjórir  millimetrar  í  mílum
+170_Dora op     C    C    C      C         C      C   C      C     C      C        C      C     C         C       C    C  
+170_Dora #csid 16 0 0 0
+171_Dora ref  Hvað  eru  margar  teskeiðar  í  hundrað  áttatíu  og  átta  þúsund  eitt  hundrað  áttatíu  og   þrem   rúmmetrum
+171_Dora hyp  Hvað  eru  margar  teskeiðar  í  hundrað  áttatíu  og  átta  þúsund  eitt  hundrað  áttatíu  og  þremur    únsum  
+171_Dora op     C    C      C        C      C     C        C      C    C      C      C      C        C      C     S        S    
+171_Dora #csid 14 2 0 0
+172_Dora ref  Hvað  eru  sjö  hundruð  þrjátíu  og  átta  þúsund  þrjú  hundruð  þrjátíu  og   tvö    fet      í     tommum
+172_Dora hyp  Hvað  eru  sjö  hundruð  þrjátíu  og  átta  þúsund  þrjú  hundruð  þrjátíu  og  '***'  '***'  tveimur   fetum
+172_Dora op     C    C    C      C        C      C    C      C      C      C        C      C    D      D       S        S  
+172_Dora #csid 12 2 0 2
+173_Alfur_v2 ref  Hvað  eru  fimm  hundruð  og  tvö  þúsund  fjögur  hundruð  níutíu  og  fimm  kínversk  júön  í  lefum
+173_Alfur_v2 hyp  Hvað  eru  fimm  hundruð  og  tvö  þúsund  fjögur  hundruð  níutíu  og  fimm  kínversk  júön  í   lef 
+173_Alfur_v2 op     C    C     C      C      C   C      C       C       C        C     C    C       C       C   C    S  
+173_Alfur_v2 #csid 15 1 0 0
+174_Bjartur ref  Hvað  eru  átta  hundruð  sjötíu  og  eitt  þúsund  eitt  hundrað  sjötíu  og  tvær  danskar  krónur  margir  ísraelskir  siklar
+174_Bjartur hyp  Hvað  eru  átta  hundruð  sjötíu  og  eitt  þúsund  eitt  hundrað  sjötíu  og  tvær  danskar  krónur  margir  ísraelskir  siklar
+174_Bjartur op     C    C     C      C        C     C    C      C      C      C        C     C    C      C        C       C         C         C  
+174_Bjartur #csid 18 0 0 0
+175_Dilja ref  Breyttu  átta  hundruð  áttatíu  og  eitt  þúsund  sjö  hundruð  tuttugu  og  þremur  matskeiðum  í  pela
+175_Dilja hyp  Breyttu  átta  hundruð  áttatíu  og  eitt  þúsund  sjö  hundruð  tuttugu  og  þremur  matskeiðum  í  pela
+175_Dilja op      C       C      C        C      C    C      C     C      C        C      C     C         C      C    C 
+175_Dilja #csid 15 0 0 0
+176_Dilja_v2 ref  Hvað  er  níu  hundruð  fimmtíu  og  tvö  þúsund  eitt  hundrað  tuttugu  og  einn  kanadadalur  í  búlgörskum  lefum
+176_Dilja_v2 hyp  Hvað  er  níu  hundruð  fimmtíu  og  tvö  þúsund  eitt  hundrað  tuttugu  og  einn  kanadadalur  í  búlgörskum  lefum
+176_Dilja_v2 op     C    C   C      C        C      C   C      C      C      C        C      C    C        C       C       C        C  
+176_Dilja_v2 #csid 17 0 0 0
+177_Karl ref  Hvað  er  margar  sjómílur  í  tvö  hundruð  og  tvö  þúsund  sex  hundruð  níutíu  og  einni  mílu
+177_Karl hyp  Hvað  er  margar  sjómílur  í  tvö  hundruð  og  tvö  þúsund  sex  hundruð  níutíu  og  einni  mílu
+177_Karl op     C    C     C        C     C   C      C      C   C      C     C      C        C     C    C      C 
+177_Karl #csid 16 0 0 0
+178_Dilja ref  Hvað  eru  níu  hundruð  fjörutíu  og  fjögur  þúsund  sex  hundruð  níutíu  og  fjórar  tékkneskar  krónur  í  pólskum  slotum
+178_Dilja hyp  Hvað  eru  níu  hundruð  fjörutíu  og  fjögur  þúsund  sex  hundruð  níutíu  og  fjórar  tékkneskar  krónur  í  pólskum  slotum
+178_Dilja op     C    C    C      C         C      C     C       C     C      C        C     C     C         C         C    C     C        C  
+178_Dilja #csid 18 0 0 0
+179_Dilja_v2 ref  Hvað  eru  sex  hundruð  sjötíu  og  sjö  þúsund  fimm  hundruð  fjörutíu  og  fjórar  tommur  í  sjómílum
+179_Dilja_v2 hyp  Hvað  eru  sex  hundruð  sjötíu  og  sjö  þúsund  fimm  hundruð  fjörutíu  og  fjórar  tommur  í  sjómílum
+179_Dilja_v2 op     C    C    C      C        C     C   C      C      C      C         C      C     C       C    C      C   
+179_Dilja_v2 #csid 16 0 0 0
+180_Alfur_v2 ref  Hvað  eru  fjögur  hundruð  fjörutíu  og  eitt  þúsund  níu  hundruð  fimmtíu  og  sjö  sentilítrar  mörg  pint
+180_Alfur_v2 hyp  Hvað  eru  fjögur  hundruð  fjörutíu  og  eitt  þúsund  níu  hundruð  fimmtíu  og  sjö  sentilítrar  mörg  pint
+180_Alfur_v2 op     C    C      C       C         C      C    C      C     C      C        C      C   C        C         C     C 
+180_Alfur_v2 #csid 16 0 0 0
+181_Karl ref  Hvað  eru  margir  millimetrar  í  hundrað  níutíu  og  níu  þúsund  sjötíu  og  átta  sjómílum
+181_Karl hyp  Hvað  eru  margir  millimetrar  í  hundrað  níutíu  og  níu  þúsund  sjötíu  og  átta  sjómílum
+181_Karl op     C    C      C         C       C     C        C     C   C      C       C     C    C       C   
+181_Karl #csid 14 0 0 0
+182_Dilja ref  Breyttu  fimm  hundruð  fimmtíu  og  fjögur  þúsund  sextíu  og  fjórum  millimetrum    í    kílómetra
+182_Dilja hyp  Breyttu  fimm  hundruð  fimmtíu  og  fjögur  þúsund  sextíu  og  fjórum  millimetrum  '***'    '***'  
+182_Dilja op      C       C      C        C      C     C       C       C     C     C         C         D        D    
+182_Dilja #csid 11 0 0 2
+183_Rosa ref  Hvað   er  fjögur  hundruð  fimmtíu  og  fjögur  þúsund  tvö  hundruð  tuttugu  og  ein  kanna  í  bollum
+183_Rosa hyp  Hvað  eru  fjögur  hundruð  fimmtíu  og  fjögur  þúsund  tvö  hundruð  tuttugu  og  ein  kanna  í  bollum
+183_Rosa op     C    S      C       C        C      C     C       C     C      C        C      C   C     C    C     C  
+183_Rosa #csid 15 1 0 0
+184_Rosa ref  Breyttu  sjö  hundruð  og  fimm  þúsund  sjö  hundruð  áttatíu  og  átta   fetum   í  metra
+184_Rosa hyp  Breyttu  sjö  hundruð  og  fimm  þúsund  sjö  hundruð  áttatíu  og  átta  frönkum  í   lef 
+184_Rosa op      C      C      C      C    C      C     C      C        C      C    C      S     C    S  
+184_Rosa #csid 12 2 0 0
+185_Dilja_v2 ref  Hversu  margar  tékkneskar  krónur  fæ  ég  fyrir  níu  hundruð  og  sjö  þúsund  níu  hundruð  áttatíu  og  eina  líru
+185_Dilja_v2 hyp  Hversu  margar  tékkneskar  krónur  fæ  ég  fyrir  níu  hundruð  og  sjö  þúsund  níu  hundruð  áttatíu  og  eina  líru
+185_Dilja_v2 op      C       C         C         C     C   C    C     C      C      C   C      C     C      C        C      C    C     C 
+185_Dilja_v2 #csid 18 0 0 0
+186_Dilja_v2 ref  Hvað  eru  sex  hundruð  sextíu  og  sjö  þúsund  og  tveir  súrínamskir  dalir  mörg  suðurkóresk  vonn
+186_Dilja_v2 hyp  Hvað  eru  sex  hundruð  sextíu  og  sjö  þúsund  og  tveir  súrínamskir  dalir  mörg  suðurkóresk  vonn
+186_Dilja_v2 op     C    C    C      C        C     C   C      C     C    C         C         C      C        C         C 
+186_Dilja_v2 #csid 15 0 0 0
+187_Dora ref  Hvað   er  fimmtíu  og  fjögur  þúsund  fimm  hundruð  sjötíu  og  einn  desilítri  margar  teskeiðar
+187_Dora hyp  Hvað  eru  fimmtíu  og  fjögur  þúsund  fimm  hundruð  sjötíu  og  einn  desilítri  margar  teskeiðar
+187_Dora op     C    S      C      C     C       C      C      C        C     C    C       C         C        C    
+187_Dora #csid 13 1 0 0
+188_Alfur ref  Breyttu  sex  hundruð  tuttugu  og  sex  þúsund  sjö  hundruð  sjötíu  og  tveimur  fetum    í    sjómílur
+188_Alfur hyp  Breyttu  sex  hundruð  tuttugu  og  sex  þúsund  sjö  hundruð  sjötíu  og  tveimur  fetum  '***'    '***' 
+188_Alfur op      C      C      C        C      C   C      C     C      C        C     C     C       C      D        D   
+188_Alfur #csid 13 0 0 2
+189_Karl ref  Hversu  margir  kílómetrar  eru  í  níu  hundruð  og  átta  þúsund  sjö  hundruð  þrjátíu  og  fjórum  fetum
+189_Karl hyp  Hversu  margir  kílómetrar  eru  í  níu  hundruð  og  átta  þúsund  sjö  hundruð  þrjátíu  og  fjórum  '***'
+189_Karl op      C       C         C       C   C   C      C      C    C      C     C      C        C      C     C      D  
+189_Karl #csid 15 0 0 1
+190_Dilja ref  Hvað  eru  hundrað  þrjátíu  og  sjö  þúsund  átta  hundruð  sextíu  og  átta  lítrar  í  pintum
+190_Dilja hyp  Hvað  eru  hundrað  þrjátíu  og  sjö  þúsund  átta  hundruð  sextíu  og  átta  lítrar  í  pintum
+190_Dilja op     C    C      C        C      C   C      C      C      C        C     C    C      C    C     C  
+190_Dilja #csid 15 0 0 0
+191_Bjartur ref  Hvað  eru  níu  hundruð  fimmtíu  og  níu  þúsund  sjötíu  og  tveir  siklar  í  bötum
+191_Bjartur hyp  Hvað  eru  níu  hundruð  fimmtíu  og  níu  þúsund  sjötíu  og  tveir  siklar  í  bötum
+191_Bjartur op     C    C    C      C        C      C   C      C       C     C    C       C    C    C  
+191_Bjartur #csid 14 0 0 0
+192_Dilja ref  Hvað  eru  fjögur  hundruð  áttatíu  og  níu  þúsund  sex  hundruð  og  átta  sterlingspund   mörg  búlgörsk   lef 
+192_Dilja hyp  Hvað  eru  fjögur  hundruð  áttatíu  og  níu  þúsund  sex  hundruð  og  átta  sterlingspund  '***'    '***'   '***'
+192_Dilja op     C    C      C       C        C      C   C      C     C      C      C    C         C          D        D       D  
+192_Dilja #csid 13 0 0 3
+193_Karl ref  Breyttu  fjögur  hundruð  fjörutíu  og  sjö  þúsund  eitt  hundrað  níutíu  og  einum  lítra    í    bolla
+193_Karl hyp  Breyttu  fjögur  hundruð  fjörutíu  og  sjö  þúsund  eitt  hundrað  níutíu  og  einum  lítra  '***'  '***'
+193_Karl op      C        C       C         C      C   C      C      C      C        C     C    C      C      D      D  
+193_Karl #csid 13 0 0 2
+194_Alfur ref  Hvað  eru  átta  hundruð  sjötíu  og  sjö  þúsund  átta  hundruð  fimmtíu  og  átta  rúmsentímetrar  margar  teskeiðar
+194_Alfur hyp  Hvað  eru  átta  hundruð  sjötíu  og  sjö  þúsund  átta  hundruð  fimmtíu  og  átta  rúmsentímetrar  margar    únsur  
+194_Alfur op     C    C     C      C        C     C   C      C      C      C        C      C    C          C           C        S    
+194_Alfur #csid 15 1 0 0
+195_Karl ref  Breyttu  sex  hundruð  tuttugu  og  tvö  þúsund  sex  hundruð  og  tíu  kílómetrum    í    millimetra
+195_Karl hyp  Breyttu  sex  hundruð  tuttugu  og  tvö  þúsund  sex  hundruð  og  tíu  kílómetrum  '***'     '***'  
+195_Karl op      C      C      C        C      C   C      C     C      C      C   C        C        D         D    
+195_Karl #csid 12 0 0 2
+196_Dilja ref  Hversu  margar  tyrkneskar  lírur  fæ  ég  fyrir  fimm  hundruð  þrjátíu  og  níu  þúsund  þrjú  hundruð  og  sextán  súrínamska  dali
+196_Dilja hyp  Hversu  margar  tyrkneskar  lírur  fæ  ég  fyrir  fimm  hundruð  þrjátíu  og  níu  þúsund  þrjú  hundruð  og  sextán  súrínamska  dali
+196_Dilja op      C       C         C        C     C   C    C      C      C        C      C   C      C      C      C      C     C         C        C 
+196_Dilja #csid 19 0 0 0
+197_Dora ref  Hvað  eru  sjö  hundruð  sjötíu  og  sjö  þúsund  sjö  hundruð  þrjátíu  og  þrjár  tommur  í  mílum
+197_Dora hyp  Hvað  eru  sjö  hundruð  sjötíu  og  sjö  þúsund  sjö  hundruð  þrjátíu  og  þrjár  tommur  í  mílum
+197_Dora op     C    C    C      C        C     C   C      C     C      C        C      C    C       C    C    C  
+197_Dora #csid 16 0 0 0
+198_Alfur ref  Hversu  margar  matskeiðar  eru  í  hundrað  sextíu  og  átta  þúsund  þrjú  hundruð  sextíu  og  níu  pelum
+198_Alfur hyp  Hversu  margar  matskeiðar  eru  í  hundrað  sextíu  og  átta  þúsund  þrjú  hundruð  sextíu  og  níu  '***'
+198_Alfur op      C       C         C       C   C     C        C     C    C      C      C      C        C     C   C     D  
+198_Alfur #csid 15 0 0 1
+199_Bjartur ref  Hvað  eru  fjögur  hundruð  tuttugu  og  eitt  þúsund  fjögur  hundruð  tuttugu  og  fjögur  pint  í  rúmmetrum
+199_Bjartur hyp  Hvað  eru  fjögur  hundruð  tuttugu  og  eitt  þúsund  fjögur  hundruð  tuttugu  og  fjögur  pint  í  rúmmetrum
+199_Bjartur op     C    C      C       C        C      C    C      C       C       C        C      C     C      C   C      C    
+199_Bjartur #csid 16 0 0 0
+200_Rosa ref  Hvað  eru  sjö  hundruð  níutíu  og  fjögur  þúsund  fimm  hundruð  og  fjórir  rúmmetrar  mörg  pint
+200_Rosa hyp  Hvað  eru  sjö  hundruð  níutíu  og  fjögur  þúsund  fimm  hundruð  og  fjórir  rúmmetrar  mörg  pint
+200_Rosa op     C    C    C      C        C     C     C       C      C      C      C     C        C        C     C 
+200_Rosa #csid 15 0 0 0

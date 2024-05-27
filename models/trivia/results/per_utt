@@ -1,0 +1,800 @@
+1_Alfur_v2 ref  Hvar  fórst  flugvélin  Geysir  árið  nítján  hundruð  og  fimmtíu
+1_Alfur_v2 hyp  Hvar  fórst  flugvélin  Geysir  árið  nítján  hundruð  og  fimmtán
+1_Alfur_v2 op     C     C        C         C      C      C       C      C     S   
+1_Alfur_v2 #csid 8 1 0 0
+2_Bjartur ref  Hvenær  var  '***'  Michigan  háskóli  stofnaður
+2_Bjartur hyp  Hvenær  var   mig    Keegan   háskóli  stofnaður
+2_Bjartur op      C     C     I        S        C         C    
+2_Bjartur #csid 4 1 1 0
+3_Alfur ref  Hvaða  hljómsveit  gerði  plötuna  My  Generation  árið  nítján  hundruð  sextíu  og   fimm
+3_Alfur hyp  Hvaða  hljómsveit  gerði  plötuna  My  Generation  árið  nítján  hundruð  sextíu  og  '***'
+3_Alfur op     C         C        C       C      C       C        C      C       C        C     C    D  
+3_Alfur #csid 11 0 0 1
+4_Alfur_v2 ref  Úr  hverju  er  múslí
+4_Alfur_v2 hyp  Úr  hverju  er  '***'
+4_Alfur_v2 op    C     C     C    D  
+4_Alfur_v2 #csid 3 0 0 1
+5_Alfur_v2 ref  Hvað  er  sagt  að  gerist  ef  fólk  lýgur
+5_Alfur_v2 hyp  Hvað  er  sagt  að  gerist  ef  fólk  lýgur
+5_Alfur_v2 op     C    C    C    C     C     C    C     C  
+5_Alfur_v2 #csid 8 0 0 0
+6_Bjartur ref  Hver  flutti  fyrst  lagið  Gúanó  stelpan
+6_Bjartur hyp  Hver  flutti  fyrst  lagið  Gúanó  stelpan
+6_Bjartur op     C      C      C      C      C       C   
+6_Bjartur #csid 6 0 0 0
+7_Dilja ref   Hver    er    Bill  Gates
+7_Dilja hyp  '***'  '***'  '***'    Í  
+7_Dilja op     D      D      D      S  
+7_Dilja #csid 0 1 0 3
+8_Alfur ref  Hver  er  faðir  Margrétar   tvö 
+8_Alfur hyp  Hver  er  faðir  Margrétar  '***'
+8_Alfur op     C    C    C        C        D  
+8_Alfur #csid 4 0 0 1
+9_Karl ref  Hvað  fór  fyrst  í  sölu  tuttugasta  og  fjórða  janúar  árið  nítján  hundruð  áttatíu  og  fjögur
+9_Karl hyp  Hvað  fór  fyrst  í  sölu  tuttugasta  og  fjórða  janúar  árið  nítján  hundruð  áttatíu  og   '***'
+9_Karl op     C    C     C    C    C        C       C     C       C      C      C       C        C      C     D  
+9_Karl #csid 14 0 0 1
+10_Rosa ref  Hver  er  eina  borgin  á  Íslandi
+10_Rosa hyp  Hver  er  eina  borgin  á  Íslandi
+10_Rosa op     C    C    C      C    C     C   
+10_Rosa #csid 6 0 0 0
+11_Dilja ref  Hver    er   forseti  Kenýu
+11_Dilja hyp  Hver  '***'     A     horse
+11_Dilja op     C     D       S       S  
+11_Dilja #csid 1 2 0 1
+12_Alfur_v2 ref  Hver  var  fyrstur  upp  á  Everest
+12_Alfur_v2 hyp  Hver  var  fyrstur  upp  á  Everest
+12_Alfur_v2 op     C    C      C      C   C     C   
+12_Alfur_v2 #csid 6 0 0 0
+13_Bjartur ref  Í  hvaða  bæjarfélagi  var  apinn  í  Eden
+13_Bjartur hyp  Í  hvaða  bæjarfélagi  var  apinn  í  Eden
+13_Bjartur op   C    C         C        C     C    C    C 
+13_Bjartur #csid 7 0 0 0
+14_Bjartur ref  Hvar  fór  Búsáhaldabyltingin  fram
+14_Bjartur hyp  Hvar  fór  Búsáhaldabyltingin  fram
+14_Bjartur op     C    C            C            C 
+14_Bjartur #csid 4 0 0 0
+15_Dora ref  Hvað  nefnist  afkvæmi   Uglu
+15_Dora hyp  Hvað  nefnist  afkvæmi  '***'
+15_Dora op     C      C        C       D  
+15_Dora #csid 3 0 0 1
+16_Rosa ref  Hvaða  ár  fékk  fyrsta  konan  að  setjast  á  skólabekk  í  M    R  
+16_Rosa hyp  Hvaða  ár  fékk  fyrsta  konan  að  setjast  á  skólabekk  í  M  '***'
+16_Rosa op     C     C    C      C      C     C     C     C      C      C  C    D  
+16_Rosa #csid 11 0 0 1
+17_Karl ref  Hver  er  '***'  aflmesti  foss  Íslands
+17_Karl hyp  hver  er  apríl    mesti   foss  Íslands
+17_Karl op     S    C    I        S       C      C   
+17_Karl #csid 3 2 1 0
+18_Dilja_v2 ref  Hvað  hét  næsta  ljóðabók  Jóhannesar  frá  Kötlum  á  eftir  Bí  bí  og  blaka
+18_Dilja_v2 hyp  Hvað  hét  næsta  ljóðabók  Jóhannesar  frá  Kötlum  á  eftir  Bí  bí  og  blaka
+18_Dilja_v2 op     C    C     C        C          C       C      C    C    C     C   C   C    C  
+18_Dilja_v2 #csid 13 0 0 0
+19_Dilja_v2 ref  Hver  fékk  fyrstur  Íslensku  bókmenntaverðlaunin  nítján  hundruð  áttatíu  og  níu
+19_Dilja_v2 hyp  Hver  fékk  fyrstur  Íslensku  bókmenntaverðlaunin  nítján  hundruð  áttatíu  og  níu
+19_Dilja_v2 op     C     C      C         C              C              C       C        C      C   C 
+19_Dilja_v2 #csid 10 0 0 0
+20_Alfur_v2 ref  Hversu  margir  dagar  eru    í    september
+20_Alfur_v2 hyp  Hversu  margir  dagar  eru  '***'   Ísraesl 
+20_Alfur_v2 op      C       C      C     C     D        S    
+20_Alfur_v2 #csid 4 1 0 1
+21_Dilja ref  Hvenær    er   fjara    í    Reykjavík
+21_Dilja hyp  Hvenær  '***'  '***'  '***'    '***'  
+21_Dilja op      C      D      D      D        D    
+21_Dilja #csid 1 0 0 4
+22_Bjartur ref  Hver  leikstýrði  kvikmyndinni  Með  allt  á  hreinu
+22_Bjartur hyp  Hver  leikstýrði  kvikmyndinni  Með  allt  á  hreinu
+22_Bjartur op     C        C            C        C     C   C     C  
+22_Bjartur #csid 7 0 0 0
+23_Alfur_v2 ref  Hvað  heitir  stærsta  stöðuvatnið  í  Veiðivötnum  á  Landmannaafrétti
+23_Alfur_v2 hyp  hvað  heitir  stærsta  stöðuvatnið  í  Veiðivötnum  á     landsmanna   
+23_Alfur_v2 op     S      C       C          C       C       C       C          S       
+23_Alfur_v2 #csid 6 2 0 0
+24_Dilja_v2 ref  Hvar  er  dyngjan  Mauna  Loa
+24_Dilja_v2 hyp  hvað  er  dyngjan  Mauna  Loa
+24_Dilja_v2 op     S    C     C       C     C 
+24_Dilja_v2 #csid 4 1 0 0
+25_Bjartur ref  Hvað  rignir  að  meðaltali  marga  daga  á  ári  í  Skagafirði
+25_Bjartur hyp  Hvað  rignir  að  meðaltali  marga  daga  á  ári  í  Skagafirði
+25_Bjartur op     C      C     C      C        C      C   C   C   C       C    
+25_Bjartur #csid 10 0 0 0
+26_Rosa ref  Hvaða  fingur  eru  notaðir  til  að  bua  til  lygaramerki
+26_Rosa hyp  Hvaða  fingur  eru  notaðir  til  að  bua  til  lygaramerki
+26_Rosa op     C       C     C      C      C    C   C    C        C     
+26_Rosa #csid 9 0 0 0
+27_Dilja ref   Hvað  heitir  forseti  Úkraínu
+27_Dilja hyp  '***'   '***'     A      horse 
+27_Dilja op     D       D       S        S   
+27_Dilja #csid 0 2 0 2
+28_Alfur ref  Hvaða  íþrótt  var  Lars  Ulrich  í  Metallica  talinn  vera  mjög  góður
+28_Alfur hyp  Hvaða  íþrótt  var  Lars   Ulrik  í     net     talinn  vera  mjög  '***'
+28_Alfur op     C       C     C     C      S    C      S         C      C     C     D  
+28_Alfur #csid 8 2 0 1
+29_Bjartur ref  Hvað  hét  kona  Múhammeðs  spámanns
+29_Bjartur hyp  Hvað  hét  kona  Múhammeðs  spámanns
+29_Bjartur op     C    C     C       C          C   
+29_Bjartur #csid 5 0 0 0
+30_Alfur ref  Á  hvaða  mánaðardegi  dagur  mánuð  er  aðfangadagur   jóla
+30_Alfur hyp  Á  hvaða  mánaðardegi  dagur  mánuð  er  aðfangadagur  '***'
+30_Alfur op   C    C         C         C      C     C        C         D  
+30_Alfur #csid 7 0 0 1
+31_Alfur ref  Hvað  heitir  halastjarnan  sem  sást  frá  jörðu  tuttugu  og   tvö 
+31_Alfur hyp  Hvað  heitir  halastjarnan  sem  sást  frá  jörðu  tuttugu  og  '***'
+31_Alfur op     C      C          C        C     C    C     C       C      C    D  
+31_Alfur #csid 9 0 0 1
+32_Dilja ref  Hver  er  þjóðarréttur  Englendinga
+32_Dilja hyp  Hver  er  þjóðarréttur  Englendinga
+32_Dilja op     C    C        C            C     
+32_Dilja #csid 4 0 0 0
+33_Alfur_v2 ref  Hver  er  eini  bandaríski  forsetinn  sem  kemur  frá  New  Hampshire
+33_Alfur_v2 hyp  Hver  er  eini  bandaríski  forsetinn  sem  kemur  frá  New  Hampshire
+33_Alfur_v2 op     C    C    C        C          C       C     C     C    C       C    
+33_Alfur_v2 #csid 10 0 0 0
+34_Bjartur ref  Fyrir  hvað  stendur  skammstöfunin    C    T  F  í  tölvuleikjum
+34_Bjartur hyp  Fyrir  hvað  stendur  skammstöfunin  '***'  K  F  í  tölvuleikjum
+34_Bjartur op     C      C      C           C          D    S  C  C        C     
+34_Bjartur #csid 7 1 0 1
+35_Alfur ref  Hver  var  síðasta  myndin  sem  Ronald  Reagan    lék       í    áður  en  hann  sneri  sér  að  stjórnmálum
+35_Alfur hyp  Hver  var  síðasta  myndin  sem  Ronald   '***'  grafinn  Hitler  áður  en  hann  sneri  sér  að     stjórn  
+35_Alfur op     C    C      C        C     C      C       D       S        S      C    C    C     C     C    C       S     
+35_Alfur #csid 12 3 0 1
+36_Alfur_v2 ref  Af  hvaða  ætt  var  Múhammeð  spámaður
+36_Alfur_v2 hyp  Af  hvaða  ætt  var  Múhammeð  spámanni
+36_Alfur_v2 op    C    C     C    C       C         S   
+36_Alfur_v2 #csid 5 1 0 0
+37_Dilja_v2 ref  Hvaða  landnámsmaður  rauði  nam  Norðurfjörð  og  bjó  á  Nesi
+37_Dilja_v2 hyp  Hvaða  landnámsmaður  rauði  nam  Norðurfjörð  og  bjó  á  Nesi
+37_Dilja_v2 op     C          C          C     C        C        C   C   C    C 
+37_Dilja_v2 #csid 9 0 0 0
+38_Dilja ref  Hver  er  ávinningur  við  endurheimt  votlendis
+38_Dilja hyp  Hver  er  ávinningur  við  endurheimt  votlendis
+38_Dilja op     C    C       C       C        C          C    
+38_Dilja #csid 6 0 0 0
+39_Dilja ref   Hver    er   höfundur  Simpsons  þáttanna
+39_Dilja hyp  '***'  '***'    '***'     Hvað      hefur 
+39_Dilja op     D      D        D         S         S   
+39_Dilja #csid 0 2 0 3
+40_Alfur ref  Hvað  þýðir  orðið  Tríkot  í  Vestmannaeyjum
+40_Alfur hyp  Hvað  þýðir  orðið  Tríkot  í  Vestmannaeyjum
+40_Alfur op     C     C      C       C    C         C      
+40_Alfur #csid 6 0 0 0
+41_Bjartur ref  Hvað  kallast  líkamshlutinn  sem  mörgæsir  hvalir  og  skjaldbökur  nota  til  að  synda
+41_Bjartur hyp  Hvað  kallast  líkamshlutinn  sem  mörgæsir  hvalir  og  skjaldbökur  nota  til  að   sund
+41_Bjartur op     C      C           C         C       C        C     C       C         C    C    C    S  
+41_Bjartur #csid 11 1 0 0
+42_Dilja_v2 ref  Hvaða  ár  kom  kvikmyndin   The   Birth  Of   A  Nation    út  
+42_Dilja_v2 hyp  Hvaða  ár  kom  kvikmyndin  '***'  '***'  og  af     í    sjónum
+42_Dilja_v2 op     C     C   C        C        D      D     S   S     S       S  
+42_Dilja_v2 #csid 4 4 0 2
+43_Dora ref  Hver  er  fimmta  fjölmennasta  eyja  heims
+43_Dora hyp  hver  er  fimmta  fjölmennasta  eyja  '***'
+43_Dora op     S    C     C          C         C     D  
+43_Dora #csid 4 1 0 1
+44_Alfur_v2 ref  Hver  er  algengasta  '***'  andartegundin  á  Íslandi
+44_Alfur_v2 hyp  hver  er  algengasta  andar     tegundin    á     í   
+44_Alfur_v2 op     S    C       C        I          S        C     S   
+44_Alfur_v2 #csid 3 3 1 0
+45_Alfur ref  Hvenær  var  Microsoft  stofnað
+45_Alfur hyp  Hvenær  var   Nikulás    sorps 
+45_Alfur op      C     C       S         S   
+45_Alfur #csid 2 2 0 0
+46_Dilja_v2 ref  Hvað  eru  landamæri  Skotlands  og  Englands  löng
+46_Dilja_v2 hyp  Hvað  eru  landamæri  Skotlands  og  Englands  löng
+46_Dilja_v2 op     C    C       C          C       C      C       C 
+46_Dilja_v2 #csid 7 0 0 0
+47_Karl ref  Hvaða  ár  fékk  Kína  sjálfstæði  B    C  
+47_Karl hyp  Hvaða  ár  fékk  Kína  sjálfstæði  B  '***'
+47_Karl op     C     C    C     C        C      C    D  
+47_Karl #csid 6 0 0 1
+48_Alfur ref  Í  hvaða  jökli  eru  Kverkfjöll
+48_Alfur hyp  Í  hvaða  jökli  eru     '***'  
+48_Alfur op   C    C      C     C        D    
+48_Alfur #csid 4 0 0 1
+49_Alfur ref  Hvað  eru  margar  kattategundir  á  Íslandi
+49_Alfur hyp  hvað  eru  margar  kattategundir  á   '***' 
+49_Alfur op     S    C      C          C        C     D   
+49_Alfur #csid 4 1 0 1
+50_Rosa ref  Hvernig  tónlist      er      Fado
+50_Rosa hyp   '***'   hvernig  tónlistar  hratt
+50_Rosa op      D        S         S        S  
+50_Rosa #csid 0 3 0 1
+51_Dilja ref  Hver   var   utanríkisráðherra  Breta    í    seinni  heimstyrjöldinni
+51_Dilja hyp  Hver  '***'        '***'        '***'  '***'   '***'        '***'     
+51_Dilja op     C     D            D            D      D       D            D       
+51_Dilja #csid 1 0 0 6
+52_Alfur_v2 ref  Í  hvaða  landi  fæddist  Osama  bin  Laden
+52_Alfur_v2 hyp  Í  hvaða  landi  fæddist  Osama  bin  '***'
+52_Alfur_v2 op   C    C      C       C       C     C     D  
+52_Alfur_v2 #csid 6 0 0 1
+53_Alfur ref  Hvaða  land  er  eina  Arabaríkið  sem  er  eitt  af  tuttugu  helstu  iðnríkjum  heims
+53_Alfur hyp  Hvaða  land  er  eina  Arabaríkið  sem  er  eitt  af  tuttugu  helstu  iðnríkjum  '***'
+53_Alfur op     C      C    C    C        C       C    C    C    C     C        C        C        D  
+53_Alfur #csid 12 0 0 1
+54_Alfur_v2 ref  Hvenær  var  stafurinn  Z  tekinn  úr  íslenska  stafrófinu
+54_Alfur_v2 hyp  Hvenær  var  stafurinn  Z  tekinn  úr  íslenska  stafrófinu
+54_Alfur_v2 op      C     C       C      C     C     C      C          C    
+54_Alfur_v2 #csid 8 0 0 0
+55_Bjartur ref  Hvaða  skipaskurður  var  opnaður  árið  nítján  hundruð  og  fjórtán
+55_Bjartur hyp  Hvaða  skipaskurður  var  opnaður  árið  nítján  hundruð  og  fjórtán
+55_Bjartur op     C          C        C      C       C      C       C      C     C   
+55_Bjartur #csid 9 0 0 0
+56_Dora ref  Hvaða  kirkja  er  stærsta  kirkja  meþódista
+56_Dora hyp  Hvaða  kirkja  er  stærsta  kirkja     með   
+56_Dora op     C       C     C     C        C        S    
+56_Dora #csid 5 1 0 0
+57_Dilja_v2 ref  Hver  er  höfuðborg  Hvíta  Rússlands
+57_Dilja_v2 hyp  Hver  er  höfuðborg  Hvíta   Rússland
+57_Dilja_v2 op     C    C      C        C        S    
+57_Dilja_v2 #csid 4 1 0 0
+58_Dora ref  Eftir  hvað  hundi  fór  Herakles  til  undirheima
+58_Dora hyp  Eftir  hvað  hundi  fór  Herakles  til  undirheima
+58_Dora op     C      C     C     C       C      C        C    
+58_Dora #csid 7 0 0 0
+59_Alfur_v2 ref  Hver  vann  Eurovision  tvö  þúsund  og  sextán
+59_Alfur_v2 hyp  hver  vann  Eurovision  tvö  þúsund  og  sextán
+59_Alfur_v2 op     S     C        C       C      C     C     C  
+59_Alfur_v2 #csid 6 1 0 0
+60_Rosa ref  Hvað  heitir  músíkalska  músin  í  bókum  eftir  flautuleikarann  Hallfríði  Ólafsdóttur
+60_Rosa hyp  Hvað  heitir  músíkalska  músin  í  bókum  eftir  flautuleikarann  Hallfríði     Ólafs   
+60_Rosa op     C      C         C        C    C    C      C           C             C           S     
+60_Rosa #csid 9 1 0 0
+61_Rosa ref  Hvers  vegna  sagði  Lars   Løkke  Rasmussen  sig  úr  Venstre
+61_Rosa hyp  Hvers  vegna  sagði  Lars  sletti  Rasmussen  sig  úr   '***' 
+61_Rosa op     C      C      C      C      S        C       C    C     D   
+61_Rosa #csid 7 1 0 1
+62_Dilja_v2 ref  Hver  var  stúlkan  með  lævirkjaröddina
+62_Dilja_v2 hyp  hver  var  stúlkan  með  lævirkjaröddina
+62_Dilja_v2 op     S    C      C      C          C       
+62_Dilja_v2 #csid 4 1 0 0
+63_Karl ref  Hvað  eru  margir  íslendingar
+63_Karl hyp  Hvað  eru  margir  íslendingar
+63_Karl op     C    C      C         C     
+63_Karl #csid 4 0 0 0
+64_Dilja_v2 ref  Með  hvaða  hljómsveit  gerði  Hilmar  Örn  Hilmarsson  tónlistana  í  myndinni  Englar  Alheimsins
+64_Dilja_v2 hyp  Með  hvaða  hljómsveit  gerði  Hilmar  Örn  Hilmarsson  tónlistana  í  myndinni  Englar  Alheimsins
+64_Dilja_v2 op    C     C         C        C       C     C        C           C      C      C        C         C    
+64_Dilja_v2 #csid 12 0 0 0
+65_Dilja_v2 ref  Hvaðan  kemur  orðið  tölva
+65_Dilja_v2 hyp  Hvaðan  kemur  orðið   hæð 
+65_Dilja_v2 op      C      C      C      S  
+65_Dilja_v2 #csid 3 1 0 0
+66_Dilja ref  Hvaða  lag  með  hljómsveitinni  Týr  varð  mjög  vinsælt  á  Íslandi  sumarið  tvö  þúsund  og  fjögur
+66_Dilja hyp  Hvaða  lag  með  hljómsveitinni  Týr  varð  mjög  vinsælt  á  Íslandi  sumarið  tvö  þúsund  og    sjö 
+66_Dilja op     C     C    C          C         C     C     C      C     C     C        C      C      C     C     S  
+66_Dilja #csid 14 1 0 0
+67_Dilja_v2 ref  Hvað  eru  áhrifavaldar  flóðs  og  fjöru
+67_Dilja_v2 hyp  Hvað  eru  áhrifavaldar  flóðs  og   sjö 
+67_Dilja_v2 op     C    C         C         C     C    S  
+67_Dilja_v2 #csid 5 1 0 0
+68_Dilja_v2 ref  Hvaða  landnámsmaður  fékk  land  af  Hrosskatli  í  Hvítársíðu  og  bjó  á  Þorgautsstöðum
+68_Dilja_v2 hyp  Hvaða  landnámsmaður  fékk  land  af  Hrosskatli  í  Hvítársíðu  og  bjó  á  Þorgautsstöðum
+68_Dilja_v2 op     C          C          C     C    C       C      C       C       C   C   C         C      
+68_Dilja_v2 #csid 12 0 0 0
+69_Bjartur ref  Hvert  er  fimmta  stærsta  land  Asíu
+69_Bjartur hyp  Hvert  er  fimmta  stærsta  land  Asíu
+69_Bjartur op     C     C     C       C       C     C 
+69_Bjartur #csid 6 0 0 0
+70_Dora ref  Hvaða  hljómsveit  vann  músíktilraunir  árið  nítján  hundruð  níutíu  og  fjögur
+70_Dora hyp  Hvaða  hljómsveit  vann  músíktilraunir  árið  nítján  hundruð  níutíu  og  fjögur
+70_Dora op     C         C        C          C          C      C       C        C     C     C  
+70_Dora #csid 10 0 0 0
+71_Rosa ref  Hvenær  var  internetið  fundið  upp
+71_Rosa hyp  Hvenær  var  Internetið  fundið  upp
+71_Rosa op      C     C        S         C     C 
+71_Rosa #csid 4 1 0 0
+72_Alfur ref  Hvaða  myndlistarkona  fékk  íslensku  bjartsýnisverðlaunin  nú  snemma  árs
+72_Alfur hyp  Hvaða  myndlistarkona  fékk  íslensku  bjartsýnisverðlaunin  nú  snemma  árs
+72_Alfur op     C           C          C       C               C            C     C     C 
+72_Alfur #csid 8 0 0 0
+73_Rosa ref  Geta  fiskar  verið  feitir
+73_Rosa hyp  Geta  fiskar  verið   '***'
+73_Rosa op     C      C      C       D  
+73_Rosa #csid 3 0 0 1
+74_Dora ref  Hver  leikstýrði  fyrstu  Alien  myndinni
+74_Dora hyp  Hver  leikstýrði  fyrstu  Alien    '***' 
+74_Dora op     C        C         C      C        D   
+74_Dora #csid 4 0 0 1
+75_Dora ref  Hver  eru  einkenni  hvítblæðis
+75_Dora hyp  Hver  eru  einkenni  hvítblæðis
+75_Dora op     C    C       C          C    
+75_Dora #csid 4 0 0 0
+76_Alfur_v2 ref  Hver  er  höfuðpaur  hljómsveitarinnar   The   Prodigy
+76_Alfur_v2 hyp  hver  er  höfuðpaur  hljómsveitarinnar  '***'   '***' 
+76_Alfur_v2 op     S    C      C              C            D       D   
+76_Alfur_v2 #csid 3 1 0 2
+77_Alfur ref  Hlátur  lengir  lífið  já   eða    nei 
+77_Alfur hyp  Hlátur  lengir  lífið  já  '***'  '***'
+77_Alfur op      C       C      C     C    D      D  
+77_Alfur #csid 4 0 0 2
+78_Rosa ref  Hvar  er  Freetown  höfuðborg
+78_Rosa hyp  Hvar  er    '***'     '***'  
+78_Rosa op     C    C      D         D    
+78_Rosa #csid 2 0 0 2
+79_Dilja ref  Hvar  er  Ólafsvík
+79_Dilja hyp  Hvar  er    Óðal  
+79_Dilja op     C    C      S   
+79_Dilja #csid 2 1 0 0
+80_Alfur_v2 ref  Við  hvaða  á  var  Rómaborg  byggð
+80_Alfur_v2 hyp  Við  hvaða  á  var  Rómaborg  '***'
+80_Alfur_v2 op    C     C    C   C       C       D  
+80_Alfur_v2 #csid 5 0 0 1
+81_Dilja ref  Hvaða    ár   hengdi  Lúter   upp   þesur  sínar  níutíu  og   fimm    á    kirkjudyrnar    í    Wittenberg
+81_Dilja hyp  Hvaða  '***'   '***'  '***'  '***'  '***'  '***'   '***'  og  '***'  '***'      '***'     '***'     hinn   
+81_Dilja op     C      D       D      D      D      D      D       D     C    D      D          D         D         S    
+81_Dilja #csid 2 1 0 11
+82_Dilja ref  Hverjar   eru   Drífa  Mjöll  og   Fönn 
+82_Dilja hyp   '***'   '***'  '***'   Hver  er  Mývatn
+82_Dilja op      D       D      D      S     S     S  
+82_Dilja #csid 0 3 0 3
+83_Bjartur ref  Hvar  fæddist  Oliver  Bierhoff
+83_Bjartur hyp  Hvar  fæddist  Oliver  Bierhoff
+83_Bjartur op     C      C        C        C   
+83_Bjartur #csid 4 0 0 0
+84_Karl ref  '***'  Afhverju  heitir  Hjónabandsæla  Hjónabandsæla
+84_Karl hyp    Af    hverjum  heitir  Hjónabandsæla    hjónaband  
+84_Karl op     I        S        C          C              S      
+84_Karl #csid 2 2 1 0
+85_Alfur_v2 ref  Hver  var  fyrsti  forritarinn    í    sögunni
+85_Alfur_v2 hyp  Hver  var  fyrsti  forritarinn  '***'    Ísey 
+85_Alfur_v2 op     C    C      C         C         D       S   
+85_Alfur_v2 #csid 4 1 0 1
+86_Dilja ref  Eftir  hvern  er  sagan  Meistarinn  og  margaríta
+86_Dilja hyp  Eftir  hvern  er  sagan  Meistarinn  og  Margaríta
+86_Dilja op     C      C     C    C         C       C      S    
+86_Dilja #csid 6 1 0 0
+87_Karl ref  Hvaða  söngvari  drukknaði  í  Memphishöfn  nítján  hundruð  níutíu  og  sjö
+87_Karl hyp  Hvaða  söngvari  drukknaði  í      Písa     nítján  hundruð  níutíu  og  sjö
+87_Karl op     C        C         C      C       S          C       C        C     C   C 
+87_Karl #csid 9 1 0 0
+88_Alfur_v2 ref  Hver  er  fæðingarborg  tónskáldsins  Mozarts
+88_Alfur_v2 hyp  hver  er  fæðingarborg  tónskáldsins   '***' 
+88_Alfur_v2 op     S    C        C             C          D   
+88_Alfur_v2 #csid 3 1 0 1
+89_Dilja ref  Hver  er  meðalævilengd  fíla
+89_Dilja hyp  Hver  er      meðal       hæð
+89_Dilja op     C    C        S          S 
+89_Dilja #csid 2 2 0 0
+90_Bjartur ref  Hvernig  er  sykurinn  gerður  hvítur
+90_Bjartur hyp  Hvernig  er  sykurinn  gerður  hvítur
+90_Bjartur op      C      C      C        C       C  
+90_Bjartur #csid 5 0 0 0
+91_Alfur ref  Hvenær  gaus  Eyjafjallajökull  síðast  fyrir  árið  tvö  þúsund    og    tíu 
+91_Alfur hyp  Hvenær  gaus  Eyjafjallajökull  síðast  fyrir  árið  tvö  þúsund  '***'  '***'
+91_Alfur op      C      C           C            C      C      C    C      C      D      D  
+91_Alfur #csid 8 0 0 2
+92_Dora ref  Hvað  eru  margir  vöðvar  í  framhandlegg
+92_Dora hyp  hvað  eru  margir  vöðvar  í      fram    
+92_Dora op     S    C      C       C    C        S     
+92_Dora #csid 4 2 0 0
+93_Bjartur ref  Í  hvaða  borg  Evrópu  heita  neðanjarðarlestirnar  Metropolitana
+93_Bjartur hyp  Í  hvaða  borg  Evrópu  heita  neðanjarðarlestirnar  Metropolitana
+93_Bjartur op   C    C      C      C      C              C                 C      
+93_Bjartur #csid 7 0 0 0
+94_Dora ref  Jemen  Óman  og  Katar  eru  öll  á  hvaða  skaga
+94_Dora hyp  Jemen  Óman  og  Katar  eru  öll  á  hvaða  skaga
+94_Dora op     C      C    C    C     C    C   C    C      C  
+94_Dora #csid 9 0 0 0
+95_Dilja_v2 ref  Hver  er  fertugasti  og  sjötti  forseti  Bandaríkjanna
+95_Dilja_v2 hyp  Hver  er  fertugasti  og  sjötti  forseti  Bandaríkjanna
+95_Dilja_v2 op     C    C       C       C     C       C           C      
+95_Dilja_v2 #csid 7 0 0 0
+96_Alfur ref  Hvað  heitir  forstjóri   Íslenskar  Erfðagreiningar
+96_Alfur hyp  Hvað  heitir  forstjóri  íslenskrar   erfðagreiningu
+96_Alfur op     C      C        C           S             S       
+96_Alfur #csid 3 2 0 0
+97_Dilja_v2 ref  Hver  var  fjármálaráðherra  á  undan  Ólafi  Ragnari  Grímssyni
+97_Dilja_v2 hyp  Hver  var  fjármálaráðherra  á  undan  Ólafi  Ragnari  Grímssyni
+97_Dilja_v2 op     C    C           C         C    C      C       C         C    
+97_Dilja_v2 #csid 8 0 0 0
+98_Alfur ref  Í  hvaða  íþrótt  er  Sebastian  Loeb  heimsmeistari
+98_Alfur hyp  Í  hvaða  íþrótt  er  Sebastian  Loeb      heims    
+98_Alfur op   C    C       C     C      C        C         S      
+98_Alfur #csid 6 1 0 0
+99_Dilja_v2 ref  Hver  er  lengsti  fjörður  íslands
+99_Dilja_v2 hyp  Hver  er  lengsti  fjörður  íslands
+99_Dilja_v2 op     C    C     C        C        C   
+99_Dilja_v2 #csid 5 0 0 0
+100_Dilja ref  Hvað  eru  margir  lítrar  af  blóði  í  fullorðnum  einstakling  að  meðaltali
+100_Dilja hyp  hvað  eru   '***'    til   af  blóði  í  fullorðnum  einstakling  að  meðaltali
+100_Dilja op     S    C      D       S     C    C    C       C           C        C      C    
+100_Dilja #csid 8 2 0 1
+101_Bjartur ref  Hver  er  hæsti  punktur  Kantabríufjalla
+101_Bjartur hyp  Hver  er  hæsti  punktur     Kantabría   
+101_Bjartur op     C    C    C       C            S       
+101_Bjartur #csid 4 1 0 0
+102_Rosa ref  Hvaða  drykkur  er  búinn  til  úr  bláu  agave  plöntunni
+102_Rosa hyp  Hvaða  drykkur  er  búinn  til  úr  bláu  agave  plöntunni
+102_Rosa op     C       C      C    C     C    C    C     C        C    
+102_Rosa #csid 9 0 0 0
+103_Alfur ref  Hver  er  höfuðborg  Colorado
+103_Alfur hyp  Hver  er  höfuðborg    '***' 
+103_Alfur op     C    C      C          D   
+103_Alfur #csid 3 0 0 1
+104_Alfur_v2 ref  Hver  samdi  textana  fyrir  plötuna  Lög  unga  fólksins  með  Hrekkjusvínum
+104_Alfur_v2 hyp  hver  samdi  textana  fyrir  plötuna  Lög  unga  fólksins  með    hrekkvísi  
+104_Alfur_v2 op     S     C       C       C       C      C     C       C      C         S      
+104_Alfur_v2 #csid 8 2 0 0
+105_Karl ref  Hvað  heitir  stærsta  eldfjall  sólkerfisins
+105_Karl hyp  Hvað  heitir  stærsta  eldfjall  sólkerfisins
+105_Karl op     C      C       C         C           C     
+105_Karl #csid 5 0 0 0
+106_Rosa ref  Hverjar  eru  tvær  höfuðborgir  Kanaríeyja
+106_Rosa hyp  Hverjar  eru  tvær  höfuðborgir  Kanaríeyja
+106_Rosa op      C      C     C        C            C    
+106_Rosa #csid 5 0 0 0
+107_Dora ref  Hvaða  klassíska  skáldsaga  frá  árinu  átján  hundruð  sextíu  og  sex  fjallar  um  líf  og  raunir  aðalpersónunnar  Rodion  Raskolnikov
+107_Dora hyp  Hvaða  klassíska  skáldsaga  frá  árinu  átján  hundruð  sextíu  og  sex  fjallar  um  líf  og  raunir  aðalpersónunnar  Rodion  Raskolnikov
+107_Dora op     C        C          C       C     C      C       C        C     C   C      C      C   C    C     C           C            C         C     
+107_Dora #csid 18 0 0 0
+108_Dora ref  Hvaða  ár  lést  Díana  prinsessa    af   Wales
+108_Dora hyp  hvaða  ár  lést  Díana  prinsessa  '***'  '***'
+108_Dora op     S     C    C     C        C        D      D  
+108_Dora #csid 4 1 0 2
+109_Dilja ref  Hvað  hét  Taíland   áður
+109_Dilja hyp  Hvað  hét   '***'   hænan
+109_Dilja op     C    C      D       S  
+109_Dilja #csid 2 1 0 1
+110_Alfur ref  Í  hvaða  menntaskóla  heitir  nemendafélagið  Huginn  og  skólablaðið  Muninn
+110_Alfur hyp  Í  hvaða  menntaskóla  heitir  nemendafélagið  Huginn  og  skólablaðið   '***'
+110_Alfur op   C    C         C          C           C           C     C       C          D  
+110_Alfur #csid 8 0 0 1
+111_Dilja_v2 ref  Hvað  er  Gljúfrabúi
+111_Dilja_v2 hyp  Hvað  er  Gljúfrabúi
+111_Dilja_v2 op     C    C       C    
+111_Dilja_v2 #csid 3 0 0 0
+112_Alfur ref  Hvar  er  Havana  '***'  höfuðborg
+112_Alfur hyp  Hvar  er  Havana   hið      upp   
+112_Alfur op     C    C     C      I        S    
+112_Alfur #csid 3 1 1 0
+113_Karl ref  Um  hvern  er  bókin  Sól  í  Norðurmýri
+113_Karl hyp  Um  hvern  er  bókin  Sól  í  Norðurmýri
+113_Karl op    C    C     C    C     C   C       C    
+113_Karl #csid 7 0 0 0
+114_Bjartur ref  Hvert  er  millinafn  Humphrey  Bogart
+114_Bjartur hyp  Hvert  er  millinafn  Humphrey  Bogart
+114_Bjartur op     C     C      C          C        C  
+114_Bjartur #csid 5 0 0 0
+115_Dora ref  Hvaða  vatn  er  stærsta  saltvatn  á  vesturhveli
+115_Dora hyp  Hvaða  vatn  er  stærsta  saltvatn  á     Vestur  
+115_Dora op     C      C    C     C         C     C       S     
+115_Dora #csid 6 1 0 0
+116_Dilja ref  Hvað  heitir  langvinsælasti  tölvuleikur   C   C  P
+116_Dilja hyp  Hvað  heitir  langvinsælasti     '***'     upp  H  á
+116_Dilja op     C      C           C             D        S   S  S
+116_Dilja #csid 3 3 0 1
+117_Dora ref  Hvað  heitir  fljótið  sem  fellur  til  sjávar  þar  sem  borgin  New  York  rís
+117_Dora hyp  hvað  heitir  fljótið  sem  fellur  til  sjávar  þar  sem  borgin  New  York  rís
+117_Dora op     S      C       C      C      C     C      C     C    C      C     C     C    C 
+117_Dora #csid 12 1 0 0
+118_Karl ref  hver  var  forseti  islands  árið  tvö  þúsund  tuttugu  og  eitt
+118_Karl hyp  Hver  var  forseti  Íslands  árið  tvö  þúsund  tuttugu  og  eitt
+118_Karl op     S    C      C        S       C    C      C       C      C    C 
+118_Karl #csid 8 2 0 0
+119_Alfur_v2 ref  Hversu  hratt  að  meðaltali  vaxa  neglur
+119_Alfur_v2 hyp  Hversu  hratt  að  meðaltali  vaxa  neglur
+119_Alfur_v2 op      C      C     C      C        C      C  
+119_Alfur_v2 #csid 6 0 0 0
+120_Bjartur ref  Í  hvaða  mánuði  kom  fyrsta  Morgunblaðið  út  árið  nítján  hundruð  og  þrettán
+120_Bjartur hyp  Í  hvaða  mánuði  kom  fyrsta  Morgunblaðið  út  árið  nítján  hundruð  og  þrettán
+120_Bjartur op   C    C       C     C      C          C        C    C      C       C      C     C   
+120_Bjartur #csid 12 0 0 0
+121_Alfur_v2 ref  Hvenær  var  Lassen  Volcanic  þjóðgarðurinn  stofnaður
+121_Alfur_v2 hyp  Hvenær  var  Lassen   norska   þjóðgarðurinn  stofnaður
+121_Alfur_v2 op      C     C      C        S           C            C    
+121_Alfur_v2 #csid 5 1 0 0
+122_Bjartur ref  Hvað  er  latneska  heitið  fyrir  náttúru
+122_Bjartur hyp  Hvað  er  latneska  heitið  fyrir  náttúru
+122_Bjartur op     C    C      C        C      C       C   
+122_Bjartur #csid 6 0 0 0
+123_Dora ref  Hvernig  er  sjórinn  á  litinn
+123_Dora hyp  hvernig  er  sjórinn  á    lyf 
+123_Dora op      S      C     C     C     S  
+123_Dora #csid 3 2 0 0
+124_Rosa ref  Hvert  er  þjóðarblóm  íslendinga
+124_Rosa hyp  Hvert  er  þjóðarblóm    Íslands 
+124_Rosa op     C     C       C           S    
+124_Rosa #csid 3 1 0 0
+125_Rosa ref  Frá  hvaða  landi  koma  L  E  G   O  vörurnar
+125_Rosa hyp  Frá  hvaða  landi  koma  L  E  G  og    verið 
+125_Rosa op    C     C      C      C   C  C  C   S      S   
+125_Rosa #csid 7 2 0 0
+126_Dilja_v2 ref  Hvaða  ár  kom  fyrsta  tölvan    út 
+126_Dilja_v2 hyp  Hvaða  ár  kom  fyrsta  tölvan  '***'
+126_Dilja_v2 op     C     C   C      C       C      D  
+126_Dilja_v2 #csid 5 0 0 1
+127_Bjartur ref  Hver  tók  við  af  séra  Sigurbirni  Einarssyni  sem  biskup  yfir  Íslandi
+127_Bjartur hyp  Hver  tók  við  af  séra  Sigurbirni  Einarssyni  sem  biskup  yfir   ísland
+127_Bjartur op     C    C    C    C    C        C           C       C      C      C      S   
+127_Bjartur #csid 10 1 0 0
+128_Bjartur ref  Hverjum  tókst  fyrstum  manna  að  kljúfa  atómkjarna
+128_Bjartur hyp  Hverjum  tókst  fyrstum  manna  að  kljúfa  atómkjarna
+128_Bjartur op      C       C       C       C     C     C         C    
+128_Bjartur #csid 7 0 0 0
+129_Bjartur ref  Eru  stjúpur  og  fjólur  það  sama
+129_Bjartur hyp  Eru  stjúpur  og  fjólur  það  sama
+129_Bjartur op    C      C      C     C     C     C 
+129_Bjartur #csid 6 0 0 0
+130_Alfur ref  Hver  er  minnsti  fugl  Íslands
+130_Alfur hyp  Hver  er  minnsti  fugl   '***' 
+130_Alfur op     C    C     C       C      D   
+130_Alfur #csid 4 0 0 1
+131_Bjartur ref  Hvaða  fugl  er  stundum  kallaður  litli  munkur  í  norðri
+131_Bjartur hyp  Hvaða  fugl  er  stundum  kallaður  litli  munkur  í  norðri
+131_Bjartur op     C      C    C     C         C       C       C    C     C  
+131_Bjartur #csid 9 0 0 0
+132_Bjartur ref  Hvenær  var  svínaflensufaraldurinn
+132_Bjartur hyp  Hvenær  var  svínaflensufaraldurinn
+132_Bjartur op      C     C              C          
+132_Bjartur #csid 3 0 0 0
+133_Alfur_v2 ref  Hvaða  frumefni  er  með  efnatáknið    Au 
+133_Alfur_v2 hyp  Hvaða  frumefni  er  með  efnatáknið  '***'
+133_Alfur_v2 op     C        C      C   C        C        D  
+133_Alfur_v2 #csid 5 0 0 1
+134_Dilja ref  Hver    er   var  fyrsti  forritarinn    að    því     er   talið    er 
+134_Dilja hyp  Hver  '***'  var   '***'     '***'     '***'  '***'  '***'  '***'  '***'
+134_Dilja op     C     D     C      D         D         D      D      D      D      D  
+134_Dilja #csid 2 0 0 8
+135_Dilja_v2 ref  Hvaða  þekkta  breska  skáld   var    gift   Anne  Hathaway
+135_Dilja_v2 hyp  Hvaða   '***'  breska  skáld  '***'  '***'  glatt   klukkan
+135_Dilja_v2 op     C       D       C      C      D      D      S        S   
+135_Dilja_v2 #csid 3 2 0 3
+136_Dora ref  Hver  er  besta  æfingin  fyrir  magavöðvana
+136_Dora hyp  hver  er  besta  æfingin  fyrir     magann  
+136_Dora op     S    C    C       C       C         S     
+136_Dora #csid 4 2 0 0
+137_Dilja_v2 ref  Hvað  hét  bandaríska  stórborgin  New  York  áður  en  hún  hét  New  York
+137_Dilja_v2 hyp  Hvað  hét  bandaríska  stórborgin  New  York  áður  en  hún  hét  New  York
+137_Dilja_v2 op     C    C        C           C       C     C     C    C   C    C    C     C 
+137_Dilja_v2 #csid 12 0 0 0
+138_Alfur_v2 ref  Hvaða  hátíðisdagur  ber  upp  mánudaginn  tuttugasta  og  fimmta  í  síðasta  mánuði  ársins  tvö  þúsund  og  sautján
+138_Alfur_v2 hyp  Hvaða  hátíðisdagur  ber  upp  mánudaginn  tuttugasta  og  fimmta  í  síðasta  mánuði  ársins  tvö  þúsund  og  sautján
+138_Alfur_v2 op     C          C        C    C        C           C       C     C    C     C        C       C     C      C     C     C   
+138_Alfur_v2 #csid 16 0 0 0
+139_Alfur ref   Hvað   er  Edward  Nygma  einnig  þekktur   sem 
+139_Alfur hyp  Hvaða  rit    var    nema  einnig  þekktur  '***'
+139_Alfur op     S     S      S      S       C       C       D  
+139_Alfur #csid 2 4 0 1
+140_Rosa ref  hvenær  var  alþingi  stofnað
+140_Rosa hyp  Hvenær  var  Alþingi   Stopp 
+140_Rosa op      S     C      S        S   
+140_Rosa #csid 1 3 0 0
+141_Rosa ref  Hvað  verpir  Stelkur  mörgum  eggjum
+141_Rosa hyp  Hvað  verpir  Stelkur  mörgum   '***'
+141_Rosa op     C      C       C        C       D  
+141_Rosa #csid 4 0 0 1
+142_Dora ref  Hvað  voru  margir  teknir  af  lífi  í  síðustu  aftöku  á  Íslandi
+142_Dora hyp  Hvað  voru  margir  teknir  af  lífi  í  síðustu  aftöku  á    Isla 
+142_Dora op     C     C      C       C     C    C   C     C        C    C     S   
+142_Dora #csid 10 1 0 0
+143_Dilja ref   Hvað    er   Jarðkeppur
+143_Dilja hyp  '***'  '***'    hagall  
+143_Dilja op     D      D         S    
+143_Dilja #csid 0 1 0 2
+144_Dilja_v2 ref  Hvaða  ár  fékk  Bertha  von  Suttner  Nóbelinn
+144_Dilja_v2 hyp  Hvaða  ár  fékk  Bertha  von  Suttner    Núpi  
+144_Dilja_v2 op     C     C    C      C     C      C         S   
+144_Dilja_v2 #csid 6 1 0 0
+145_Dilja_v2 ref  Hvað  er  mjólkursýra
+145_Dilja_v2 hyp  Hvað  er  mjólkursýra
+145_Dilja_v2 op     C    C       C     
+145_Dilja_v2 #csid 3 0 0 0
+146_Rosa ref  Hver  ásamt  Tim   Rice  samdi  söngleikinn  Jesus  Christ  Superstar
+146_Rosa hyp  Hver  ásamt  Tim  rekið  sömdu  söngleikinn  Jesus   '***'   kjötsúpu
+146_Rosa op     C     C     C     S      S         C         C       D        S    
+146_Rosa #csid 5 3 0 1
+147_Dilja_v2 ref  Hvað  er  '***'  hvirfilbylur
+147_Dilja_v2 hyp  Hvað  er   hver      City    
+147_Dilja_v2 op     C    C    I          S     
+147_Dilja_v2 #csid 2 1 1 0
+148_Dilja ref   Hvað   eru   Gvadelúpeyjar  margar
+148_Dilja hyp  '***'  '***'      Hvaða       eyja 
+148_Dilja op     D      D          S           S  
+148_Dilja #csid 0 2 0 2
+149_Dilja ref   Hvað   er   kúlan  þung  í  kúluvarpi
+149_Dilja hyp  '***'  Hafa  kúlan  þung  í  kúluvarpi
+149_Dilja op     D      S     C      C   C      C    
+149_Dilja #csid 4 1 0 1
+150_Dora ref  Hver  er  höfuðborga  Bahamaeyja
+150_Dora hyp  hver  er   höfuðborg     blað   
+150_Dora op     S    C       S           S    
+150_Dora #csid 1 3 0 0
+151_Karl ref  Hvenær  var  Háskólinn  í  Melbourne  stofnaður
+151_Karl hyp  Hvenær  var  Háskólinn  í  Melbourne   stofnuð 
+151_Karl op      C     C       C      C      C          S    
+151_Karl #csid 5 1 0 0
+152_Karl ref  Hvaða  fluga  breiðir  út  svefnsýki    í    Afríku
+152_Karl hyp  Hvaða  fluga  breiðir  út  svefnsýki  '***'    Jam 
+152_Karl op     C      C       C      C      C        D       S  
+152_Karl #csid 5 1 0 1
+153_Bjartur ref  Hversu  oft  lýgur  fólk    á     dag 
+153_Bjartur hyp  Hversu  oft  lýgur  fólk  '***'  '***'
+153_Bjartur op      C     C     C      C     D      D  
+153_Bjartur #csid 4 0 0 2
+154_Bjartur ref  Hvað  er  Fótgíma
+154_Bjartur hyp  Hvað  er  Fótgíma
+154_Bjartur op     C    C     C   
+154_Bjartur #csid 3 0 0 0
+155_Alfur ref  Hvaða  fellibylur  gekk  yfir  New  Orleans  tuttugasta  og  níunda  ágúst  tvö  þúsund  og   fimm
+155_Alfur hyp  Hvaða  fellibylur  gekk  yfir  New  Orleans  tuttugasta  og  níunda  ágúst  tvö  þúsund  og  '***'
+155_Alfur op     C         C        C     C    C      C          C       C     C      C     C      C     C    D  
+155_Alfur #csid 13 0 0 1
+156_Alfur_v2 ref  Hvaða  sáttmáli  og  hornsteinn  Rauða  krossins  átti  hundrað  og  fimmtíu  ára  afmæli  árið  tvö  þúsund  og  fjórtán
+156_Alfur_v2 hyp  Hvaða  sáttmáli  og  hornsteinn  Rauða  krossins  átti  hundrað  og  fimmtíu  ára  afmæli  árið  tvö  þúsund  og  fjórtán
+156_Alfur_v2 op     C        C      C       C        C        C       C      C      C     C      C      C      C    C      C     C     C   
+156_Alfur_v2 #csid 17 0 0 0
+157_Dora ref  Hvaða  landi  tilheyrir  Páskaeyja
+157_Dora hyp  Hvaða  landi  tilheyrir    páska  
+157_Dora op     C      C        C          S    
+157_Dora #csid 3 1 0 0
+158_Alfur ref  Hver  teiknar  hinn  fræga  værukæra  kött  Garfield  Gretti
+158_Alfur hyp  Hver  teiknar  hinn  fræga  værukæra  kött  Garfield   '***'
+158_Alfur op     C      C       C     C        C       C       C        D  
+158_Alfur #csid 7 0 0 1
+159_Rosa ref  Hvert  er  strjálbýlasta  fylki  Bandaríkjanna
+159_Rosa hyp  Hvert  er  strjálbýlasta  fylki  Bandaríkjanna
+159_Rosa op     C     C        C          C          C      
+159_Rosa #csid 5 0 0 0
+160_Dilja_v2 ref  Hvaða  vítamín  eykur  nætursjón
+160_Dilja_v2 hyp  Hvaða  vítamín  eykur  nætursjón
+160_Dilja_v2 op     C       C       C        C    
+160_Dilja_v2 #csid 4 0 0 0
+161_Dilja_v2 ref  Hveru  hár  gráður   C  er  mesti  hiti  sem  mælst  hefur  í  heiminum
+161_Dilja_v2 hyp  Hveru  hár  gráður  há  er  mesti  hiti  sem  mælst  hefur  í    heimi 
+161_Dilja_v2 op     C     C      C     S   C    C      C    C     C      C    C      S   
+161_Dilja_v2 #csid 10 2 0 0
+162_Alfur_v2 ref  Er  gott  að  hreyfa   sig 
+162_Alfur_v2 hyp  Er  gott  að  hreyfa  '***'
+162_Alfur_v2 op    C    C    C     C      D  
+162_Alfur_v2 #csid 4 0 0 1
+163_Rosa ref  Hvað  standa  mörg  hús  við  Borgartún
+163_Rosa hyp  Hvað  standa  mörg  hús  við    borgar 
+163_Rosa op     C      C      C    C    C       S    
+163_Rosa #csid 5 1 0 0
+164_Bjartur ref  Úr  hvaða  kvikmynd  er  setningin   You  cant  handle   the   truth
+164_Bjartur hyp  Úr  hvaða  kvikmynd  er  setningin  Jung  Kant  handle  '***'   trú 
+164_Bjartur op    C    C        C      C      C        S     S      C      D      S  
+164_Bjartur #csid 6 3 0 1
+165_Alfur ref  Hvaða  ár  fór  Yuri  Gagarin  fyrstur  manna  út  fyrir  gufuhvof  Jarðar
+165_Alfur hyp  Hvaða  ár  fór  Yuri  Gagarin  fyrstur  manna  út  fyrir  gufuhvof   '***'
+165_Alfur op     C     C   C     C      C        C       C     C    C        C        D  
+165_Alfur #csid 10 0 0 1
+166_Bjartur ref  Hvert  er  vinsælasta  leikrit  Matthíasar  Jochumssonar
+166_Bjartur hyp  Hvert  er  vinsælasta  leikrit  Matthíasar     Jakobs   
+166_Bjartur op     C     C       C         C          C            S     
+166_Bjartur #csid 5 1 0 0
+167_Dilja ref  Hver  skrifaði  bækurnar  Réttarhöldin    og   Hamskiptin
+167_Dilja hyp  Hver  skrifaði  bækurnar      '***'     '***'     hans   
+167_Dilja op     C       C         C           D         D         S    
+167_Dilja #csid 3 1 0 2
+168_Dilja ref  Hvaða  kyn  manna  lýgur  mest
+168_Dilja hyp  Hvaða  kyn  manna  lýgur  mest
+168_Dilja op     C     C     C      C      C 
+168_Dilja #csid 5 0 0 0
+169_Karl ref  Hvað  er  núll  gráður  á  selsíus  margar  gráður  F
+169_Karl hyp  hvað  er  núll  gráður  á  selsíus  margar  gráður  F
+169_Karl op     S    C    C      C    C     C        C       C    C
+169_Karl #csid 8 1 0 0
+170_Alfur_v2 ref  Hver  skrifaði  bókina  Málsvörn  Sókratesar
+170_Alfur_v2 hyp  Hver  skrifaði  bókina  Málsvörn  Sókratesar
+170_Alfur_v2 op     C       C        C        C          C    
+170_Alfur_v2 #csid 5 0 0 0
+171_Dora ref  Hver  skrifaði  bókina  Mýrin
+171_Dora hyp  hver  skrifaði  bókina  '***'
+171_Dora op     S       C        C      D  
+171_Dora #csid 2 1 0 1
+172_Alfur_v2 ref  Hvaða  dag  og  ár  var  bjórbanninu  aflétt    á    Íslandi
+172_Alfur_v2 hyp  Hvaða  dag  og  ár  var  bjórbanninu  aflétt  '***'   ávísun
+172_Alfur_v2 op     C     C    C   C   C        C          C      D       S   
+172_Alfur_v2 #csid 7 1 0 1
+173_Dilja ref  Hver  skrifaði  sjálfstæðisyfirlýsingu  Bandaríkjanna
+173_Dilja hyp  Hver  skrifaði  sjálfstæðisyfirlýsingu  Bandaríkjanna
+173_Dilja op     C       C                C                  C      
+173_Dilja #csid 4 0 0 0
+174_Alfur_v2 ref  Hver  var  fertugasti  og  fimmti  forseti  Bandaríkjanna
+174_Alfur_v2 hyp  Hver  var  fertugasti  og  fimmti  forseti      '***'    
+174_Alfur_v2 op     C    C        C       C     C       C           D      
+174_Alfur_v2 #csid 6 0 0 1
+175_Dilja_v2 ref  Hvaða  fyrirtæki  framleiðir  kókómjók
+175_Dilja_v2 hyp  Hvaða  fyrirtæki  framleiðir  kókómjók
+175_Dilja_v2 op     C        C           C          C   
+175_Dilja_v2 #csid 4 0 0 0
+176_Dilja ref  Hvaða  breiðskífu  gaf  Metallica  út  árið  nítján  hundruð  áttatíu  og  þrjú
+176_Dilja hyp  Hvaða  breiðskífu  gaf    Megas    út  árið  nítján  hundruð  áttatíu  og   sjö
+176_Dilja op     C         C       C       S       C    C      C       C        C      C    S 
+176_Dilja #csid 9 2 0 0
+177_Karl ref  Hver  er  höfuðborg  Svíþjóðar
+177_Karl hyp  Hver  er  höfuðborg    sungið 
+177_Karl op     C    C      C          S    
+177_Karl #csid 3 1 0 0
+178_Bjartur ref  Hver  var  kona  Fjalla  Eyvindar
+178_Bjartur hyp  hver  var  kona  Fjalla  Eyvindar
+178_Bjartur op     S    C     C      C        C   
+178_Bjartur #csid 4 1 0 0
+179_Dilja_v2 ref  Hver  var  fyrsti  single  af  svarta  albúmi  '***'  Metallica
+179_Dilja_v2 hyp  Hver  var  fyrsti  single  af  svarta  albúmi   mega    klikk  
+179_Dilja_v2 op     C    C      C       C     C     C       C      I        S    
+179_Dilja_v2 #csid 7 1 1 0
+180_Bjartur ref  Hvað  er  Svarti  dauði
+180_Bjartur hyp  Hvað  er  Svarti  dauði
+180_Bjartur op     C    C     C      C  
+180_Bjartur #csid 4 0 0 0
+181_Alfur_v2 ref  Er  Fótgíma  algeng  á  Íslandi
+181_Alfur_v2 hyp  Er  Fótgíma  algeng  á   '***' 
+181_Alfur_v2 op    C     C        C    C     D   
+181_Alfur_v2 #csid 4 0 0 1
+182_Dilja_v2 ref  Hvað  eru  margir  dagar  í  febrúar
+182_Dilja_v2 hyp  Hvað  eru  margir  dagar  í   '***' 
+182_Dilja_v2 op     C    C      C      C    C     D   
+182_Dilja_v2 #csid 5 0 0 1
+183_Bjartur ref  Hver  var  fyrsta  bók  Halldórs  Laxness
+183_Bjartur hyp  Hver  var  fyrsta  bók  Halldórs  Laxness
+183_Bjartur op     C    C      C     C       C        C   
+183_Bjartur #csid 6 0 0 0
+184_Alfur_v2 ref  Hver  sagði  Það  er  ekki  auðvelt  að  vera  grænn
+184_Alfur_v2 hyp  Hver  sagði  Það  er  ekki  auðvelt  að  vera  '***'
+184_Alfur_v2 op     C     C     C    C    C      C      C    C     D  
+184_Alfur_v2 #csid 8 0 0 1
+185_Alfur_v2 ref  Hver  er  '***'  næststærsta  borg  Hollands
+185_Alfur_v2 hyp  hver  er   næst    stærsta    borg    Kolla 
+185_Alfur_v2 op     S    C    I         S         C       S   
+185_Alfur_v2 #csid 2 3 1 0
+186_Alfur ref  Hvernig  er  tunglið  á  litinn
+186_Alfur hyp  Hvernig  er  tunglið  á   '***'
+186_Alfur op      C      C     C     C     D  
+186_Alfur #csid 4 0 0 1
+187_Rosa ref  Hvaða  land  deilir  eyjunni  Hispaniola  með  Dóminíska  Lýðveldinu
+187_Rosa hyp  Hvaða  land  deilir  eyjunni  Hispaniola  með  Dóminíska   lýðveldið
+187_Rosa op     C      C      C       C          C       C       C           S    
+187_Rosa #csid 7 1 0 0
+188_Bjartur ref  Hvenær  er  mottumars  haldinn  á  Íslandi
+188_Bjartur hyp  Hvenær  er  mottumars  haldinn  á  Íslandi
+188_Bjartur op      C     C      C         C     C     C   
+188_Bjartur #csid 6 0 0 0
+189_Dilja ref  Hvar  er  upphaf  Golfstraumsins
+189_Dilja hyp  Hvað  er   '***'       '***'    
+189_Dilja op     S    C     D           D      
+189_Dilja #csid 1 1 0 2
+190_Rosa ref  Hvenær  var  Bandaríska  frelsistríðið
+190_Rosa hyp  Hvenær  var  Bandaríska     frelsuð   
+190_Rosa op      C     C        C            S      
+190_Rosa #csid 3 1 0 0
+191_Dilja_v2 ref  Hvaða  ber  er  hægt  að  finna  í  Íslenskri  náttúru  víða  um  landið  okkar
+191_Dilja_v2 hyp  Hvaða  ber  er  hægt  að  finna  í  Íslenskri  náttúru  víða  um  landið  '***'
+191_Dilja_v2 op     C     C    C    C    C    C    C      C         C       C    C     C      D  
+191_Dilja_v2 #csid 12 0 0 1
+192_Dilja_v2 ref  Hverjir  voru  Hoplítar
+192_Dilja_v2 hyp  Hverjir  voru      í   
+192_Dilja_v2 op      C       C       S   
+192_Dilja_v2 #csid 2 1 0 0
+193_Dora ref  Eru  fálkar  á  Íslandi
+193_Dora hyp  Eru  fálkar  á   '***' 
+193_Dora op    C      C    C     D   
+193_Dora #csid 3 0 0 1
+194_Dilja_v2 ref  Hvaða  frumefni  er  númer  ellefu  í  lotukerfinu
+194_Dilja_v2 hyp  Hvaða  frumefni  er  númer  ellefu  í  lotukerfinu
+194_Dilja_v2 op     C        C      C    C       C    C       C     
+194_Dilja_v2 #csid 7 0 0 0
+195_Alfur ref  Hvað  er  sjórinn  á  Íslandi  kaldur
+195_Alfur hyp  Hvað  er  sjórinn  á  Íslandi  kaldur
+195_Alfur op     C    C     C     C     C        C  
+195_Alfur #csid 6 0 0 0
+196_Alfur_v2 ref  Hvaða  bandaríski  leikari  fór  með  hlutverk  Michael   Corleone   í  þríleiknum  um  Guðföðurinn
+196_Alfur_v2 hyp  Hvaða  bandaríski  leikari  fór  með  hlutverk   Mikael  korntegund  í  þríleiknum  um      Guðs   
+196_Alfur_v2 op     C         C         C      C    C       C        S          S      C       C       C       S     
+196_Alfur_v2 #csid 9 3 0 0
+197_Dilja ref  Hver    er   stærsti  hellir    á    Íslandi
+197_Dilja hyp  Hver  '***'   '***'    '***'  '***'   '***' 
+197_Dilja op     C     D       D        D      D       D   
+197_Dilja #csid 1 0 0 5
+198_Dilja_v2 ref  Hvar  er  borgin  Mekka
+198_Dilja_v2 hyp  hvað  er  borgin  '***'
+198_Dilja_v2 op     S    C     C      D  
+198_Dilja_v2 #csid 2 1 0 1
+199_Dilja_v2 ref  Hvar  er  hæðsti  foss  Íslands
+199_Dilja_v2 hyp  Hvað  er  hæðsti  foss  Íslands
+199_Dilja_v2 op     S    C     C      C      C   
+199_Dilja_v2 #csid 4 1 0 0
+200_Alfur ref  Hvaða  land  vann  heimsmeistaratitilinn  í  fótbolta  árið  nítján  hundruð  sextíu  og   tvö 
+200_Alfur hyp  Hvaða  land  vann  heimsmeistaratitilinn  í  fótbolta  árið  nítján  hundruð  sextíu  og  '***'
+200_Alfur op     C      C     C             C            C      C       C      C       C        C     C    D  
+200_Alfur #csid 11 0 0 1

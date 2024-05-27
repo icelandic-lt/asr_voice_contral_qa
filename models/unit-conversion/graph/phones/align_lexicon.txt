@@ -1,0 +1,407 @@
+ástralska ástralska au_B s_I t_I r_I a_I l_I s_I k_I a_E
+ástralskan ástralskan au_B s_I t_I r_I a_I l_I s_I k_I a_I n_E
+ástralskir ástralskir au_B s_I t_I r_I a_I l_I s_I c_I ɪ_I r_E
+ástralskum ástralskum au_B s_I t_I r_I a_I l_I s_I k_I ʏ_I m_E
+ástralskur ástralskur au_B s_I t_I r_I a_I l_I s_I k_I ʏ_I r_E
+áströlskum áströlskum au_B s_I t_I r_I œ_I l_I s_I k_I ʏ_I m_E
+átján átján auː_B t_I j_I au_I n_E
+átta átta au_B h_I t_I a_E
+áttatíu áttatíu au_B h_I t_I a_I t_I iː_I j_I ʏ_E
+áttatíu áttatíu au_B h_I t_I a_I t_I i_I j_I ʏ_E
+bandaríkjadal bandaríkjadal p_B a_I n_I t_I a_I r_I i_I c_I a_I t_I aː_I l_E
+bandaríkjadali bandaríkjadali p_B a_I n_I t_I a_I r_I i_I c_I a_I t_I aː_I l_I ɪ_E
+bandaríkjadalir bandaríkjadalir p_B a_I n_I t_I a_I r_I i_I c_I a_I t_I aː_I l_I ɪ_I r_E
+bandaríkjadalur bandaríkjadalur p_B a_I n_I t_I a_I r_I i_I c_I a_I t_I aː_I l_I ʏ_I r_E
+bandaríkjadölum bandaríkjadölum p_B a_I n_I t_I a_I r_I i_I c_I a_I t_I œː_I l_I ʏ_I m_E
+bat bat p_B aː_I t_E
+bati bati p_B aː_I t_I ɪ_E
+bolla bolla p_B ɔ_I t_I l_I a_E
+bollar bollar p_B ɔ_I t_I l_I a_I r_E
+bolli bolli p_B ɔ_I t_I l_I ɪ_E
+bollum bollum p_B ɔ_I t_I l_I ʏ_I m_E
+böt böt p_B œː_I t_E
+bötum bötum p_B œː_I t_I ʏ_I m_E
+brasilísk brasilísk p_B r_I aː_I s_I ɪ_I l_I i_I s_I k_E
+brasilískt brasilískt p_B r_I aː_I s_I ɪ_I l_I i_I s_I t_E
+brasilísku brasilísku p_B r_I aː_I s_I ɪ_I l_I i_I s_I k_I ʏ_E
+brasilískum brasilískum p_B r_I aː_I s_I ɪ_I l_I i_I s_I k_I ʏ_I m_E
+Breyttu Breyttu p_B r_I ei_I h_I t_I ʏ_E
+búlgarísku búlgarísku p_B u_I l_I k_I a_I r_I i_I s_I k_I ʏ_E
+búlgarskt búlgarskt p_B u_I l_I k_I a_I r_I s_I t_E
+búlgörsk búlgörsk p_B u_I l_I k_I œ_I r̥_I s_I k_E
+búlgörskum búlgörskum p_B u_I l_I k_I œ_I r̥_I s_I k_I ʏ_I m_E
+dal dal t_B aː_I l_E
+dali dali t_B aː_I l_I ɪ_E
+dalir dalir t_B aː_I l_I ɪ_I r_E
+dalur dalur t_B aː_I l_I ʏ_I r_E
+danska danska t_B a_I n_I s_I k_I a_E
+danskar danskar t_B a_I n_I s_I k_I a_I r_E
+desilítra desilítra t_B ɛː_I s_I ɪ_I l_I i_I t_I r_I a_E
+desilítrar desilítrar t_B ɛː_I s_I ɪ_I l_I i_I t_I r_I a_I r_E
+desilítri desilítri t_B ɛː_I s_I ɪ_I l_I i_I t_I r_I ɪ_E
+desilítrum desilítrum t_B ɛː_I s_I ɪ_I l_I i_I t_I r_I ʏ_I m_E
+dölum dölum t_B œː_I l_I ʏ_I m_E
+dönsk dönsk t_B œ_I n_I s_I k_E
+dönskum dönskum t_B œ_I n_I s_I k_I ʏ_I m_E
+ég ég j_B ɛː_I ɣ_E
+eina eina eiː_B n_I a_E
+ein ein eiː_B n_E
+ein ein ei_B n_E
+einn einn ei_B t_I n̥_E
+einni einni ei_B t_I n_I ɪ_E
+einu einu eiː_B n_I ʏ_E
+einum einum eiː_B n_I ʏ_I m_E
+einum einum ei_B n_I ʏ_I m_E
+eitt eitt ei_B h_I t_E
+ellefu ellefu ɛ_B t_I l_I ɛ_I v_I ʏ_E
+<eps> <eps> sil
+er er ɛː_B r_E
+eru eru ɛː_B r_I ʏ_E
+evra evra ɛ_B v_I r_I a_E
+evru evru ɛ_B v_I r_I ʏ_E
+evrum evrum ɛ_B v_I r_I ʏ_I m_E
+evrur evrur ɛ_B v_I r_I ʏ_I r_E
+fæ fæ f_B aiː_E
+fet fet f_B ɛː_I t_E
+feti feti f_B ɛː_I t_I ɪ_E
+fetum fetum f_B ɛː_I t_I ʏ_I m_E
+fimm fimm f_B ɪ_I m_E
+fimmtán fimmtán f_B ɪ_I m̥_I t_I au_I n_E
+fimmtíu fimmtíu f_B ɪ_I m̥_I t_I i_I j_I ʏ_E
+fjögur fjögur f_B j_I œː_I ɣ_I ʏ_I r_E
+fjóra fjóra f_B j_I ouː_I r_I a_E
+fjórar fjórar f_B j_I ouː_I r_I a_I r_E
+fjórar fjórar f_B j_I ou_I r_I a_I r_E
+fjórir fjórir f_B j_I ouː_I r_I ɪ_I r_E
+fjórtán fjórtán f_B j_I ou_I r̥_I t_I au_I n_E
+fjórum fjórum f_B j_I ouː_I r_I ʏ_I m_E
+fjörutíu fjörutíu f_B j_I œː_I r_I t_I i_I j_I ʏ_E
+fjörutíu fjörutíu f_B j_I œ_I r_I t_I i_I j_I ʏ_E
+fórinta fórinta f_B ouː_I r_I ɪ_I n̥_I t_I a_E
+fórintu fórintu f_B ou_I r̥_I ɪ_I n̥_I t_I ʏ_E
+fórintum fórintum f_B ouː_I r_I ɪ_I n̥_I t_I ʏ_I m_E
+fórintur fórintur f_B ouː_I r_I ɪ_I n̥_I t_I ʏ_I r_E
+franka franka f_B r_I au_I ŋ̊_I k_I a_E
+frankar frankar f_B r_I au_I ŋ_I k_I a_I r_E
+franki franki f_B r_I au_I n̥_I c_I ɪ_E
+frönkum frönkum f_B r_I œy_I ŋ̊_I k_I ʏ_I m_E
+fyrir fyrir f_B ɪː_I r_I ɪ_I r_E
+gramm gramm k_B r_I a_I m_E
+gramm gramm k_B r_I a_I m_I m_E
+grammi grammi k_B r_I a_I m_I ɪ_E
+grömm grömm k_B r_I œ_I m_E
+grömmum grömmum k_B r_I œ_I m_I ʏ_I m_E
+hálfa hálfa h_B au_I l_I v_I a_E
+hálfan hálfan h_B au_I l_I v_I a_I n_E
+hálf hálf h_B au_I l_I v_E
+hálfri hálfri h_B au_I l_I r_I ɪ_E
+hálfri hálfri h_B au_I l_I v_I r_I ɪ_E
+hálfs hálfs h_B au_I l_I s_E
+hálft hálft h_B au_I l̥_I t_E
+hálfu hálfu h_B au_I l_I v_I ʏ_E
+hálfum hálfum h_B au_I l_I v_I ʏ_I m_E
+hálfur hálfur h_B au_I l_I v_I ʏ_I r_E
+hong hong h_B ɔ_I ŋ_I k_E
+hundrað hundrað h_B ʏ_I n_I t_I r_I a_I ð_E
+hundruð hundruð h_B ʏ_I n_I t_I r_I ʏ_I ð_E
+Hvað Hvað k_B v_I aː_I ð_E
+Hversu Hversu k_B v_I ɛ_I r̥_I s_I ʏ_E
+í í iː_S
+indverska indverska ɪ_B n_I t_I v_I ɛ_I r̥_I s_I k_I a_E
+indverskar indverskar ɪ_B n_I t_I v_I ɛ_I r̥_I s_I k_I a_I r_E
+indversk indversk ɪ_B n_I t_I v_I ɛ_I r̥_I s_I k_E
+indverskum indverskum ɪ_B n_I t_I v_I ɛ_I r̥_I s_I k_I ʏ_I m_E
+ísraelska ísraelska iː_B s_I r_I a_I ɛ_I l_I s_I k_I a_E
+ísraelskan ísraelskan iː_B s_I r_I a_I ɛ_I l_I s_I k_I a_I n_E
+ísraelskir ísraelskir iː_B s_I r_I a_I ɛ_I l_I s_I c_I ɪ_I r_E
+ísraelskum ísraelskum iː_B s_I r_I a_I ɛ_I l_I s_I k_I ʏ_I m_E
+ísraelskur ísraelskur iː_B s_I r_I a_I ɛ_I l_I s_I k_I ʏ_I r_E
+ísrelskum ísrelskum iː_B s_I r_I ɛ_I l_I s_I k_I ʏ_I m_E
+jamaíska jamaíska j_B a_I m_I aː_I i_I s_I k_I a_E
+jamaískan jamaískan j_B a_I m_I aː_I i_I s_I k_I a_I n_E
+jamaískir jamaískir j_B a_I m_I aː_I i_I s_I c_I ɪ_I r_E
+jamaískum jamaískum j_B a_I m_I aː_I i_I s_I k_I ʏ_I m_E
+jamaískur jamaískur j_B a_I m_I aː_I i_I s_I k_I ʏ_I r_E
+jamískum jamískum j_B a_I m_I i_I s_I k_I ʏ_I m_E
+janpönsku janpönsku j_B aː_I n_I p_I œ_I n_I s_I k_I ʏ_E
+japanskt japanskt j_B aː_I p_I a_I n_I s_I t_E
+japönsk japönsk j_B aː_I p_I œ_I n_I s_I k_E
+japönskum japönskum j_B aː_I p_I œ_I n_I s_I k_I ʏ_I m_E
+jeni jeni j_B ɛː_I n_I ɪ_E
+jen jen j_B ɛː_I n_E
+jenum jenum j_B ɛː_I n_I ʏ_I m_E
+júani júani j_B uː_I a_I n_I ɪ_E
+júan júan j_B uː_I a_I n_E
+júön júön j_B uː_I œː_I n_E
+júönum júönum j_B uː_I œː_I n_I ʏ_I m_E
+kanadadalir kanadadalir kʰ_B aː_I n_I a_I t_I a_I t_I aː_I l_I ɪ_I r_E
+kanadadal kanadadal kʰ_B aː_I n_I a_I t_I a_I t_I aː_I l_E
+kanadadalur kanadadalur kʰ_B aː_I n_I a_I t_I a_I t_I aː_I l_I ʏ_I r_E
+kanadali kanadali kʰ_B aː_I n_I a_I t_I aː_I l_I ɪ_E
+kandadölum kandadölum kʰ_B a_I n_I t_I a_I t_I œː_I l_I ʏ_I m_E
+kanna kanna kʰ_B a_I n_I a_E
+kílógrammi kílógrammi cʰ_B iː_I l_I ou_I k_I r_I a_I m_I ɪ_E
+kílógramm kílógramm cʰ_B iː_I l_I ou_I k_I r_I a_I m_E
+kílógrömm kílógrömm cʰ_B iː_I l_I ou_I k_I r_I œ_I m_E
+kílógrömmum kílógrömmum cʰ_B iː_I l_I ou_I k_I r_I œ_I m_I ʏ_I m_E
+kílói kílói cʰ_B iː_I l_I ou_I ɪ_E
+kíló kíló cʰ_B iː_I l_I ou_E
+kílómetra kílómetra cʰ_B iː_I l_I ou_I m_I ɛː_I t_I r_I a_E
+kílómetrar kílómetrar cʰ_B iː_I l_I ou_I m_I ɛː_I t_I r_I a_I r_E
+kílómetrar kílómetrar cʰ_B iː_I l_I ou_I m_I ɛ_I t_I r_I a_I r_E
+kílómetri kílómetri cʰ_B iː_I l_I ou_I m_I ɛː_I t_I r_I ɪ_E
+kílómetrum kílómetrum cʰ_B iː_I l_I ou_I m_I ɛː_I t_I r_I ʏ_I m_E
+kílóum kílóum cʰ_B iː_I l_I ou_I ʏ_I m_E
+kínversk kínversk cʰ_B i_I n_I v_I ɛ_I r̥_I s_I k_E
+kínverskt kínverskt cʰ_B i_I n_I v_I ɛ_I r̥_I s_I t_E
+kínversku kínversku cʰ_B i_I n_I v_I ɛ_I r̥_I s_I k_I ʏ_E
+kínversku kínversku cʰ_B i_I n_I v_I ɛ_I r_I s_I k_I ʏ_E
+kínverskum kínverskum cʰ_B i_I n_I v_I ɛ_I r̥_I s_I k_I ʏ_I m_E
+komma komma kʰ_B ɔ_I m_I a_E
+kong kong kʰ_B ɔ_I ŋ_I k_E
+könnu könnu kʰ_B œ_I n_I ʏ_E
+könnum könnum kʰ_B œ_I n_I ʏ_I m_E
+könnur könnur kʰ_B œ_I n_I ʏ_I r_E
+króatíska króatíska kʰ_B r_I ouː_I a_I tʰ_I i_I s_I k_I a_E
+króatíska króatíska kʰ_B r_I ouː_I a_I t_I i_I s_I k_I a_E
+króatískar króatískar kʰ_B r_I ouː_I a_I t_I i_I s_I k_I a_I r_E
+króatísk króatísk kʰ_B r_I ouː_I a_I t_I i_I s_I k_E
+króatískum króatískum kʰ_B r_I ouː_I a_I t_I i_I s_I k_I ʏ_I m_E
+króna króna kʰ_B r_I ouː_I n_I a_E
+króna króna kʰ_B r_I ou_I n_I a_E
+krónu krónu kʰ_B r_I ouː_I n_I ʏ_E
+krónum krónum kʰ_B r_I ouː_I n_I ʏ_I m_E
+krónur krónur kʰ_B r_I ouː_I n_I ʏ_I r_E
+krónur krónur kʰ_B r_I ou_I n_I ʏ_I r_E
+kúna kúna kʰ_B uː_I n_I a_E
+kúnu kúnu kʰ_B uː_I n_I ʏ_E
+kúnum kúnum kʰ_B uː_I n_I ʏ_I m_E
+kúnur kúnur kʰ_B uː_I n_I ʏ_I r_E
+lefi lefi l_B ɛː_I v_I ɪ_E
+lef lef l_B ɛː_I v_E
+lefum lefum l_B ɛː_I v_I ʏ_I m_E
+líra líra l_B iː_I r_I a_E
+líru líru l_B i_I r_I ʏ_E
+lírum lírum l_B iː_I r_I ʏ_I m_E
+lírur lírur l_B iː_I r_I ʏ_I r_E
+lítra lítra l_B iː_I t_I r_I a_E
+lítrar lítrar l_B iː_I t_I r_I a_I r_E
+lítri lítri l_B iː_I t_I r_I ɪ_E
+lítrum lítrum l_B iː_I t_I r_I ʏ_I m_E
+marga marga m_B a_I r_I k_I a_E
+margar margar m_B a_I r_I k_I a_I r_E
+margir margir m_B a_I r_I c_I ɪ_I r_E
+matskeiðar matskeiðar m_B aː_I t_I s_I c_I eiː_I ð_I a_I r_E
+matskeið matskeið m_B aː_I t_I s_I c_I eiː_I ð_E
+matskeið matskeið m_B aː_I t_I s_I c_I ei_I ð_E
+matskeiðum matskeiðum m_B aː_I t_I s_I c_I ei_I ð_I ʏ_I m_E
+metra metra m_B ɛː_I t_I r_I a_E
+metrar metrar m_B ɛː_I t_I r_I a_I r_E
+metri metri m_B ɛː_I t_I r_I ɪ_E
+metrum metrum m_B ɛː_I t_I r_I ʏ_I m_E
+mexíkóska mexíkóska m_B ɛ_I k_I s_I i_I k_I ou_I s_I k_I a_E
+mexíkóskan mexíkóskan m_B ɛ_I k_I s_I i_I k_I ou_I s_I k_I a_I n_E
+mexíkóskir mexíkóskir m_B ɛ_I k_I s_I i_I k_I ouː_I s_I c_I ɪ_I r_E
+mexíkóskum mexíkóskum m_B ɛ_I k_I s_I i_I k_I ouː_I s_I k_I ʏ_I m_E
+mexikóskum mexikóskum m_B ɛ_I k_I s_I ɪ_I k_I ou_I s_I k_I ʏ_I m_E
+mexíkóskur mexíkóskur m_B ɛ_I k_I s_I i_I k_I ouː_I s_I k_I ʏ_I r_E
+míla míla m_B iː_I l_I a_E
+míla míla m_B i_I l_I a_E
+milligrammi milligrammi m_B ɪ_I t_I l_I ɪ_I k_I r_I a_I m_I ɪ_E
+milligramm milligramm m_B ɪ_I t_I l_I ɪ_I k_I r_I a_I m_E
+milligrömm milligrömm m_B ɪ_I t_I l_I ɪ_I k_I r_I œ_I m_E
+milligrömmum milligrömmum m_B ɪ_I t_I l_I ɪ_I k_I r_I œ_I m_I ʏ_I m_E
+millimetra millimetra m_B ɪ_I l_I ɪ_I m_I ɛː_I t_I r_I a_E
+millimetra millimetra m_B ɪ_I t_I l_I ɪ_I m_I ɛː_I t_I r_I a_E
+millimetrar millimetrar m_B ɪ_I l_I ɪ_I m_I ɛː_I t_I r_I a_I r_E
+millimetrar millimetrar m_B ɪ_I t_I l_I ɪ_I m_I ɛː_I t_I r_I a_I r_E
+millimetri millimetri m_B ɪ_I l_I ɪ_I m_I ɛː_I t_I r_I ɪ_E
+millimetrum millimetrum m_B ɪ_I l_I ɪ_I m_I ɛː_I t_I r_I ʏ_I m_E
+millimetrum millimetrum m_B ɪ_I t_I l_I ɪ_I m_I ɛː_I t_I r_I ʏ_I m_E
+mílu mílu m_B iː_I l_I ʏ_E
+mílu mílu m_B i_I l_I ʏ_E
+mílum mílum m_B iː_I l_I ʏ_I m_E
+mílur mílur m_B iː_I l_I ʏ_I r_E
+mörg mörg m_B œ_I r_I k_E
+næra næra n_B aiː_I r_I a_E
+nærum nærum n_B ai_I r_I ʏ_I m_E
+næru næru n_B ai_I r_I ʏ_E
+nærur nærur n_B ai_I r_I ʏ_I r_E
+nígeríska nígeríska n_B iː_I k_I ɛ_I r_I i_I s_I k_I a_E
+nígerískar nígerískar n_B iː_I k_I ɛ_I r_I i_I s_I k_I a_I r_E
+nígerísk nígerísk n_B iː_I k_I ɛ_I r_I i_I s_I k_E
+nígerískum nígerískum n_B iː_I k_I ɛ_I r_I i_I s_I k_I ʏ_I m_E
+nítján nítján n_B iː_I t_I j_I au_I n_E
+níu níu n_B iː_I j_I ʏ_E
+níutíu níutíu n_B iː_I t_I i_I j_I ʏ_E
+norska norska n_B ɔ_I r̥_I s_I k_I a_E
+norskar norskar n_B ɔ_I r̥_I s_I k_I a_I r_E
+norsk norsk n_B ɔ_I r̥_I s_I k_E
+norskum norskum n_B ɔ_I r̥_I s_I k_I ʏ_I m_E
+núll núll n_B u_I l_E
+nýsjálenskan nýsjálenskan n_B iː_I s_I j_I au_I l_I ɛ_I n_I s_I k_I a_I n_E
+nýsjálenska nýsjálenska n_B iː_I s_I j_I au_I l_I ɛ_I n_I s_I k_I a_E
+nýsjálenskir nýsjálenskir n_B iː_I s_I j_I au_I l_I ɛ_I n_I s_I c_I ɪ_I r_E
+nýsjálenskum nýsjálenskum n_B iː_I s_I j_I au_I l_I ɛ_I n_I s_I k_I ʏ_I m_E
+nýsjálenskur nýsjálenskur n_B iː_I s_I j_I au_I l_I ɛ_I n_I s_I k_I ʏ_I r_E
+og og ɔː_B ɣ_E
+pela pela pʰ_B ɛː_I l_I a_E
+pelar pelar pʰ_B ɛː_I l_I a_I r_E
+peli peli pʰ_B ɛː_I l_I ɪ_E
+pelum pelum pʰ_B ɛː_I l_I ʏ_I m_E
+pesa pesa pʰ_B ɛː_I s_I a_E
+pesar pesar pʰ_B ɛː_I s_I a_I r_E
+pesi pesi pʰ_B ɛ_I s_I ɪ_E
+pesum pesum pʰ_B ɛː_I s_I ʏ_I m_E
+pinti pinti pʰ_B ɪ_I n̥_I t_I ɪ_E
+pint pint pʰ_B ɪ_I n̥_I t_E
+pintum pintum pʰ_B ɪ_I n̥_I t_I ʏ_I m_E
+pólsk pólsk pʰ_B ou_I l_I s_I k_E
+pólskt pólskt pʰ_B ouː_I l_I s_I t_E
+pólskum pólskum pʰ_B ou_I l_I s_I k_I ʏ_I m_E
+pólsku pólsku pʰ_B ou_I l_I s_I k_I ʏ_E
+pundi pundi pʰ_B ʏ_I n_I t_I ɪ_E
+pund pund pʰ_B ʏ_I n_I t_E
+pundum pundum pʰ_B ʏ_I n_I t_I ʏ_I m_E
+randi randi r_B a_I n_I t_I ɪ_E
+rand rand r_B a_I n_I t_E
+ríali ríali r_B iː_I j_I a_I l_I ɪ_E
+ríal ríal r_B iː_I j_I a_I l_E
+ríöl ríöl r_B iː_I œː_I l_E
+ríölum ríölum r_B iː_I œː_I l_I ʏ_I m_E
+rönd rönd r_B œ_I n_I t_E
+röndum röndum r_B œ_I n_I t_I ʏ_I m_E
+rúmmetrar rúmmetrar r_B u_I m_I ɛ_I t_I r_I a_I r_E
+rúmmetra rúmmetra r_B u_I m_I ɛ_I t_I r_I a_E
+rúmmetri rúmmetri r_B u_I m_I ɛ_I t_I r_I ɪ_E
+rúmmetrum rúmmetrum r_B u_I m_I ɛ_I t_I r_I ʏ_I m_E
+rúmsentímetrar rúmsentímetrar r_B u_I m_I s_I ɛ_I n̥_I t_I i_I m_I ɛː_I t_I r_I a_I r_E
+rúmsentímetra rúmsentímetra r_B u_I m_I s_I ɛ_I n̥_I t_I i_I m_I ɛː_I t_I r_I a_E
+rúmsentimetra rúmsentimetra r_B u_I m_I s_I ɛ_I n̥_I t_I ɪ_I m_I ɛː_I t_I r_I a_E
+rúmsentímetri rúmsentímetri r_B u_I m_I s_I ɛ_I n̥_I t_I i_I m_I ɛː_I t_I r_I ɪ_E
+rúmsentimetrum rúmsentimetrum r_B u_I m_I s_I ɛ_I n̥_I t_I ɪ_I m_I ɛː_I t_I r_I ʏ_I m_E
+rúpía rúpía r_B uː_I p_I i_I j_I a_E
+rúpíum rúpíum r_B uː_I p_I i_I j_I ʏ_I m_E
+rúpíur rúpíur r_B uː_I p_I i_I j_I ʏ_I r_E
+rúpíu rúpíu r_B uː_I p_I i_I j_I ʏ_E
+sádiarabísk sádiarabísk s_B auː_I t_I ɪ_I aː_I r_I a_I p_I i_I s_I k_E
+sádiarabískt sádiarabískt s_B auː_I t_I ɪ_I aː_I r_I a_I p_I i_I s_I t_E
+sádiarabískum sádiarabískum s_B auː_I t_I ɪ_I aː_I r_I a_I p_I i_I s_I k_I ʏ_I m_E
+sádiarabísku sádiarabísku s_B auː_I t_I ɪ_I aː_I r_I a_I p_I i_I s_I k_I ʏ_E
+sænskar sænskar s_B ai_I n_I s_I k_I a_I r_E
+sænska sænska s_B ai_I n_I s_I k_I a_E
+sænsk sænsk s_B ai_I n_I s_I k_E
+sænskum sænskum s_B ai_I n_I s_I k_I ʏ_I m_E
+sautján sautján s_B œyː_I t_I j_I au_I n_E
+sentilítrar sentilítrar s_B ɛ_I n̥_I t_I ɪ_I l_I iː_I t_I r_I a_I r_E
+sentilítra sentilítra s_B ɛ_I n̥_I t_I ɪ_I l_I iː_I t_I r_I a_E
+sentilítri sentilítri s_B ɛ_I n̥_I t_I ɪ_I l_I iː_I t_I r_I ɪ_E
+sentilítrum sentilítrum s_B ɛ_I n̥_I t_I ɪ_I l_I iː_I t_I r_I ʏ_I m_E
+sentimetrar sentimetrar s_B ɛ_I n̥_I t_I ɪ_I m_I ɛː_I t_I r_I a_I r_E
+sentimetra sentimetra s_B ɛ_I n̥_I t_I ɪ_I m_I ɛː_I t_I r_I a_E
+sentimetri sentimetri s_B ɛ_I n̥_I t_I ɪ_I m_I ɛː_I t_I r_I ɪ_E
+sentimetrum sentimetrum s_B ɛ_I n̥_I t_I ɪ_I m_I ɛː_I t_I r_I ʏ_I m_E
+sex sex s_B ɛ_I k_I s_E
+sextán sextán s_B ɛ_I k_I s_I t_I au_I n_E
+sextíu sextíu s_B ɛ_I k_I s_I t_I i_I j_I ʏ_E
+sikill sikill s_B ɪː_I c_I ɪ_I t_I l̥_E
+sikil sikil s_B ɪː_I c_I ɪ_I l_E
+siklar siklar s_B ɪ_I h_I k_I l_I a_I r_E
+sikla sikla s_B ɪ_I h_I k_I l_I a_E
+sikli sikli s_B ɪ_I h_I k_I l_I ɪ_E
+siklum siklum s_B ɪ_I h_I k_I l_I ʏ_I m_E
+singapúrskan singapúrskan s_B i_I ŋ_I k_I a_I p_I u_I r̥_I s_I k_I a_I n_E
+singapúrska singapúrska s_B i_I ŋ_I k_I a_I p_I u_I r̥_I s_I k_I a_E
+singapúrskir singapúrskir s_B i_I ŋ_I k_I a_I p_I u_I r̥_I s_I c_I ɪ_I r_E
+singapúrskum singapúrskum s_B i_I ŋ_I k_I a_I p_I u_I r̥_I s_I k_I ʏ_I m_E
+singapúrskur singapúrskur s_B i_I ŋ_I k_I a_I p_I u_I r̥_I s_I k_I ʏ_I r_E
+sjómíla sjómíla s_B j_I ouː_I m_I i_I l_I a_E
+sjómílum sjómílum s_B j_I ouː_I m_I i_I l_I ʏ_I m_E
+sjómílur sjómílur s_B j_I ouː_I m_I i_I l_I ʏ_I r_E
+sjómílu sjómílu s_B j_I ouː_I m_I i_I l_I ʏ_E
+sjö sjö s_B j_I œː_E
+sjötíu sjötíu s_B j_I œː_I t_I i_I j_I ʏ_E
+slot slot s_B t_I l_I ɔː_I t_E
+slotti slotti s_B t_I l_I ɔ_I h_I t_I ɪ_E
+slotum slotum s_B t_I l_I ɔː_I t_I ʏ_I m_E
+sterlingspundi sterlingspundi s_B t_I ɛ_I r_I l_I i_I ŋ_I k_I s_I pʰ_I ʏ_I n_I t_I ɪ_E
+sterlingspund sterlingspund s_B t_I ɛ_I r_I l_I i_I ŋ_I k_I s_I pʰ_I ʏ_I n_I t_E
+sterlingspundum sterlingspundum s_B t_I ɛ_I r_I l_I i_I ŋ_I k_I s_I pʰ_I ʏ_I n_I t_I ʏ_I m_E
+suðurafrísk suðurafrísk s_B ʏː_I ð_I ʏ_I r̥_I aː_I f_I r_I i_I s_I k_E
+suðurafrískt suðurafrískt s_B ʏː_I ð_I ʏ_I r̥_I aː_I f_I r_I i_I s_I t_E
+suðurafrískum suðurafrískum s_B ʏː_I ð_I ʏ_I r̥_I aː_I f_I r_I i_I s_I k_I ʏ_I m_E
+suðurafrísku suðurafrísku s_B ʏː_I ð_I ʏ_I r̥_I aː_I f_I r_I i_I s_I k_I ʏ_E
+suðurkóresk suðurkóresk s_B ʏː_I ð_I ʏ_I r_I k_I ouː_I r_I ɛ_I s_I k_E
+suðurkóreskt suðurkóreskt s_B ʏː_I ð_I ʏ_I r_I k_I ouː_I r_I ɛ_I s_I t_E
+suðurkóreskum suðurkóreskum s_B ʏː_I ð_I ʏ_I r_I k_I ouː_I r_I ɛ_I s_I k_I ʏ_I m_E
+suðurkóresku suðurkóresku s_B ʏː_I ð_I ʏ_I r_I k_I ouː_I r_I ɛ_I s_I k_I ʏ_E
+súrínamskan súrínamskan s_B uː_I r_I iː_I n_I a_I m_I s_I k_I a_I n_E
+súrínamska súrínamska s_B uː_I r_I iː_I n_I a_I m_I s_I k_I a_E
+súrínamskir súrínamskir s_B uː_I r_I iː_I n_I a_I m_I s_I c_I ɪ_I r_E
+súrínamskur súrínamskur s_B uː_I r_I iː_I n_I a_I m_I s_I k_I ʏ_I r_E
+súrínömskum súrínömskum s_B uː_I r_I i_I n_I œ_I m_I s_I k_I ʏ_I m_E
+svissneskan svissneskan s_B v_I ɪ_I s_I n_I ɛ_I s_I k_I a_I n_E
+svissneska svissneska s_B v_I ɪ_I s_I n_I ɛ_I s_I k_I a_E
+svissneskir svissneskir s_B v_I ɪ_I s_I n_I ɛ_I s_I c_I ɪ_I r_E
+svissneskum svissneskum s_B v_I ɪ_I s_I n_I ɛ_I s_I k_I ʏ_I m_E
+svissneskur svissneskur s_B v_I ɪ_I s_I n_I ɛ_I s_I k_I ʏ_I r_E
+taílensk taílensk tʰ_B a_I i_I l_I ɛ_I n_I s_I k_E
+taílenskt taílenskt tʰ_B a_I i_I l_I ɛ_I n_I s_I t_E
+taílenskum taílenskum tʰ_B a_I i_I l_I ɛ_I n_I s_I k_I ʏ_I m_E
+taílensku taílensku tʰ_B aiː_I l_I ɛ_I n_I s_I k_I ʏ_E
+tékkneskar tékkneskar tʰ_B j_I ɛ_I h_I k_I n_I ɛ_I s_I k_I a_I r_E
+tékkneska tékkneska tʰ_B j_I ɛ_I h_I k_I n_I ɛ_I s_I k_I a_E
+tékknesk tékknesk tʰ_B j_I ɛ_I h_I k_I n_I ɛ_I s_I k_E
+tékkneskum tékkneskum tʰ_B j_I ɛ_I h_I k_I n_I ɛ_I s_I k_I ʏ_I m_E
+teskeiðar teskeiðar tʰ_B ɛː_I s_I c_I ei_I ð_I a_I r_E
+teskeið teskeið tʰ_B ɛː_I s_I c_I ei_I ð_E
+teskeiðum teskeiðum tʰ_B ɛː_I s_I c_I ei_I ð_I ʏ_I m_E
+tíu tíu tʰ_B iː_I j_I ʏ_E
+tólf tólf tʰ_B ou_I l_I v_E
+tomma tomma tʰ_B ɔ_I m_I a_E
+tommum tommum tʰ_B ɔ_I m_I ʏ_I m_E
+tommur tommur tʰ_B ɔ_I m_I ʏ_I r_E
+tommu tommu tʰ_B ɔ_I m_I ʏ_E
+tonni tonni tʰ_B ɔ_I n_I ɪ_E
+tonn tonn tʰ_B ɔ_I n_E
+tonnum tonnum tʰ_B ɔ_I n_I ʏ_I m_E
+tuttugu tuttugu tʰ_B ʏ_I h_I t_I ʏ_I ɣ_I ʏ_E
+tvær tvær t_B v_I aiː_I r_E
+tvær tvær tʰ_B v_I aiː_I r_E
+tveim tveim t_B v_I eiː_I m_E
+tveim tveim tʰ_B v_I eiː_I m_E
+tveim tveim tʰ_B v_I ɛː_I m_E
+tveimur tveimur t_B v_I eiː_I m_I ʏ_I r_E
+tveimur tveimur tʰ_B v_I eiː_I m_I ʏ_I r_E
+tveimur tveimur tʰ_B v_I ɛː_I m_I ʏ_I r_E
+tveir tveir t_B v_I eiː_I r_E
+tveir tveir tʰ_B v_I eiː_I r_E
+tvö tvö t_B v_I œː_E
+tvö tvö tʰ_B v_I œː_E
+tvo tvo tʰ_B v_I ou_E
+tvo tvo tʰ_B v_I ɔː_E
+tyrkneskar tyrkneskar tʰ_B ɪ_I r̥_I k_I n_I ɛ_I s_I k_I a_I r_E
+tyrkneska tyrkneska tʰ_B ɪ_I r̥_I k_I n_I ɛ_I s_I k_I a_E
+tyrknesk tyrknesk tʰ_B ɪ_I r̥_I k_I n_I ɛ_I s_I k_E
+tyrkneskum tyrkneskum tʰ_B ɪ_I r̥_I k_I n_I ɛ_I s_I k_I ʏ_I m_E
+ungverskar ungverskar u_B ŋ_I k_I v_I ɛ_I r̥_I s_I k_I a_I r_E
+ungverska ungverska u_B ŋ_I k_I v_I ɛ_I r̥_I s_I k_I a_E
+ungverskum ungverskum u_B ŋ_I k_I v_I ɛ_I r̥_I s_I k_I ʏ_I m_E
+ungversk ungversk u_B ŋ_I k_I v_I ɛ_I r̥_I s_I k_E
+<unk> <unk> oov_S
+únsa únsa u_B n_I s_I a_E
+únsum únsum u_B n_I s_I ʏ_I m_E
+únsur únsur u_B n_I s_I ʏ_I r_E
+únsu únsu u_B n_I s_I ʏ_E
+vonni vonni v_B ɔ_I n_I ɪ_E
+vonnum vonnum v_B ɔ_I n_I ʏ_I m_E
+vonn vonn v_B ɔ_I n_E
+þremur þremur θ_B r_I ɛː_I m_I ʏ_I r_E
+þrem þrem θ_B r_I ɛː_I m_E
+þrettán þrettán θ_B r_I ɛ_I h_I t_I au_I n_E
+þrír þrír θ_B r_I iː_I r_E
+þrjár þrjár θ_B r_I j_I auː_I r_E
+þrjátíu þrjátíu θ_B r_I j_I auː_I t_I i_I j_I ʏ_E
+þrjá þrjá θ_B r_I j_I auː_E
+þrjú þrjú θ_B r_I j_I uː_E
+þúsund þúsund θ_B uː_I s_I ʏ_I n_I t_E

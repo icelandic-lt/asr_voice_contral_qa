@@ -1,0 +1,4 @@
+compute-wer --mode=present ark:data/trivia-sept/test_set/text ark,p:- 
+%WER 19.60 [ 276 / 1408, 8 ins, 125 del, 143 sub ]
+%SER 67.50 [ 135 / 200 ]
+Scored 200 sentences, 0 not present in hyp.

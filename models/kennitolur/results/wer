@@ -1,0 +1,4 @@
+compute-wer --mode=present ark:data/kennitolur-sept/test_set/text ark,p:- 
+%WER 15.81 [ 331 / 2094, 5 ins, 266 del, 60 sub ]
+%SER 73.00 [ 146 / 200 ]
+Scored 200 sentences, 0 not present in hyp.

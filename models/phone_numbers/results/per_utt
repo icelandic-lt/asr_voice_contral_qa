@@ -1,0 +1,800 @@
+1_Alfur ref  fimmtíu  og  sex  þrjátíu  og  fjórir   tvö   hundruð
+1_Alfur hyp  fimmtíu  og  sex  þrjátíu  og  fjórir  '***'   '***' 
+1_Alfur op      C      C   C      C      C     C      D       D   
+1_Alfur #csid 6 0 0 2
+2_Rosa ref  sjö   einn  núll  þrír  núll  tuttugu  og  fjórir
+2_Rosa hyp  sjö  '***'  núll  þrír  núll  tuttugu  og  fjórir
+2_Rosa op    C     D      C     C     C      C      C     C  
+2_Rosa #csid 7 0 0 1
+3_Rosa ref  fjörutíu  og  sex  áttatíu  og  níu  sex  þrír   sex 
+3_Rosa hyp  fjörutíu  og  sex  áttatíu  og  níu  sex  þrír  '***'
+3_Rosa op       C      C   C      C      C   C    C     C     D  
+3_Rosa #csid 8 0 0 1
+4_Dilja_v2 ref  sjö  einn  tveir  fjörutíu  og   þrír  fimm   þrír
+4_Dilja_v2 hyp  sjö  einn  tveir  fjörutíu  og  '***'  fimm  '***'
+4_Dilja_v2 op    C     C     C        C      C    D      C     D  
+4_Dilja_v2 #csid 6 0 0 2
+5_Dilja ref  fjórir   einn  sjö  níu  núll   þrír   þrír
+5_Dilja hyp  fjórir  '***'  sjö  níu  núll  '***'  '***'
+5_Dilja op      C      D     C    C     C     D      D  
+5_Dilja #csid 4 0 0 3
+6_Dilja ref  fimmtíu  og  þrír  sextíu  og   þrír  sex   einn  fjórir
+6_Dilja hyp  fimmtíu  og  þrír  sextíu  og  '***'  sex  '***'   '***'
+6_Dilja op      C      C    C      C     C    D     C     D       D  
+6_Dilja #csid 6 0 0 3
+7_Alfur ref  fimm  tuttugu  og  fimm  fjórir  sjö  tveir   fimm
+7_Alfur hyp  fimm  tuttugu  og  fimm  fjórir  sjö  tveir  '***'
+7_Alfur op     C      C      C    C      C     C     C      D  
+7_Alfur #csid 7 0 0 1
+8_Bjartur ref  sjötíu  og  sex  fimmtíu  og  einn  tveir  níu   fimm
+8_Bjartur hyp  sjötíu  og  sex  fimmtíu  og  einn  tveir  níu  '***'
+8_Bjartur op      C     C   C      C      C    C     C     C     D  
+8_Bjartur #csid 8 0 0 1
+9_Rosa ref  fjórir  níutíu  og  átta  sjö  tveir  sjö  fjórir
+9_Rosa hyp  fjórir  níutíu  og  átta  sjö  tveir  sjö   '***'
+9_Rosa op      C       C     C    C    C     C     C      D  
+9_Rosa #csid 7 0 0 1
+10_Bjartur ref  fjórir  fimmtíu  sex  níu  sex   níu 
+10_Bjartur hyp  fjórir  fimmtíu  sex  níu  sex  '***'
+10_Bjartur op      C       C      C    C    C     D  
+10_Bjartur #csid 5 0 0 1
+11_Karl ref  áttatíu  og  fimm  sextíu  og  sex  átta  níu   fimm
+11_Karl hyp  áttatíu  og  fimm  sextíu  og  sex  átta  níu  '***'
+11_Karl op      C      C    C      C     C   C     C    C     D  
+11_Karl #csid 8 0 0 1
+12_Alfur_v2 ref  sjö  fimmtíu  og  fimm  eitt  þúsund  hundrað  tuttugu  og  fjórir
+12_Alfur_v2 hyp  sjö  fimmtíu  og  fimm  eitt  þúsund  hundrað  tuttugu  og    sjö 
+12_Alfur_v2 op    C      C      C    C     C      C       C        C      C     S  
+12_Alfur_v2 #csid 9 1 0 0
+13_Karl ref  fjörutíu  og  þrír  sextíu  og  þrír  átta  níu   núll
+13_Karl hyp  fjörutíu  og  þrír  sextíu  og  þrír  átta  níu  '***'
+13_Karl op       C      C    C      C     C    C     C    C     D  
+13_Karl #csid 8 0 0 1
+14_Bjartur ref  átta  sex  einn  sextíu  og  tveir  fjórir  níu
+14_Bjartur hyp  átta  sex  einn  sextíu  og  tveir  fjórir  níu
+14_Bjartur op     C    C     C      C     C    C       C     C 
+14_Bjartur #csid 8 0 0 0
+15_Alfur ref  sextíu  og  átta  tuttugu  og  einn  einn  fimm  fjórir
+15_Alfur hyp  sextíu  og  átta  tuttugu  og  einn  einn  fimm   '***'
+15_Alfur op      C     C    C      C      C    C     C     C      D  
+15_Alfur #csid 8 0 0 1
+16_Rosa ref  fjórir   fimm  níu  fjórir  fjórir  áttatíu    og   tveir
+16_Rosa hyp  fjórir  '***'  níu  fjórir  fjórir   '***'   '***'   átta
+16_Rosa op      C      D     C      C       C       D       D      S  
+16_Rosa #csid 4 1 0 3
+17_Dora ref  sex  sjö  níu  einn  níu  sjötíu    og    einn
+17_Dora hyp  sex  sjö  níu  einn  níu  sjötíu  '***'  '***'
+17_Dora op    C    C    C     C    C      C      D      D  
+17_Dora #csid 6 0 0 2
+18_Dora ref  níu  áttatíu  og  þrír  tveir  sex  sjö   núll
+18_Dora hyp  níu  áttatíu  og  þrír  tveir  sex  sjö  '***'
+18_Dora op    C      C      C    C     C     C    C     D  
+18_Dora #csid 7 0 0 1
+19_Alfur ref  átta  fimmtíu  og  átta  sex  þúsund  níu  hundruð  tuttugu  og  níu
+19_Alfur hyp  átta  fimmtíu  og  átta  sex  þúsund  níu  hundruð  tuttugu  og  níu
+19_Alfur op     C      C      C    C    C      C     C      C        C      C   C 
+19_Alfur #csid 11 0 0 0
+20_Alfur ref  sjötíu  og  níu  fimmtíu  og  þrír  tvö  hundruð  tuttugu  og   tveir 
+20_Alfur hyp  sjötíu  og  níu  fimmtíu  og  þrír  tvö  hundruð   '***'   og  tuttugu
+20_Alfur op      C     C   C      C      C    C    C      C        D      C     S   
+20_Alfur #csid 9 1 0 1
+21_Alfur ref  fimm  einn  átta  sjö   níu    sex   sex
+21_Alfur hyp  fimm  einn  átta  sjö  '***'  '***'  sex
+21_Alfur op     C     C     C    C     D      D     C 
+21_Alfur #csid 5 0 0 2
+22_Alfur ref  níutíu  og  níu  þrjátíu  og  átta  þrír  sex  fjórir
+22_Alfur hyp  níutíu  og  níu  þrjátíu  og  átta  þrír  sex   '***'
+22_Alfur op      C     C   C      C      C    C     C    C      D  
+22_Alfur #csid 8 0 0 1
+23_Rosa ref  fimm  átta  tveir  núll  fjórir  sautján
+23_Rosa hyp  fimm  átta  tveir  núll  fjórir   '***' 
+23_Rosa op     C     C     C      C      C       D   
+23_Rosa #csid 5 0 0 1
+24_Alfur_v2 ref  níu  tuttugu  og  fimm  þrjú  þúsund  tvö  hundruð  og  fimmtán
+24_Alfur_v2 hyp  níu  tuttugu  og  fimm  þrjú  þúsund  tvö  hundruð  og  fimmtán
+24_Alfur_v2 op    C      C      C    C     C      C     C      C      C     C   
+24_Alfur_v2 #csid 10 0 0 0
+25_Rosa ref  sjö  sjötíu  og  fjórir  níu  fjórir   átta   þrír
+25_Rosa hyp  sjö  sjötíu  og  fjórir  níu  fjórir  '***'  '***'
+25_Rosa op    C      C     C     C     C      C      D      D  
+25_Rosa #csid 6 0 0 2
+26_Alfur ref  níutíu  áttatíu  níu  átta  fimm
+26_Alfur hyp   '***'    níu    tíu  átta  átta
+26_Alfur op      D       S      S     C     S 
+26_Alfur #csid 1 3 0 1
+27_Dora ref  fimm  átta  þrír   níu   níu  þrjátíu    og    sjö 
+27_Dora hyp  fimm  átta  þrír  '***'  níu  þrjátíu  '***'  '***'
+27_Dora op     C     C     C     D     C      C       D      D  
+27_Dora #csid 5 0 0 3
+28_Bjartur ref  níu  sextíu  og  sex  tvö  þúsund  níu  hundruð  fjörutíu  og  níu
+28_Bjartur hyp  níu  sextíu  og  sex  tvö  þúsund  níu  hundruð  fjörutíu  og  níu
+28_Bjartur op    C      C     C   C    C      C     C      C         C      C   C 
+28_Bjartur #csid 11 0 0 0
+29_Alfur ref  sjötíu  og  þrír  þrjátíu  og  tveir  fjögur  hundruð  fimmtíu  og    þrír 
+29_Alfur hyp  sjötíu  og  þrír  þrjátíu  og  tveir  fjögur  hundruð   '***'   og  fimmtíu
+29_Alfur op      C     C    C      C      C    C       C       C        D      C     S   
+29_Alfur #csid 9 1 0 1
+30_Bjartur ref  fimm  þrír  tveir  sextán  níu  sjö
+30_Bjartur hyp  fimm  þrír  tveir  sextán  níu  sjö
+30_Bjartur op     C     C     C       C     C    C 
+30_Bjartur #csid 6 0 0 0
+31_Alfur_v2 ref  sjötíu  og  sjö  fimmtíu  og  fjórir  fimm  hundruð  þrjátíu  og  þrír
+31_Alfur_v2 hyp  sjötíu  og  sjö  fimmtíu  og  fjórir  fimm  hundruð  þrjátíu  og   sjö
+31_Alfur_v2 op      C     C   C      C      C     C      C      C        C      C    S 
+31_Alfur_v2 #csid 10 1 0 0
+32_Dilja_v2 ref  fimm  fimm  tveir  þrjátíu  og  sjö  fjórir  átta
+32_Dilja_v2 hyp  fimm  fimm  tveir  þrjátíu  og  sjö  fjórir  átta
+32_Dilja_v2 op     C     C     C       C      C   C      C      C 
+32_Dilja_v2 #csid 8 0 0 0
+33_Alfur ref  níu  sex   einn  fimm  þrír   fimm   níu 
+33_Alfur hyp  níu  sex  '***'  fimm  þrír  '***'  '***'
+33_Alfur op    C    C     D      C     C     D      D  
+33_Alfur #csid 4 0 0 3
+34_Dilja_v2 ref  fimm   þrír  átta  þrír  sjö  sjö  átta
+34_Dilja_v2 hyp  fimm  '***'  átta  þrír  sjö  sjö  átta
+34_Dilja_v2 op     C     D      C     C    C    C     C 
+34_Dilja_v2 #csid 6 0 0 1
+35_Dilja_v2 ref  sjö  sjö  einn  sextíu  og  tveir  níu  tveir
+35_Dilja_v2 hyp  sjö  sjö  einn  sextíu  og  tveir  níu  tveir
+35_Dilja_v2 op    C    C     C      C     C    C     C     C  
+35_Dilja_v2 #csid 8 0 0 0
+36_Alfur_v2 ref  átta  fimmtíu  og  fimm  eitt  þúsund  tvö  hundruð  fimmtíu  og  sjö
+36_Alfur_v2 hyp  átta  fimmtíu  og  fimm  eitt  þúsund  tvö  hundruð  fimmtíu  og  sjö
+36_Alfur_v2 op     C      C      C    C     C      C     C      C        C      C   C 
+36_Alfur_v2 #csid 11 0 0 0
+37_Alfur_v2 ref  sjö  sjö  níu  tveir  núll  sautján
+37_Alfur_v2 hyp  sjö  sjö  níu  tveir  núll    sjö  
+37_Alfur_v2 op    C    C    C     C      C      S   
+37_Alfur_v2 #csid 5 1 0 0
+38_Alfur_v2 ref  sjö  þrjátíu  og  fimm  sex  þrír  níu  sjö
+38_Alfur_v2 hyp  sjö  þrjátíu  og  fimm  sex  þrír  níu  sjö
+38_Alfur_v2 op    C      C      C    C    C     C    C    C 
+38_Alfur_v2 #csid 8 0 0 0
+39_Alfur ref  átta  áttatíu  og  níu  sjötíu  og  tveir  sextíu  og  einn
+39_Alfur hyp  átta  áttatíu  og  níu  sjötíu  og  tveir  sextíu  og  einn
+39_Alfur op     C      C      C   C      C     C    C       C     C    C 
+39_Alfur #csid 10 0 0 0
+40_Dora ref  fimm  fjörutíu  níutíu  og  sex  tuttugu  og  níu
+40_Dora hyp  fimm  fjörutíu  níutíu  og  sex  tuttugu  og  níu
+40_Dora op     C       C        C     C   C      C      C   C 
+40_Dora #csid 8 0 0 0
+41_Alfur_v2 ref  níu  sex  fimm  fimm  fjórir  þrír  sjö
+41_Alfur_v2 hyp  níu  sex  fimm  fimm  fjórir  þrír  sjö
+41_Alfur_v2 op    C    C     C     C      C      C    C 
+41_Alfur_v2 #csid 7 0 0 0
+42_Dilja ref  fjórir  tuttugu    og    þrír  tuttugu    og    sjö   áttatíu  og  fimm
+42_Dilja hyp  fjórir   '***'   '***'  '***'  tuttugu  '***'  '***'   '***'   og   níu
+42_Dilja op      C       D       D      D       C       D      D       D      C    S 
+42_Dilja #csid 3 1 0 6
+43_Dilja ref  sjö  átta  fjórir  þrjátíu   þrír   þrír
+43_Dilja hyp  sjö  átta  fjórir  þrjátíu  '***'  '***'
+43_Dilja op    C     C      C       C       D      D  
+43_Dilja #csid 4 0 0 2
+44_Rosa ref  fjórir  núll  sex  þrjátíu  og  sex  níu  sex
+44_Rosa hyp  fjórir  núll  sex  þrjátíu  og  sex  níu  sex
+44_Rosa op      C      C    C      C      C   C    C    C 
+44_Rosa #csid 8 0 0 0
+45_Rosa ref  fimm  fjörutíu  og  sjö  núll  sex  níu   átta
+45_Rosa hyp  fimm  fjörutíu  og  sjö  núll  sex  níu  '***'
+45_Rosa op     C       C      C   C     C    C    C     D  
+45_Rosa #csid 7 0 0 1
+46_Bjartur ref  átta  níutíu  og  einn  þrír  sex  tveir   sjö 
+46_Bjartur hyp  átta  níutíu  og  einn  þrír  sex  tveir  '***'
+46_Bjartur op     C      C     C    C     C    C     C      D  
+46_Bjartur #csid 7 0 0 1
+47_Rosa ref  fjörutíu  og  níu  níutíu  og  sjö  fjórir  einn  fjórir
+47_Rosa hyp  fjörutíu  og  níu  níutíu  og  sjö  fjórir  einn  fjórir
+47_Rosa op       C      C   C      C     C   C      C      C      C  
+47_Rosa #csid 9 0 0 0
+48_Alfur_v2 ref  fjörutíu  og  níu  níutíu  þrír  þrír  tveir
+48_Alfur_v2 hyp  fjörutíu  og  níu  níutíu  þrír  þrír  tveir
+48_Alfur_v2 op       C      C   C      C      C     C     C  
+48_Alfur_v2 #csid 7 0 0 0
+49_Alfur ref  níu  níutíu  og  einn  þrjú  þúsund  sjö  hundruð  fjörutíu  og  tveir
+49_Alfur hyp  níu  níutíu  og  einn  þrjú  þúsund  sjö  hundruð  fjörutíu  og   einn
+49_Alfur op    C      C     C    C     C      C     C      C         C      C    S  
+49_Alfur #csid 10 1 0 0
+50_Dora ref  níu  fimm  átta  tveir  tveir  þrír   níu 
+50_Dora hyp  níu  fimm  átta  tveir  tveir  þrír  '***'
+50_Dora op    C     C     C     C      C      C     D  
+50_Dora #csid 6 0 0 1
+51_Dilja_v2 ref  fjórir  þrír  átta  núll  fimm   einn  fjórir
+51_Dilja_v2 hyp  fjórir  þrír  átta  núll  fimm  '***'  fjórir
+51_Dilja_v2 op      C      C     C     C     C     D       C  
+51_Dilja_v2 #csid 6 0 0 1
+52_Alfur_v2 ref  níutíu  og  sex  tuttugu  og  þrír  sex  hundruð  níutíu  og  þrír
+52_Alfur_v2 hyp  níutíu  og  sex  tuttugu  og  þrír  sex  hundruð  níutíu  og  þrír
+52_Alfur_v2 op      C     C   C      C      C    C    C      C        C     C    C 
+52_Alfur_v2 #csid 11 0 0 0
+53_Alfur ref  fjörutíu  og  fjórir  tuttugu  og  fjórir  tvö  hundruð  áttatíu   og   sjö
+53_Alfur hyp  fjörutíu  og  fjórir  tuttugu  og  fjórir  tvö  hundruð   '***'   átta  tíu
+53_Alfur op       C      C     C       C      C     C     C      C        D       S    S 
+53_Alfur #csid 8 2 0 1
+54_Dilja_v2 ref  níutíu  og  níu  níutíu  og  einn  hundrað  og  sextíu
+54_Dilja_v2 hyp  níutíu  og  níu  níutíu  og  einn  hundrað  og  sextíu
+54_Dilja_v2 op      C     C   C      C     C    C      C      C     C  
+54_Dilja_v2 #csid 9 0 0 0
+55_Karl ref  sex  sextíu  og  sjö  sex  þúsund  sex  hundruð  og  fjörutíu
+55_Karl hyp  sex  sextíu  og  sjö  sex  þúsund  sex  hundruð  og   fjórir 
+55_Karl op    C      C     C   C    C      C     C      C      C      S   
+55_Karl #csid 9 1 0 0
+56_Alfur ref  níu  áttatíu  og  sex  átta  þrír  fjórir   átta
+56_Alfur hyp  níu  áttatíu  og  sex  átta  þrír  fjórir  '***'
+56_Alfur op    C      C      C   C     C     C      C      D  
+56_Alfur #csid 7 0 0 1
+57_Rosa ref  fimmtíu    og    þrír  fimmtíu  og  níu  tveir  núll   átta
+57_Rosa hyp   '***'   '***'  '***'  fimmtíu  og  níu  tveir  núll  '***'
+57_Rosa op      D       D      D       C      C   C     C      C     D  
+57_Rosa #csid 5 0 0 4
+58_Karl ref  fjórir  þrjátíu  og  fimm  sex  þúsund  fimm  hundruð  fjörutíu  og  fjórir
+58_Karl hyp  fjórir  þrjátíu  og  fimm  sex  þúsund  fimm  hundruð  fjörutíu  og   fimm 
+58_Karl op      C       C      C    C    C      C      C      C         C      C     S  
+58_Karl #csid 10 1 0 0
+59_Alfur_v2 ref  níu  fimm  fjórir  núll  sex  þrír   átta
+59_Alfur_v2 hyp  níu  fimm  fjórir  núll  sex  þrír  '***'
+59_Alfur_v2 op    C     C      C      C    C     C     D  
+59_Alfur_v2 #csid 6 0 0 1
+60_Rosa ref  níu  áttatíu  og  sjö  einn  fimm  fjórir   sex 
+60_Rosa hyp  níu  áttatíu  og  sjö  einn  fimm  fjórir  '***'
+60_Rosa op    C      C      C   C     C     C      C      D  
+60_Rosa #csid 7 0 0 1
+61_Rosa ref  níu  fimmtíu    og   sex   fimm  sex  níu   þrír
+61_Rosa hyp  níu   '***'   '***'  sex  '***'  sex  níu  '***'
+61_Rosa op    C      D       D     C     D     C    C     D  
+61_Rosa #csid 4 0 0 4
+62_Bjartur ref  fjórir  níu  tveir  tveir  fimm  níu  sjö
+62_Bjartur hyp  fjórir  níu  tveir  tveir  fimm  níu  sjö
+62_Bjartur op      C     C     C      C      C    C    C 
+62_Bjartur #csid 7 0 0 0
+63_Karl ref  sjötíu  og  þrír  fimmtíu  og  sex  átta  hundruð  og  þrjátíu
+63_Karl hyp  sjötíu  og  þrír  fimmtíu  og  sex  átta  hundruð  og    þrír 
+63_Karl op      C     C    C      C      C   C     C      C      C     S   
+63_Karl #csid 9 1 0 0
+64_Alfur_v2 ref  fjórir  sjö  einn  sjö  fimm  núll  sjö
+64_Alfur_v2 hyp  fjórir  sjö  einn  sjö  fimm  núll  sjö
+64_Alfur_v2 op      C     C     C    C     C     C    C 
+64_Alfur_v2 #csid 7 0 0 0
+65_Rosa ref  fimm  tveir  átta   þrír  tveir  sjötíu    og   sjö
+65_Rosa hyp  fimm  tveir  átta  '***'  tveir   '***'  '***'  sjö
+65_Rosa op     C     C      C     D      C       D      D     C 
+65_Rosa #csid 5 0 0 3
+66_Alfur ref  fimm  sextíu  og  sjö  sjö  átta  sjö   núll
+66_Alfur hyp  fimm  sextíu  og  sjö  sjö  átta  sjö  '***'
+66_Alfur op     C      C     C   C    C     C    C     D  
+66_Alfur #csid 7 0 0 1
+67_Dilja ref  sjö  níu  einn  þrjátíu  og   níu   níu  tveir
+67_Dilja hyp  sjö  níu  einn  þrjátíu  og  '***'  níu  '***'
+67_Dilja op    C    C     C      C      C    D     C     D  
+67_Dilja #csid 6 0 0 2
+68_Bjartur ref  fjórir  einn  sjö  fjórir  þrír  fimmtíu  og  fjórir
+68_Bjartur hyp  fjórir  einn  sjö  fjórir  þrír  fimmtíu  og    sjö 
+68_Bjartur op      C      C    C      C      C      C      C     S  
+68_Bjartur #csid 7 1 0 0
+69_Karl ref  sex  tveir  sjö  níutíu    og   fimm  tveir  tveir
+69_Karl hyp  sex  tveir  sjö  níutíu  '***'  fimm  '***'  tveir
+69_Karl op    C     C     C      C      D      C     D      C  
+69_Karl #csid 6 0 0 2
+70_Rosa ref  sex  sjö  fjórir   einn   einn  sex   einn
+70_Rosa hyp  sex  sjö  fjórir  '***'  '***'  sex  '***'
+70_Rosa op    C    C      C      D      D     C     D  
+70_Rosa #csid 4 0 0 3
+71_Rosa ref  átta  áttatíu  og  sex  tvö  þúsund  fimm  hundruð  níutíu  og  einn
+71_Rosa hyp  átta  áttatíu  og  sex  tvö  þúsund  fimm  hundruð  níutíu  og  einn
+71_Rosa op     C      C      C   C    C      C      C      C        C     C    C 
+71_Rosa #csid 11 0 0 0
+72_Bjartur ref  sextíu  og  sjö  fimmtíu  og  fimm  átta  hundruð  áttatíu  og  átta
+72_Bjartur hyp  sextíu  og  sjö  fimmtíu  og  fimm  átta  hundruð  áttatíu  og  átta
+72_Bjartur op      C     C   C      C      C    C     C      C        C      C    C 
+72_Bjartur #csid 11 0 0 0
+73_Dora ref  sextíu  og  fjórir  áttatíu  og  tveir  hundrað  fimmtíu  og    fimm 
+73_Dora hyp  sextíu  og  fjórir  áttatíu  og  tveir  hundrað   '***'   og  fimmtíu
+73_Dora op      C     C     C       C      C    C       C        D      C     S   
+73_Dora #csid 8 1 0 1
+74_Alfur_v2 ref  sjö  fjörutíu  og  þrír  tveir  fimm  níu  fjórir
+74_Alfur_v2 hyp  sjö  fjörutíu  og  þrír  tveir  fimm  níu  fjórir
+74_Alfur_v2 op    C       C      C    C     C      C    C      C  
+74_Alfur_v2 #csid 8 0 0 0
+75_Alfur ref  átta  tuttugu  og  þrír  fimm  þúsund  sjö  hundruð    og    tíu 
+75_Alfur hyp  átta  tuttugu  og  þrír  fimm  þúsund  sjö  hundruð  '***'  '***'
+75_Alfur op     C      C      C    C     C      C     C      C       D      D  
+75_Alfur #csid 8 0 0 2
+76_Dora ref  sex  fimm  tveir  núll  sjö  fjörutíu    og    einn
+76_Dora hyp  sex  fimm  tveir  núll  sjö  fjörutíu  '***'  '***'
+76_Dora op    C     C     C      C    C       C       D      D  
+76_Dora #csid 6 0 0 2
+77_Dilja ref  fimm  tuttugu  og  níu  þrjátíu  og  fjórir  áttatíu   og   sjö
+77_Dilja hyp  fimm  tuttugu  og  níu  þrjátíu  og  fjórir   '***'   átta  tíu
+77_Dilja op     C      C      C   C      C      C     C       D       S    S 
+77_Dilja #csid 7 2 0 1
+78_Alfur_v2 ref  níu  sextíu  og  fjórir  átta  sex  fjórir  tveir
+78_Alfur_v2 hyp  níu  sextíu  og  fjórir  átta  sex  fjórir  '***'
+78_Alfur_v2 op    C      C     C     C      C    C      C      D  
+78_Alfur_v2 #csid 7 0 0 1
+79_Alfur_v2 ref  níu  sextíu  og  tveir  tvö  þúsund  fjögur  hundruð  níutíu  og  níu
+79_Alfur_v2 hyp  níu  sextíu  og  tveir  tvö  þúsund  fjögur  hundruð  níutíu  og  níu
+79_Alfur_v2 op    C      C     C    C     C      C       C       C        C     C   C 
+79_Alfur_v2 #csid 11 0 0 0
+80_Bjartur ref  sjö  fjórir  níu  tíu  núll  tveir
+80_Bjartur hyp  sjö  fjórir  níu  tíu  núll  tveir
+80_Bjartur op    C      C     C    C     C     C  
+80_Bjartur #csid 6 0 0 0
+81_Dora ref  átta  sjötíu  og  níu  tvö  þúsund  fimm  hundruð  og  fjórir
+81_Dora hyp  átta  sjötíu  og  níu  tvö  þúsund  fimm  hundruð  og   fimm 
+81_Dora op     C      C     C   C    C      C      C      C      C     S  
+81_Dora #csid 9 1 0 0
+82_Dilja_v2 ref  átta  fjórir   einn  fjórir  sjö  sex  tveir
+82_Dilja_v2 hyp  átta  fjórir  '***'  fjórir  sjö  sex  '***'
+82_Dilja_v2 op     C      C      D       C     C    C     D  
+82_Dilja_v2 #csid 5 0 0 2
+83_Dora ref  fjórir  einn  níu  áttatíu    og   fjórir  fjórir   fimm
+83_Dora hyp  fjórir  einn  níu  áttatíu  '***'  fjórir  fjórir  '***'
+83_Dora op      C      C    C      C       D       C       C      D  
+83_Dora #csid 6 0 0 2
+84_Dilja_v2 ref  fjörutíu  og  fjórir  fimmtíu  og  sjö  sjö  tveir  sjö
+84_Dilja_v2 hyp  fjörutíu  og  fjórir  fimmtíu  og  sjö  sjö   fimm  sjö
+84_Dilja_v2 op       C      C     C       C      C   C    C     S     C 
+84_Dilja_v2 #csid 8 1 0 0
+85_Rosa ref  fjórir  níutíu  og  sex   þrír  átta   fimm  tveir
+85_Rosa hyp  fjórir  níutíu  og  sex  '***'  átta  '***'  tveir
+85_Rosa op      C       C     C   C     D      C     D      C  
+85_Rosa #csid 6 0 0 2
+86_Rosa ref  sjö  einn  núll  níutíu  og  fjórir   einn   níu 
+86_Rosa hyp  sjö  einn  núll  níutíu  og  fjórir  '***'  '***'
+86_Rosa op    C     C     C      C     C     C      D      D  
+86_Rosa #csid 6 0 0 2
+87_Bjartur ref  fimmtíu  og  tveir  tuttugu  og  fjórir  einn  átta  tveir
+87_Bjartur hyp  fimmtíu  og  tveir  tuttugu  og  fjórir  einn  átta  '***'
+87_Bjartur op      C      C    C       C      C     C      C     C     D  
+87_Bjartur #csid 8 0 0 1
+88_Rosa ref  átta  sextíu  og  átta  fjórir  níu  núll   þrír
+88_Rosa hyp  átta  sextíu  og  átta  fjórir  níu  núll  '***'
+88_Rosa op     C      C     C    C      C     C     C     D  
+88_Rosa #csid 7 0 0 1
+89_Dilja ref  sextíu  og  þrír  sjötíu  og  níu  fjögur  hundruð  þrjátíu  og  fjórir
+89_Dilja hyp  sextíu  og  þrír  sjötíu  og  níu  fjögur  hundruð  þrjátíu  og    sjö 
+89_Dilja op      C     C    C      C     C   C      C       C        C      C     S  
+89_Dilja #csid 10 1 0 0
+90_Alfur_v2 ref  sjö  fimm  núll  sextíu  og  einn  þrír  fjórir
+90_Alfur_v2 hyp  sjö  fimm  núll  sextíu  og  einn  þrír    sjö 
+90_Alfur_v2 op    C     C     C      C     C    C     C      S  
+90_Alfur_v2 #csid 7 1 0 0
+91_Dora ref  níu  níu  þrír  sex  sex  sex   níu 
+91_Dora hyp  níu  níu  þrír  sex  sex  sex  '***'
+91_Dora op    C    C     C    C    C    C     D  
+91_Dora #csid 6 0 0 1
+92_Dora ref  átta  níutíu  og  níu  átta  einn   fimm  fimm
+92_Dora hyp  átta  níutíu  og  níu  átta  einn  '***'  fimm
+92_Dora op     C      C     C   C     C     C     D      C 
+92_Dora #csid 7 0 0 1
+93_Bjartur ref  níu  sautján  sjö  þúsund  tuttugu  og  einn
+93_Bjartur hyp  níu  sautján  sjö  þúsund  tuttugu  og  fimm
+93_Bjartur op    C      C      C      C       C      C    S 
+93_Bjartur #csid 6 1 0 0
+94_Karl ref  fjórir  einn  núll  sextíu  og  einn  sex  tveir
+94_Karl hyp  fjórir  einn  núll  sextíu  og  einn  sex  tveir
+94_Karl op      C      C     C      C     C    C    C     C  
+94_Karl #csid 8 0 0 0
+95_Karl ref  níu  áttatíu  og  átta  níu  þúsund  sex  hundruð  fjörutíu  og   fjórir 
+95_Karl hyp  níu  áttatíu  og  átta  níu  þúsund  sex  hundruð    '***'   og  fjörutíu
+95_Karl op    C      C      C    C    C      C     C      C         D      C      S   
+95_Karl #csid 9 1 0 1
+96_Dilja_v2 ref  sex  níu  núll  fimm  átta  fimmtíu  og  einn
+96_Dilja_v2 hyp  sex  níu  núll  fimm  átta  fimmtíu  og  einn
+96_Dilja_v2 op    C    C     C     C     C      C      C    C 
+96_Dilja_v2 #csid 8 0 0 0
+97_Dora ref  fimm  sjö  núll  sextíu  og  þrír  tveir   sjö 
+97_Dora hyp  fimm  sjö  núll  sextíu  og  þrír  tveir  '***'
+97_Dora op     C    C     C      C     C    C     C      D  
+97_Dora #csid 7 0 0 1
+98_Alfur ref  fimm  þrjátíu  og  einn  sjö  þúsund  fimm  hundruð    og   fjórir
+98_Alfur hyp  fimm  þrjátíu  og  einn  sjö  þúsund  fimm  hundruð  '***'   '***'
+98_Alfur op     C      C      C    C    C      C      C      C       D       D  
+98_Alfur #csid 8 0 0 2
+99_Dora ref  sjö  núll  þrír  átta  tveir  sex  fjórir
+99_Dora hyp  sjö  núll  þrír  átta  tveir  sex  fjórir
+99_Dora op    C     C     C     C     C     C      C  
+99_Dora #csid 7 0 0 0
+100_Dilja ref  fjörutíu    og    einn  fjörutíu    og    níu    átta  hundruð  fjörutíu   og   þrír
+100_Dilja hyp    '***'   '***'  '***'    '***'   '***'  '***'  '***'   '***'     '***'   fimm   tíu
+100_Dilja op       D       D      D        D       D      D      D       D         D       S     S 
+100_Dilja #csid 0 2 0 9
+101_Dora ref  níutíu  og  tveir  níutíu  og  fjórir  einn  fimm   núll
+101_Dora hyp  níutíu  og  tveir  níutíu  og  fjórir  einn  fimm  '***'
+101_Dora op      C     C    C       C     C     C      C     C     D  
+101_Dora #csid 8 0 0 1
+102_Alfur ref  sex  þrjátíu  og  fimm  níu  tveir   núll   átta
+102_Alfur hyp  sex  þrjátíu  og  fimm  níu  tveir  '***'  '***'
+102_Alfur op    C      C      C    C    C     C      D      D  
+102_Alfur #csid 6 0 0 2
+103_Dilja ref  fjörutíu   og   tveir  þrjátíu  og  fimm  fjórir  fjórir   sjö 
+103_Dilja hyp     níu    núll  tveir  þrjátíu  og  fimm  fjórir  fjórir  '***'
+103_Dilja op       S       S     C       C      C    C      C       C      D  
+103_Dilja #csid 6 2 0 1
+104_Dilja_v2 ref  fimmtíu  og  sex  tuttugu  og  átta  átta  hundruð  og  fjórir
+104_Dilja_v2 hyp  fimmtíu  og  sex  tuttugu  og  átta  átta  hundruð  og  fjórir
+104_Dilja_v2 op      C      C   C      C      C    C     C      C      C     C  
+104_Dilja_v2 #csid 10 0 0 0
+105_Karl ref  níutíu  og  sjö  tuttugu  og  tveir  fimm  hundruð  fjörutíu  og   níu
+105_Karl hyp  níutíu  og  sjö  tuttugu  og  tveir  fimm  hundruð  fjörutíu  og  einn
+105_Karl op      C     C   C      C      C    C      C      C         C      C    S 
+105_Karl #csid 10 1 0 0
+106_Dilja_v2 ref  sjö  sex  sjö  sextíu  og  sex   níu  tveir
+106_Dilja_v2 hyp  sjö  sex  sjö  sextíu  og  sex  núll  tveir
+106_Dilja_v2 op    C    C    C      C     C   C     S     C  
+106_Dilja_v2 #csid 7 1 0 0
+107_Rosa ref  átta  tuttugu  og  sjö  sextíu  og  tveir  þrjátíu  og  níu
+107_Rosa hyp  átta  tuttugu  og  sjö  sextíu  og  tveir  þrjátíu  og  níu
+107_Rosa op     C      C      C   C      C     C    C       C      C   C 
+107_Rosa #csid 10 0 0 0
+108_Karl ref  fimmtíu  og  sjö  áttatíu  tveir  núll   átta
+108_Karl hyp  fimmtíu  og  sjö  áttatíu  tveir  núll  '***'
+108_Karl op      C      C   C      C       C      C     D  
+108_Karl #csid 6 0 0 1
+109_Dilja ref  fjörutíu  og  sjö  áttatíu  og  átta  núll  sex  núll
+109_Dilja hyp  fjörutíu  og  sjö  áttatíu  og  átta  núll  sex  núll
+109_Dilja op       C      C   C      C      C    C     C    C     C 
+109_Dilja #csid 9 0 0 0
+110_Rosa ref  sjö   þrír   fimm  sex  fjórir  einn   sex 
+110_Rosa hyp  sjö  '***'  tveir  sex  fjórir  einn  '***'
+110_Rosa op    C     D      S     C      C      C     D  
+110_Rosa #csid 4 1 0 2
+111_Alfur ref  fimm  áttatíu  og  fjórir  fjörutíu   og  níu  sextíu
+111_Alfur hyp  fimm  áttatíu  og  fjórir    '***'   tíu  níu    sex 
+111_Alfur op     C      C      C     C        D      S    C      S  
+111_Alfur #csid 5 2 0 1
+112_Alfur_v2 ref  sextíu  og  tveir  áttatíu  sjö  hundruð  og  fjörutíu
+112_Alfur_v2 hyp  sextíu  og  tveir  áttatíu  sjö  hundruð  og     sjö  
+112_Alfur_v2 op      C     C    C       C      C      C      C      S   
+112_Alfur_v2 #csid 7 1 0 0
+113_Bjartur ref  sex  fimm  átta  sex  sjö  sextíu  og  átta
+113_Bjartur hyp  sex  fimm  átta  sex  sjö  sextíu  og  átta
+113_Bjartur op    C     C     C    C    C      C     C    C 
+113_Bjartur #csid 8 0 0 0
+114_Dilja_v2 ref  sjö  núll  einn  þrjátíu  níu  níu
+114_Dilja_v2 hyp  sjö  núll  einn  þrjátíu  níu  níu
+114_Dilja_v2 op    C     C     C      C      C    C 
+114_Dilja_v2 #csid 6 0 0 0
+115_Bjartur ref  níutíu  og  einn  fimmtíu  og  tveir  níu  núll  fjórir
+115_Bjartur hyp  níutíu  og  einn  fimmtíu  og  tveir  níu  núll   '***'
+115_Bjartur op      C     C    C      C      C    C     C     C      D  
+115_Bjartur #csid 8 0 0 1
+116_Karl ref  fjórir  átta  fimm  níu  sex  tuttugu    og   tveir
+116_Karl hyp  fjórir  átta  fimm  níu  sex  tuttugu  '***'  '***'
+116_Karl op      C      C     C    C    C      C       D      D  
+116_Karl #csid 6 0 0 2
+117_Karl ref  sjö  sextíu  og  fimm  sjö  þúsund  sjö  hundruð  sjötíu  og    sjö 
+117_Karl hyp  sjö  sextíu  og  fimm  sjö  þúsund  sjö  hundruð   '***'  og  sjötíu
+117_Karl op    C      C     C    C    C      C     C      C        D     C     S  
+117_Karl #csid 9 1 0 1
+118_Dora ref  fjórir  einn  fimm  einn  núll  núll   níu 
+118_Dora hyp  fjórir  einn  fimm  einn  núll  núll  '***'
+118_Dora op      C      C     C     C     C     C     D  
+118_Dora #csid 6 0 0 1
+119_Dilja ref  sjö  núll   þrír  þrettán  fjórir  átta
+119_Dilja hyp  sjö  núll  '***'   '***'    '***'  núll
+119_Dilja op    C     C     D       D        D      S 
+119_Dilja #csid 2 1 0 3
+120_Dilja ref  sex  núll  sjö  tveir   þrír  níutíu  og  sjö
+120_Dilja hyp  sex  núll  sjö  tveir  '***'  níutíu  og  sjö
+120_Dilja op    C     C    C     C      D       C     C   C 
+120_Dilja #csid 7 0 0 1
+121_Karl ref  fjórir  einn  fimm  níu  fimm  sex  tveir
+121_Karl hyp  fjórir  einn  fimm  níu  fimm  sex  tveir
+121_Karl op      C      C     C    C     C    C     C  
+121_Karl #csid 7 0 0 0
+122_Bjartur ref  fjórir  sjö  tveir  fimmtíu  þrír  núll
+122_Bjartur hyp  fjórir  sjö  tveir  fimmtíu  þrír  núll
+122_Bjartur op      C     C     C       C       C     C 
+122_Bjartur #csid 6 0 0 0
+123_Alfur_v2 ref  fjórir  fimm  níu  sjö  fjórir  fjórir   fimm
+123_Alfur_v2 hyp  fjórir  fimm  níu  sjö  fjórir  fjórir  '***'
+123_Alfur_v2 op      C      C    C    C      C       C      D  
+123_Alfur_v2 #csid 6 0 0 1
+124_Alfur_v2 ref  sjö  fjörutíu  og  fimm  sextíu  og  níu  áttatíu
+124_Alfur_v2 hyp  sjö  fjörutíu  og  fimm  sextíu  og  níu    átta 
+124_Alfur_v2 op    C       C      C    C      C     C   C      S   
+124_Alfur_v2 #csid 7 1 0 0
+125_Dilja_v2 ref  níu  sjö  níu  fjórir  fjórir  fjórir   fimm
+125_Dilja_v2 hyp  níu  sjö  níu  fjórir  fjórir  fjórir  '***'
+125_Dilja_v2 op    C    C    C      C       C       C      D  
+125_Dilja_v2 #csid 6 0 0 1
+126_Dilja ref  fjörutíu    og    þrír  sjötíu   sjö   hundruð  fjörutíu    og    átta
+126_Dilja hyp    '***'   '***'  '***'   '***'  '***'   '***'     '***'   fjórir   tíu
+126_Dilja op       D       D      D       D      D       D         D        S      S 
+126_Dilja #csid 0 2 0 7
+127_Bjartur ref  fjórir  fimmtíu  og  fimm  níutíu  og  fjórir  sjötíu  og  níu
+127_Bjartur hyp  fjórir  fimmtíu  og  fimm  níutíu  og  fjórir  sjötíu  og  níu
+127_Bjartur op      C       C      C    C      C     C     C       C     C   C 
+127_Bjartur #csid 10 0 0 0
+128_Dora ref  níu  sjö  þrír  fjórir  þrír  sjö   núll
+128_Dora hyp  níu  sjö  þrír  fjórir  þrír  sjö  '***'
+128_Dora op    C    C     C      C      C    C     D  
+128_Dora #csid 6 0 0 1
+129_Bjartur ref  níu  áttatíu  einn  núll  tveir   níu 
+129_Bjartur hyp  níu   '***'    tíu  núll  tveir  '***'
+129_Bjartur op    C      D       S     C     C      D  
+129_Bjartur #csid 3 1 0 2
+130_Bjartur ref  átta  þrír  níu  fimm  níu  sjötíu  og  sjö
+130_Bjartur hyp  átta  þrír  níu  fimm  níu  sjötíu  og  sjö
+130_Bjartur op     C     C    C     C    C      C     C   C 
+130_Bjartur #csid 8 0 0 0
+131_Alfur_v2 ref  áttatíu  og  einn  níutíu  og  þrír  tvö  hundruð  tuttugu  og  tveir
+131_Alfur_v2 hyp  áttatíu  og  einn  níutíu  og  þrír  tvö  hundruð  tuttugu  og   sjö 
+131_Alfur_v2 op      C      C    C      C     C    C    C      C        C      C    S  
+131_Alfur_v2 #csid 10 1 0 0
+132_Karl ref  sjö  tuttugu  og  sjö  einn  átta  tveir  fjórir
+132_Karl hyp  sjö  tuttugu  og  sjö  einn  átta  tveir   '***'
+132_Karl op    C      C      C   C     C     C     C       D  
+132_Karl #csid 7 0 0 1
+133_Karl ref  níu  níutíu  og  einn  níutíu  og  átta  níutíu  og  fjórir
+133_Karl hyp  níu  níutíu  og  einn  níutíu  og  átta  níutíu  og  fjórir
+133_Karl op    C      C     C    C      C     C    C      C     C     C  
+133_Karl #csid 10 0 0 0
+134_Alfur ref  sjö  nítján  tveir  sjö  sex  sex
+134_Alfur hyp  sjö  nítján  tveir  sjö  sex  sex
+134_Alfur op    C      C      C     C    C    C 
+134_Alfur #csid 6 0 0 0
+135_Alfur_v2 ref  sjö  sjö  núll  sextíu  og  einn  tveir  einn
+135_Alfur_v2 hyp  sjö  sjö  núll  sextíu  og  einn  tveir  einn
+135_Alfur_v2 op    C    C     C      C     C    C     C      C 
+135_Alfur_v2 #csid 8 0 0 0
+136_Alfur_v2 ref  fjórir   einn  þrír  níu  átta  áttatíu   og   fimm
+136_Alfur_v2 hyp  fjórir  '***'  þrír  níu  átta   '***'   átta   tíu
+136_Alfur_v2 op      C      D      C    C     C      D       S     S 
+136_Alfur_v2 #csid 4 2 0 2
+137_Rosa ref  sex  núll  núll  sex  sjö  sextíu    og   tveir
+137_Rosa hyp  sex  núll  núll  sex  sjö  sextíu  '***'  '***'
+137_Rosa op    C     C     C    C    C      C      D      D  
+137_Rosa #csid 6 0 0 2
+138_Karl ref  sjö  sjötíu  og  níu  núll  sex  fjórir   átta
+138_Karl hyp  sjö  sjötíu  og  níu  núll  sex  fjórir  '***'
+138_Karl op    C      C     C   C     C    C      C      D  
+138_Karl #csid 7 0 0 1
+139_Alfur ref  sex   sjö   sjö  einn  sjö  sjö  þrír
+139_Alfur hyp  sex  '***'  sjö  einn  sjö  sjö  þrír
+139_Alfur op    C     D     C     C    C    C     C 
+139_Alfur #csid 6 0 0 1
+140_Dilja_v2 ref  fimm  tveir  núll  sjötíu  og  átta   þrír  fjórir
+140_Dilja_v2 hyp  fimm  tveir  núll  sjötíu  og  átta  '***'   '***'
+140_Dilja_v2 op     C     C      C      C     C    C     D       D  
+140_Dilja_v2 #csid 6 0 0 2
+141_Bjartur ref  sextíu  og  fjórir  sjötíu  og  átta  tvö  hundruð  og  áttatíu
+141_Bjartur hyp  sextíu  og  fjórir  sjötíu  og  átta  tvö  hundruð  og    átta 
+141_Bjartur op      C     C     C       C     C    C    C      C      C     S   
+141_Bjartur #csid 9 1 0 0
+142_Dilja ref  níu  sextíu    og   tveir  tveir   átta  sjö  fjórir
+142_Dilja hyp  níu   '***'  '***'  '***'  '***'  '***'  sex    níu 
+142_Dilja op    C      D      D      D      D      D     S      S  
+142_Dilja #csid 1 2 0 5
+143_Dilja_v2 ref  sjö   einn   þrír  fjórir  sjö  sextán
+143_Dilja_v2 hyp  sjö  '***'  '***'  fjórir  sjö  sextán
+143_Dilja_v2 op    C     D      D       C     C      C  
+143_Dilja_v2 #csid 4 0 0 2
+144_Bjartur ref  fjórir  einn  átta  níu  þrír  sextíu  og  tveir
+144_Bjartur hyp  fjórir  einn  átta  níu  þrír  sextíu  og  tveir
+144_Bjartur op      C      C     C    C     C      C     C    C  
+144_Bjartur #csid 8 0 0 0
+145_Alfur_v2 ref  fjórir  einn  níu  sextíu  og  þrír  þrír  fjórir
+145_Alfur_v2 hyp  fjórir  einn  níu  sextíu  og  þrír  þrír  fjórir
+145_Alfur_v2 op      C      C    C      C     C    C     C      C  
+145_Alfur_v2 #csid 8 0 0 0
+146_Dilja ref  fimm  tuttugu  fimm  þúsund  sjö  hundruð  þrjátíu  og  sex
+146_Dilja hyp  fimm  tuttugu  fimm  þúsund  sjö  hundruð  þrjátíu  og  sex
+146_Dilja op     C      C       C      C     C      C        C      C   C 
+146_Dilja #csid 9 0 0 0
+147_Bjartur ref  níu  sjö  þrír  átta  sjö  fjörutíu
+147_Bjartur hyp  níu  sjö  þrír  átta  sjö     sjö  
+147_Bjartur op    C    C     C     C    C       S   
+147_Bjartur #csid 5 1 0 0
+148_Alfur_v2 ref  fimmtíu  sjötíu  og  fjórir  sjö  hundruð  og  níu
+148_Alfur_v2 hyp  fimmtíu  sjötíu  og  fjórir  sjö  hundruð  og  níu
+148_Alfur_v2 op      C        C     C     C     C      C      C   C 
+148_Alfur_v2 #csid 8 0 0 0
+149_Karl ref  fjórir  tveir  sex  átta  þrír  fimm  þrír
+149_Karl hyp  fjórir  tveir  sex  átta  þrír  fimm  þrír
+149_Karl op      C      C     C     C     C     C     C 
+149_Karl #csid 7 0 0 0
+150_Dilja_v2 ref  sex  níutíu  og  sjö  sextíu  og  sex  fimmtíu  og  fimm
+150_Dilja_v2 hyp  sex  níutíu  og  sjö  sextíu  og  sex  fimmtíu  og  fimm
+150_Dilja_v2 op    C      C     C   C      C     C   C      C      C    C 
+150_Dilja_v2 #csid 10 0 0 0
+151_Bjartur ref  sjö  fjörutíu  og  þrír  níu  þúsund  þrjú  hundruð  og  fjórir
+151_Bjartur hyp  sjö  fjörutíu  og  þrír  níu  þúsund  þrjú  hundruð  og  fjórir
+151_Bjartur op    C       C      C    C    C      C      C      C      C     C  
+151_Bjartur #csid 10 0 0 0
+152_Rosa ref  níu   þrír  sex   fimm  átta  fjórtán
+152_Rosa hyp  níu  '***'  sex  '***'  átta   '***' 
+152_Rosa op    C     D     C     D      C      D   
+152_Rosa #csid 3 0 0 3
+153_Karl ref  fjórir  sex  fjórir  fimm  þrír  fimm   níu 
+153_Karl hyp  fjórir  sex  fjórir  fimm  þrír  fimm  '***'
+153_Karl op      C     C      C      C     C     C     D  
+153_Karl #csid 6 0 0 1
+154_Dilja ref   fimm  fimmtíu    og   fjórir  níutíu    og    fimm  fimmtíu    og   tveir
+154_Dilja hyp  '***'   '***'   '***'  fjórir  níutíu  '***'  '***'  fimmtíu  '***'  '***'
+154_Dilja op     D       D       D       C       C      D      D       C       D      D  
+154_Dilja #csid 3 0 0 7
+155_Rosa ref  sjötíu  og  tveir  áttatíu    og   tveir  tveir  níu   núll
+155_Rosa hyp  sjötíu  og  tveir   '***'   '***'  tveir  tveir  níu  '***'
+155_Rosa op      C     C    C       D       D      C      C     C     D  
+155_Rosa #csid 6 0 0 3
+156_Dora ref  fimm  einn  sex  núll  tveir  níu   sex 
+156_Dora hyp  fimm  einn  sex  núll  tveir  níu  '***'
+156_Dora op     C     C    C     C     C     C     D  
+156_Dora #csid 6 0 0 1
+157_Rosa ref  sex  sextíu  og  tveir  sex   fimm   einn  þrír
+157_Rosa hyp  sex  sextíu  og  tveir  sex  '***'  '***'  núll
+157_Rosa op    C      C     C    C     C     D      D      S 
+157_Rosa #csid 5 1 0 2
+158_Dilja_v2 ref  níu  fimmtíu  fjögur  þúsund  níu  hundruð  þrjátíu  og  fimm
+158_Dilja_v2 hyp  níu  fimmtíu  fjögur  þúsund  níu  hundruð  þrjátíu  og   sjö
+158_Dilja_v2 op    C      C        C       C     C      C        C      C    S 
+158_Dilja_v2 #csid 8 1 0 0
+159_Dora ref  fjórir  níutíu    og   fjórir  fimm  þúsund
+159_Dora hyp  fjórir  níutíu  '***'  fjórir  fimm   '***'
+159_Dora op      C       C      D       C      C      D  
+159_Dora #csid 4 0 0 2
+160_Dora ref  níu  þrjátíu  áttatíu  og  sex  níutíu  og  þrír
+160_Dora hyp  níu  þrjátíu  áttatíu  og  sex  níutíu  og  þrír
+160_Dora op    C      C        C      C   C      C     C    C 
+160_Dora #csid 8 0 0 0
+161_Karl ref  sjötíu  og  þrír  sjötíu  og  sex  sex  þrír   núll
+161_Karl hyp  sjötíu  og  þrír  sjötíu  og  sex  sex  þrír  '***'
+161_Karl op      C     C    C      C     C   C    C     C     D  
+161_Karl #csid 8 0 0 1
+162_Dora ref  níu  níu  tveir  átta  einn  einn  tveir
+162_Dora hyp  níu  níu  tveir  átta  einn  einn  '***'
+162_Dora op    C    C     C      C     C     C     D  
+162_Dora #csid 6 0 0 1
+163_Dilja_v2 ref  níu  tuttugu  sjö  þúsund  fimm  hundruð  fjörutíu  og  fjórir
+163_Dilja_v2 hyp  níu  tuttugu  sjö  þúsund  fimm  hundruð  fjörutíu  og    sjö 
+163_Dilja_v2 op    C      C      C      C      C      C         C      C     S  
+163_Dilja_v2 #csid 8 1 0 0
+164_Rosa ref  sex  sex   einn  níu  sjö  sex  núll
+164_Rosa hyp  sex  sex  '***'  níu  sjö  sex  núll
+164_Rosa op    C    C     D     C    C    C     C 
+164_Rosa #csid 6 0 0 1
+165_Rosa ref  fjörutíu    og   níu  þrjátíu  sjö   fimm  núll
+165_Rosa hyp    '***'   '***'  níu   '***'   sjö  '***'   níu
+165_Rosa op       D       D     C      D      C     D      S 
+165_Rosa #csid 2 1 0 4
+166_Alfur ref  sjö  þrír  níu  fimm  níu  sex   þrír
+166_Alfur hyp  sjö  þrír  níu  fimm  níu  sex  '***'
+166_Alfur op    C     C    C     C    C    C     D  
+166_Alfur #csid 6 0 0 1
+167_Dora ref  níu  tuttugu  og  fimm  níutíu  sjötíu    og    átta
+167_Dora hyp  níu  tuttugu  og  fimm  níutíu  sjötíu  '***'  '***'
+167_Dora op    C      C      C    C      C       C      D      D  
+167_Dora #csid 6 0 0 2
+168_Karl ref  fimm  sextíu  og  einn  fjórir  sjö  tveir   einn
+168_Karl hyp  fimm  sextíu  og  einn  fjórir  sjö  tveir  '***'
+168_Karl op     C      C     C    C      C     C     C      D  
+168_Karl #csid 7 0 0 1
+169_Alfur_v2 ref  sex   einn   fimm  fimm  sjö  fimmtán
+169_Alfur_v2 hyp  sex  '***'  '***'  fimm  sjö  fimmtán
+169_Alfur_v2 op    C     D      D      C    C      C   
+169_Alfur_v2 #csid 4 0 0 2
+170_Dora ref  níu  fjórir  átta  fimm  tveir  sjötíu    og    sjö 
+170_Dora hyp  níu  fjórir  átta  fimm  tveir  sjötíu  '***'  '***'
+170_Dora op    C      C      C     C     C       C      D      D  
+170_Dora #csid 6 0 0 2
+171_Alfur_v2 ref  fimm  sextíu  fjögur  þúsund  sex  hundruð  og  fjórtán
+171_Alfur_v2 hyp  fimm  sextíu  fjögur  þúsund  sex  hundruð  og  fjórtán
+171_Alfur_v2 op     C      C       C       C     C      C      C     C   
+171_Alfur_v2 #csid 8 0 0 0
+172_Bjartur ref  sjö  tveir  þrír  sex  átta  níu   einn
+172_Bjartur hyp  sjö  tveir  þrír  sex  átta  níu  '***'
+172_Bjartur op    C     C      C    C     C    C     D  
+172_Bjartur #csid 6 0 0 1
+173_Alfur_v2 ref  fjórir  tveir  tveir  núll  níu  fjörutíu  og  einn
+173_Alfur_v2 hyp  fjórir  '***'  tveir  núll  níu  fjörutíu  og  einn
+173_Alfur_v2 op      C      D      C      C    C       C      C    C 
+173_Alfur_v2 #csid 7 0 0 1
+174_Dora ref  fimm  níu  einn  sjötíu  og  átta  fjórir  fjórir
+174_Dora hyp  fimm  níu  einn  sjötíu  og  átta  fjórir   fimm 
+174_Dora op     C    C     C      C     C    C      C       S  
+174_Dora #csid 7 1 0 0
+175_Alfur_v2 ref  sjö  þrír  fjórir  sjötíu  og  sjö  sex  átta
+175_Alfur_v2 hyp  sjö  þrír  fjórir  sjötíu  og  sjö  sex  átta
+175_Alfur_v2 op    C     C      C       C     C   C    C     C 
+175_Alfur_v2 #csid 8 0 0 0
+176_Bjartur ref  áttatíu    og    tveir  sextíu  sjö  hundruð  sextíu  og  átta
+176_Bjartur hyp    átta   fjórir  tveir  sextíu  sjö  hundruð  sextíu  og  átta
+176_Bjartur op      S        S      C       C     C      C        C     C    C 
+176_Bjartur #csid 7 2 0 0
+177_Dora ref  fjórir  fimmtíu  og  átta  tvö  þúsund  fimm  hundruð  sextíu  og  átta
+177_Dora hyp  fjórir  fimmtíu  og  átta  tvö  þúsund  fimm  hundruð  sextíu  og  einn
+177_Dora op      C       C      C    C    C      C      C      C        C     C    S 
+177_Dora #csid 10 1 0 0
+178_Dilja_v2 ref  níu  sjötíu  og  einn  níu  þúsund  fimm  hundruð  og  þrjátíu
+178_Dilja_v2 hyp  níu  sjötíu  og  einn  níu  þúsund  fimm  hundruð  og  þrjátíu
+178_Dilja_v2 op    C      C     C    C    C      C      C      C      C     C   
+178_Dilja_v2 #csid 10 0 0 0
+179_Rosa ref  fjórir  fimmtíu  og  einn  sjötíu  og  einn  sextíu  og  fjórir
+179_Rosa hyp  fjórir  fimmtíu  og  einn  sjötíu  og  einn  sextíu  og  fjórir
+179_Rosa op      C       C      C    C      C     C    C      C     C     C  
+179_Rosa #csid 10 0 0 0
+180_Karl ref  sex  sjö  níu  fjörutíu    og   fimm  sex   sjö 
+180_Karl hyp  sex  sjö  níu  fjörutíu  '***'  fimm  sex  '***'
+180_Karl op    C    C    C       C       D      C    C     D  
+180_Karl #csid 6 0 0 2
+181_Karl ref  sex  níu  fjórir  sextíu  níu  núll
+181_Karl hyp  sex  níu  fjórir  sextíu   og   níu
+181_Karl op    C    C      C       C     S     S 
+181_Karl #csid 4 2 0 0
+182_Bjartur ref  fjörutíu  og  tveir  áttatíu  og  sex  fimm  þrír  tveir
+182_Bjartur hyp  fjörutíu  og  tveir  áttatíu  og  sex  fimm  þrír  tveir
+182_Bjartur op       C      C    C       C      C   C     C     C     C  
+182_Bjartur #csid 9 0 0 0
+183_Dora ref  fimm  sjötíu  og  átta  núll  sex  fjórir   sjö 
+183_Dora hyp  fimm  sjötíu  og  átta  núll  sex  fjórir  '***'
+183_Dora op     C      C     C    C     C    C      C      D  
+183_Dora #csid 7 0 0 1
+184_Alfur ref  sex  fjórir  fjórir  einn  tveir  þrjátíu
+184_Alfur hyp  sex  fjórir  fjórir  einn  tveir  þrjátíu
+184_Alfur op    C      C       C      C     C       C   
+184_Alfur #csid 6 0 0 0
+185_Dora ref  fjórir  einn  sex  fimm  fimm  sjötíu    og    níu 
+185_Dora hyp  fjórir  einn  sex  fimm  fimm  sjötíu  '***'  '***'
+185_Dora op      C      C    C     C     C      C      D      D  
+185_Dora #csid 6 0 0 2
+186_Dilja ref  níu  níutíu  sextíu  fimmtíu    og   fjórir
+186_Dilja hyp  níu    tíu   sextíu  fimmtíu  '***'   '***'
+186_Dilja op    C      S       C       C       D       D  
+186_Dilja #csid 3 1 0 2
+187_Dilja ref  sex  níutíu  og  tveir   einn  níu  einn   níu 
+187_Dilja hyp  sex  níutíu  og  tveir  '***'  níu  einn  '***'
+187_Dilja op    C      C     C    C      D     C     C     D  
+187_Dilja #csid 6 0 0 2
+188_Dilja_v2 ref  sex  fimm  átta  tuttugu  og  einn   fimm   þrír
+188_Dilja_v2 hyp  sex  fimm  átta  tuttugu  og  einn  '***'  '***'
+188_Dilja_v2 op    C     C     C      C      C    C     D      D  
+188_Dilja_v2 #csid 6 0 0 2
+189_Alfur ref  fimm  fjörutíu   og  fjórir  níutíu  fjörutíu   og  tveir
+189_Alfur hyp  fimm    '***'   tíu  fjórir   '***'    '***'   tíu   tíu 
+189_Alfur op     C       D      S      C       D        D      S     S  
+189_Alfur #csid 2 3 0 3
+190_Alfur_v2 ref  sjö  sjötíu  og  þrír  sex  tveir   sex   sex
+190_Alfur_v2 hyp  sjö  sjötíu  og  þrír  sex  tveir  '***'  sex
+190_Alfur_v2 op    C      C     C    C    C     C      D     C 
+190_Alfur_v2 #csid 7 0 0 1
+191_Bjartur ref  sjö  fjórir  tveir  tuttugu  og  þrír  tveir  þrír
+191_Bjartur hyp  sjö  fjórir  tveir  tuttugu  og  þrír  tveir  þrír
+191_Bjartur op    C      C      C       C      C    C     C      C 
+191_Bjartur #csid 8 0 0 0
+192_Bjartur ref  átta  núll  níu  níutíu  og  þrír  fjórir  sjö
+192_Bjartur hyp  átta  núll  níu  níutíu  og  þrír  fjórir  sjö
+192_Bjartur op     C     C    C      C     C    C      C     C 
+192_Bjartur #csid 8 0 0 0
+193_Dilja ref  sex  tveir  átta   níu   níu  fjórir   sex 
+193_Dilja hyp  sex  '***'  átta  '***'  níu  fjórir  '***'
+193_Dilja op    C     D      C     D     C      C      D  
+193_Dilja #csid 4 0 0 3
+194_Dora ref  átta  tveir  níu  þrír  níu  tuttugu    og    níu 
+194_Dora hyp  átta  tveir  níu  þrír  níu  tuttugu  '***'  '***'
+194_Dora op     C     C     C     C    C      C       D      D  
+194_Dora #csid 6 0 0 2
+195_Bjartur ref  fimm  áttatíu  og  átta  tuttugu  níutíu  og  fjórir
+195_Bjartur hyp  fimm  áttatíu  og  átta  tuttugu  níutíu  og   fimm 
+195_Bjartur op     C      C      C    C      C        C     C     S  
+195_Bjartur #csid 7 1 0 0
+196_Karl ref  sjö  fimm  sex  áttatíu    og   tveir  einn   sjö 
+196_Karl hyp  sjö  fimm  sex  áttatíu  '***'  tveir  einn  '***'
+196_Karl op    C     C    C      C       D      C      C     D  
+196_Karl #csid 6 0 0 2
+197_Bjartur ref  sex  fimmtíu  og  níu  fimm  þúsund  sex  hundruð  sextíu  og  níu
+197_Bjartur hyp  sex  fimmtíu  og  níu  fimm  þúsund  sex  hundruð  sextíu  og  níu
+197_Bjartur op    C      C      C   C     C      C     C      C        C     C   C 
+197_Bjartur #csid 11 0 0 0
+198_Bjartur ref  sjö  áttatíu  og  einn  sex  sex  sex  núll
+198_Bjartur hyp  sjö  áttatíu  og  einn  sex  sex  sex  núll
+198_Bjartur op    C      C      C    C    C    C    C     C 
+198_Bjartur #csid 8 0 0 0
+199_Dora ref  fjórir  níutíu  og  sex  fimm  þúsund  sex  hundruð  og  sex
+199_Dora hyp  fjórir  níutíu  og  sex  fimm  þúsund  sex  hundruð  og  sjö
+199_Dora op      C       C     C   C     C      C     C      C      C   S 
+199_Dora #csid 9 1 0 0
+200_Dora ref  sjö  þrír  níu  einn  núll  tuttugu  og  fjórir
+200_Dora hyp  sjö  þrír  níu  einn  núll  tuttugu  og  fjórir
+200_Dora op    C     C    C     C     C      C      C     C  
+200_Dora #csid 8 0 0 0

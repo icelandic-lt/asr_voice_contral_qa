@@ -1,0 +1,800 @@
+1_Dilja ref  Ingirós  Efraímsdóttir
+1_Dilja hyp  Ingirós  Erlingsdóttir
+1_Dilja op      C           S      
+1_Dilja #csid 1 1 0 0
+2_Dilja_v2 ref  Venus  Ragnheiðardóttir
+2_Dilja_v2 hyp  Venus  Ragnheiðardóttir
+2_Dilja_v2 op     C            C       
+2_Dilja_v2 #csid 2 0 0 0
+3_Dora ref  Egidíus  Salbergsson
+3_Dora hyp   Egill     Salberg  
+3_Dora op      S          S     
+3_Dora #csid 0 2 0 0
+4_Dilja_v2 ref   Arthur    Unason 
+4_Dilja_v2 hyp  Ardúlín  Einarsson
+4_Dilja_v2 op      S         S    
+4_Dilja_v2 #csid 0 2 0 0
+5_Alfur_v2 ref  Benny  Hugbótarson
+5_Alfur_v2 hyp  Benny  Hugbótarson
+5_Alfur_v2 op     C         C     
+5_Alfur_v2 #csid 2 0 0 0
+6_Rosa ref  Gísli  Bárður  Tristan  Guðrúníusarson
+6_Rosa hyp  Gísli  Bárður  Tristan  Guðrúníusarson
+6_Rosa op     C       C       C            C      
+6_Rosa #csid 4 0 0 0
+7_Alfur ref  Ásar  Bjargsteinn  Kalmar  Ewaldsson
+7_Alfur hyp  Ásar  Bjargsteinn  Kalmar    Evald  
+7_Alfur op     C        C          C        S    
+7_Alfur #csid 3 1 0 0
+8_Dilja ref  Hlégestur  Guðbrönduson
+8_Dilja hyp    '***'    Bryngeirsson
+8_Dilja op       D            S     
+8_Dilja #csid 0 1 0 1
+9_Rosa ref  Sigurhelga  Barbara  Alrún  Marveigardóttir
+9_Rosa hyp  Sigurhelga  Barbara  Alrún  Marveigardóttir
+9_Rosa op        C         C       C           C       
+9_Rosa #csid 4 0 0 0
+10_Bjartur ref  Ísgeir  Kristmann  Grétar  Katarínusson
+10_Bjartur hyp  Ísgeir  Kristmann  Grétar  Katarínusson
+10_Bjartur op      C        C         C          C     
+10_Bjartur #csid 4 0 0 0
+11_Bjartur ref  Þóra  Ásrós  Janusdóttir
+11_Bjartur hyp  Þóra  Ásrós  Janusdóttir
+11_Bjartur op     C     C         C     
+11_Bjartur #csid 3 0 0 0
+12_Dilja_v2 ref  Jóel  Goðmundur  Demas  Þórgrímsson
+12_Dilja_v2 hyp  Jóel  Goðmundur  Demas  Þórgrímsson
+12_Dilja_v2 op     C       C        C         C     
+12_Dilja_v2 #csid 4 0 0 0
+13_Bjartur ref  Jósebína  Októvíusdóttir
+13_Bjartur hyp  Jósebína  Októvíusdóttir
+13_Bjartur op       C            C      
+13_Bjartur #csid 2 0 0 0
+14_Dilja ref  Hafrós   Röfn  Egediudóttir
+14_Dilja hyp   '***'  '***'      Jósef   
+14_Dilja op      D      D          S     
+14_Dilja #csid 0 1 0 2
+15_Bjartur ref  Árbjörg  Ludvigsdóttir
+15_Bjartur hyp  Árbjörg  Ludvigsdóttir
+15_Bjartur op      C           C      
+15_Bjartur #csid 2 0 0 0
+16_Alfur ref   Óbeð  Reykdal    Svalason 
+16_Alfur hyp  '***'   Húbert  Reykdalsson
+16_Alfur op     D       S          S     
+16_Alfur #csid 0 2 0 1
+17_Alfur_v2 ref  Ómar  Ingfinnuson
+17_Alfur_v2 hyp  Ómar    Ingfinna 
+17_Alfur_v2 op     C        S     
+17_Alfur_v2 #csid 1 1 0 0
+18_Dilja_v2 ref  Sigurfinnur  Jónmundsson
+18_Dilja_v2 hyp     Sigurð     Jónínuson 
+18_Dilja_v2 op        S            S     
+18_Dilja_v2 #csid 0 2 0 0
+19_Dilja_v2 ref  Ingisól  Thea  Júlíönudóttir
+19_Dilja_v2 hyp  Ingisól  Thea  Júlíönudóttir
+19_Dilja_v2 op      C       C         C      
+19_Dilja_v2 #csid 3 0 0 0
+20_Rosa ref  Anne  Frímanníudóttir
+20_Rosa hyp  Anne  Frímanníudóttir
+20_Rosa op     C          C       
+20_Rosa #csid 2 0 0 0
+21_Alfur ref  Ásleif  Eirný  Fjölnisdóttir
+21_Alfur hyp  Ásleif  Eirný    Fjölnisson 
+21_Alfur op      C      C          S      
+21_Alfur #csid 2 1 0 0
+22_Alfur_v2 ref  Rökkvi  Míasson
+22_Alfur_v2 hyp  Rökkvi  Míasson
+22_Alfur_v2 op      C       C   
+22_Alfur_v2 #csid 2 0 0 0
+23_Dora ref  Herberg  Gíslólínuson
+23_Dora hyp  Herberg     Gíslrún  
+23_Dora op      C           S     
+23_Dora #csid 1 1 0 0
+24_Dilja_v2 ref  Christine  Magney  Ljósbrá  Halldórsdóttir
+24_Dilja_v2 hyp    '***'    Magney  Ljósbrá  Halldórsdóttir
+24_Dilja_v2 op       D         C       C            C      
+24_Dilja_v2 #csid 3 0 0 1
+25_Dora ref  Ásbjörg  Sveinungadóttir
+25_Dora hyp  Ásbjörg  Sveinungadóttir
+25_Dora op      C            C       
+25_Dora #csid 2 0 0 0
+26_Dilja_v2 ref  Ferdína  Fjörnisdóttir
+26_Dilja_v2 hyp   '***'      Hermína   
+26_Dilja_v2 op      D           S      
+26_Dilja_v2 #csid 0 1 0 1
+27_Dora ref  Huxley  Hjörtrósarson
+27_Dora hyp  Huxley  Hjörtrósarson
+27_Dora op      C          C      
+27_Dora #csid 2 0 0 0
+28_Dora ref  Guðmundsína  Árbjörnsdóttir
+28_Dora hyp  Guðmundsína    Árgeirsson  
+28_Dora op        C              S      
+28_Dora #csid 1 1 0 0
+29_Rosa ref  Arnleif  Hallveigardóttir
+29_Rosa hyp   '***'     Hallveigarson 
+29_Rosa op      D             S       
+29_Rosa #csid 0 1 0 1
+30_Dilja ref   Nana  Kristdórsdóttir
+30_Dilja hyp  '***'        None     
+30_Dilja op     D           S       
+30_Dilja #csid 0 1 0 1
+31_Rosa ref  Emilía  Elfa  Sæfúsardóttir
+31_Rosa hyp  Emilía  Elfa  Sæfúsardóttir
+31_Rosa op      C      C         C      
+31_Rosa #csid 3 0 0 0
+32_Rosa ref  Esekíel  Geirfinnsson
+32_Rosa hyp  Esekíel   Valgeirsson
+32_Rosa op      C           S     
+32_Rosa #csid 1 1 0 0
+33_Karl ref  Árna  Kýrunnur  Dagmar  Álfþórsdóttir
+33_Karl hyp  Árna  Kýrunnur  Dagmar  Álfþórsdóttir
+33_Karl op     C       C        C          C      
+33_Karl #csid 4 0 0 0
+34_Dilja ref  Fannlaug  Ebbertsínudóttir
+34_Dilja hyp    Hanný   Ebbertsínudóttir
+34_Dilja op       S             C       
+34_Dilja #csid 1 1 0 0
+35_Rosa ref  Salberg  Guðfriður  Indruson
+35_Rosa hyp  Salberg  Guðfriður  Indruson
+35_Rosa op      C         C          C   
+35_Rosa #csid 3 0 0 0
+36_Karl ref  Maggý  Guðnudóttir
+36_Karl hyp  Maggý  Guðnudóttir
+36_Karl op     C         C     
+36_Karl #csid 2 0 0 0
+37_Dilja_v2 ref  Kolbrún  Alís  Marinusardóttir
+37_Dilja_v2 hyp  Kolbrún  Alís  Marinusardóttir
+37_Dilja_v2 op      C       C          C       
+37_Dilja_v2 #csid 3 0 0 0
+38_Bjartur ref  Friðveig  Sæmundsína  Vordís  Heiðbjargardóttir
+38_Bjartur hyp  Friðveig  Sæmundsína  Vordís  Heiðbjargardóttir
+38_Bjartur op       C          C         C            C        
+38_Bjartur #csid 4 0 0 0
+39_Bjartur ref  Erika  Hólmbjargardóttir
+39_Bjartur hyp  Erika  Hólmbjargardóttir
+39_Bjartur op     C            C        
+39_Bjartur #csid 2 0 0 0
+40_Bjartur ref  Heiðdal  Júlínus  Mörsuson
+40_Bjartur hyp  Heiðdal  Júlínus  Mörsuson
+40_Bjartur op      C        C         C   
+40_Bjartur #csid 3 0 0 0
+41_Karl ref  Ísak  Geirlaðarson
+41_Karl hyp  Ísak  Geirlaðarson
+41_Karl op     C         C     
+41_Karl #csid 2 0 0 0
+42_Alfur_v2 ref  Þórunn  Elley  Belindudóttir
+42_Alfur_v2 hyp  Þórunn  Elley  Belindudóttir
+42_Alfur_v2 op      C      C          C      
+42_Alfur_v2 #csid 3 0 0 0
+43_Dilja_v2 ref  Guðsteinn  Salmarsson
+43_Dilja_v2 hyp  Guðsteinn  Salmarsson
+43_Dilja_v2 op       C           C    
+43_Dilja_v2 #csid 2 0 0 0
+44_Dilja_v2 ref  Einína  Eyvindína  Valey  Lúðvíkudóttir
+44_Dilja_v2 hyp  Einína  Eyvindína  Valey  Lúðvíkudóttir
+44_Dilja_v2 op      C        C        C          C      
+44_Dilja_v2 #csid 4 0 0 0
+45_Bjartur ref  Hildibergur  Móeyjarson
+45_Bjartur hyp  Hildibergur  Móeyjarson
+45_Bjartur op        C            C    
+45_Bjartur #csid 2 0 0 0
+46_Dilja_v2 ref  Senía  Hadda  Sveinína  Ornýjardóttir
+46_Dilja_v2 hyp  Senía  Hadda  Sveinína  Ornýjardóttir
+46_Dilja_v2 op     C      C        C           C      
+46_Dilja_v2 #csid 4 0 0 0
+47_Dilja_v2 ref  Vívat  Felixson
+47_Dilja_v2 hyp  Vívat  Felixson
+47_Dilja_v2 op     C        C   
+47_Dilja_v2 #csid 2 0 0 0
+48_Alfur_v2 ref  Alríður  Guðrúnsdóttir
+48_Alfur_v2 hyp  Alríður    Guðrúnsson 
+48_Alfur_v2 op      C           S      
+48_Alfur_v2 #csid 1 1 0 0
+49_Dilja ref  Hera  Gýríður  Sigurósk  Siggeirsdóttir
+49_Dilja hyp  Hera  Gýríður  Sigurósk  Siggeirsdóttir
+49_Dilja op     C      C         C            C      
+49_Dilja #csid 4 0 0 0
+50_Karl ref  Hrefna  Ágústínusardóttir
+50_Karl hyp  Hrefna  Ágústínusardóttir
+50_Karl op      C            C        
+50_Karl #csid 2 0 0 0
+51_Alfur_v2 ref  Feldís  Ingiþórsdóttir
+51_Alfur_v2 hyp  Feldís    Ingiþórsson 
+51_Alfur_v2 op      C           S      
+51_Alfur_v2 #csid 1 1 0 0
+52_Alfur_v2 ref  Hnikar  Baltasar  Halberg  Vögnuson
+52_Alfur_v2 hyp  Hnikar  Baltasar  Halberg  Vögnuson
+52_Alfur_v2 op      C        C        C         C   
+52_Alfur_v2 #csid 4 0 0 0
+53_Rosa ref  Matthea  Elíudóttir
+53_Rosa hyp  Matthea  Elíudóttir
+53_Rosa op      C          C    
+53_Rosa #csid 2 0 0 0
+54_Dilja ref  Ásar  Mattíönuson
+54_Dilja hyp  Ásar  Mattíönuson
+54_Dilja op     C        C     
+54_Dilja #csid 2 0 0 0
+55_Karl ref  Dómaldur  Hringur  Sigmundsson
+55_Karl hyp  Dómaldur  Hringur  Sigmundsson
+55_Karl op       C        C          C     
+55_Karl #csid 3 0 0 0
+56_Alfur ref   Iðbjörg   Siguðardóttir
+56_Alfur hyp  Heiðbjörg     Sigurða   
+56_Alfur op       S            S      
+56_Alfur #csid 0 2 0 0
+57_Alfur ref  Sandra  Linnarsdóttir
+57_Alfur hyp  Sandra    Linnarsson 
+57_Alfur op      C          S      
+57_Alfur #csid 1 1 0 0
+58_Karl ref  Ástþóra  Óskarsdóttir
+58_Karl hyp  Ástþóra  Óskarsdóttir
+58_Karl op      C           C     
+58_Karl #csid 2 0 0 0
+59_Karl ref  Seselía  Bessí  Magney  Borgnýjardóttir
+59_Karl hyp  Seselía  Bessí  Magney  Borgnýjardóttir
+59_Karl op      C       C       C           C       
+59_Karl #csid 4 0 0 0
+60_Alfur_v2 ref  Elínrós  Marí  Snædís  Eskilsdóttir
+60_Alfur_v2 hyp  Elínrós  Marí  Snædís  Eskilsdóttir
+60_Alfur_v2 op      C       C      C          C     
+60_Alfur_v2 #csid 4 0 0 0
+61_Rosa ref  Áss  Loðvík  Tímóteus  Júnusson
+61_Rosa hyp  Áss  Loðvík  Tímóteus  Júnusson
+61_Rosa op    C      C        C         C   
+61_Rosa #csid 4 0 0 0
+62_Bjartur ref  Arnmóður  Validínus  Fránn  Seruson
+62_Bjartur hyp  Arnmóður  Validínus  Fránn  Seruson
+62_Bjartur op       C         C        C       C   
+62_Bjartur #csid 4 0 0 0
+63_Dilja ref  Malla  Styrgerður  Bíbíardóttir
+63_Dilja hyp  '***'     '***'        Bíbí    
+63_Dilja op     D         D            S     
+63_Dilja #csid 0 1 0 2
+64_Alfur_v2 ref  Davíð  Finnsínuson
+64_Alfur_v2 hyp  Davíð  Finnsínuson
+64_Alfur_v2 op     C         C     
+64_Alfur_v2 #csid 2 0 0 0
+65_Bjartur ref  Veróníka  Fídesardóttir
+65_Bjartur hyp  Veróníka  Fídesardóttir
+65_Bjartur op       C           C      
+65_Bjartur #csid 2 0 0 0
+66_Bjartur ref  Askur  Hafberg  Eskilsson
+66_Bjartur hyp  Askur  Hafberg  Eskilsson
+66_Bjartur op     C       C         C    
+66_Bjartur #csid 3 0 0 0
+67_Dilja ref  Aldís  Egilsína  Rafnfríður  Elliðagrímsdóttir
+67_Dilja hyp  Aldís  Egilsína  Rafnfríður  Elliðagrímsdóttir
+67_Dilja op     C        C          C              C        
+67_Dilja #csid 4 0 0 0
+68_Dora ref  Ingirós  Eggrúnardóttir
+68_Dora hyp  Ingirós  Eggrúnardóttir
+68_Dora op      C            C      
+68_Dora #csid 2 0 0 0
+69_Rosa ref  Sigdór  Gústaf  Árnínuson
+69_Rosa hyp  Sigdór  Gústaf    '***'  
+69_Rosa op      C       C        D    
+69_Rosa #csid 2 0 0 1
+70_Dilja_v2 ref  Vilberg   Sigrason 
+70_Dilja_v2 hyp   '***'   Bergsveina
+70_Dilja_v2 op      D          S    
+70_Dilja_v2 #csid 0 1 0 1
+71_Rosa ref  Sædís  Magnfríður  Ellisif  Braghildardóttir
+71_Rosa hyp  Sædís  Magnfríður  Ellisif  Braghildardóttir
+71_Rosa op     C         C         C             C       
+71_Rosa #csid 4 0 0 0
+72_Dora ref   Villa   Christine  Þorláksía  Guðmundsínudóttir
+72_Dora hyp  Villads   Kristína  Þorláksía  Guðmundsínudóttir
+72_Dora op      S         S          C              C        
+72_Dora #csid 2 2 0 0
+73_Dilja_v2 ref  Sæný  Marit  Margrímsdóttir
+73_Dilja_v2 hyp  Sæný  Marit  Margrímsdóttir
+73_Dilja_v2 op     C     C           C      
+73_Dilja_v2 #csid 3 0 0 0
+74_Dora ref  Alfred  Daggeirsson
+74_Dora hyp  Alfred  Daggeirsson
+74_Dora op      C         C     
+74_Dora #csid 2 0 0 0
+75_Alfur_v2 ref  Amý  Hjálmfríður  Guðmey  Charlottudóttir
+75_Alfur_v2 hyp  Amý  Hjálmfríður  Guðmey    Karlsdóttir  
+75_Alfur_v2 op    C        C          C           S       
+75_Alfur_v2 #csid 3 1 0 0
+76_Dora ref  Sighjörtur  Oddi  Sandrason
+76_Dora hyp  Sighjörtur  Oddi    '***'  
+76_Dora op        C        C       D    
+76_Dora #csid 2 0 0 1
+77_Alfur_v2 ref  Jórunn  Valdnýjardóttir
+77_Alfur_v2 hyp  Jórunn       Valdný    
+77_Alfur_v2 op      C           S       
+77_Alfur_v2 #csid 1 1 0 0
+78_Dora ref  Ingdís  Silja  Fanney  Randalínardóttir
+78_Dora hyp  Ingdís  Silja  Fanney      Randalín    
+78_Dora op      C      C       C            S       
+78_Dora #csid 3 1 0 0
+79_Karl ref  Blómhvít   Anelía   Geirrún  Tobiasdóttir
+79_Karl hyp  Blómhvít  Daníelía  Geirrún     Tobías   
+79_Karl op       C         S        C           S     
+79_Karl #csid 2 2 0 0
+80_Bjartur ref  Ísleifur  Sveinrósarson
+80_Bjartur hyp  Ísleifur  Sveinrósarson
+80_Bjartur op       C           C      
+80_Bjartur #csid 2 0 0 0
+81_Alfur_v2 ref  Grímlaug  Þorsteinunn  Maríam  Þórlaugsdóttir
+81_Alfur_v2 hyp  Grímlaug  Þorsteinunn  Maríam    Þórlaugsson 
+81_Alfur_v2 op       C          C          C           S      
+81_Alfur_v2 #csid 3 1 0 0
+82_Alfur_v2 ref  Oddleifur  Eldór  Gunnarínuson
+82_Alfur_v2 hyp  Oddleifur  Eldór  Gunnarínuson
+82_Alfur_v2 op       C        C          C     
+82_Alfur_v2 #csid 3 0 0 0
+83_Bjartur ref  Malín  Valentínusardóttir
+83_Bjartur hyp  Malín  Valentínusardóttir
+83_Bjartur op     C             C        
+83_Bjartur #csid 2 0 0 0
+84_Dora ref  Rósi  Theobald  Júnus  Oddvararson
+84_Dora hyp  Rósi  Theobald  Júnus     Oddvar  
+84_Dora op     C       C       C         S     
+84_Dora #csid 3 1 0 0
+85_Bjartur ref  Metónía  Emerentíana  Bjargheiðardóttir
+85_Bjartur hyp  Metónía  Emerentíana  Bjargheiðardóttir
+85_Bjartur op      C          C               C        
+85_Bjartur #csid 3 0 0 0
+86_Alfur ref  Vinbjörg  Egilsína  Hleiður  Albínusdóttir
+86_Alfur hyp  Vinbjörg  Egilsína  Hleiður  Albínusdóttir
+86_Alfur op       C         C        C           C      
+86_Alfur #csid 4 0 0 0
+87_Alfur ref  Símona  Auðrúnardóttir
+87_Alfur hyp  Símona  Auðrúnardóttir
+87_Alfur op      C           C      
+87_Alfur #csid 2 0 0 0
+88_Alfur_v2 ref  Gauja  Vilmunda  Dendý  Rúnarsdóttir
+88_Alfur_v2 hyp  Gauja  Vilmunda  Dendý    Rúnarsson 
+88_Alfur_v2 op     C        C       C          S     
+88_Alfur_v2 #csid 3 1 0 0
+89_Alfur ref  Hreiðarsína  Pétursdóttir
+89_Alfur hyp  Hreiðarsína     Pjetur   
+89_Alfur op        C             S     
+89_Alfur #csid 1 1 0 0
+90_Alfur_v2 ref  Bogi  Freysson
+90_Alfur_v2 hyp  Bogi  Freysson
+90_Alfur_v2 op     C       C   
+90_Alfur_v2 #csid 2 0 0 0
+91_Alfur_v2 ref  Valur  Tristansson
+91_Alfur_v2 hyp  Valur  Tristansson
+91_Alfur_v2 op     C         C     
+91_Alfur_v2 #csid 2 0 0 0
+92_Dilja ref  Elliði  Friðrekur  Gamli  Vonarson
+92_Dilja hyp   '***'  Friðrekur  Gamli  Vonarson
+92_Dilja op      D        C        C        C   
+92_Dilja #csid 3 0 0 1
+93_Dilja ref  Anna  Gestný  Friðbjört  Kristóníusdóttir
+93_Dilja hyp  Anna  Gestný  Friðbjört  Kristóníusdóttir
+93_Dilja op     C      C        C              C       
+93_Dilja #csid 4 0 0 0
+94_Dilja ref  Reginn  Arnmóðsson
+94_Dilja hyp   '***'     Eyja   
+94_Dilja op      D         S    
+94_Dilja #csid 0 1 0 1
+95_Rosa ref   Jóný  Sandra  Úlfarsdóttir
+95_Rosa hyp  '***'   '***'    Jónínuson 
+95_Rosa op     D       D          S     
+95_Rosa #csid 0 1 0 2
+96_Rosa ref  Njáll  Kristdórsson
+96_Rosa hyp  Njáll    Kristinn  
+96_Rosa op     C          S     
+96_Rosa #csid 1 1 0 0
+97_Bjartur ref  Mílan  Liljar  Gunnólfur  Dórason
+97_Bjartur hyp  Mílan  Liljar  Gunnólfur  Dórason
+97_Bjartur op     C       C        C         C   
+97_Bjartur #csid 4 0 0 0
+98_Rosa ref  Oddfinnur  Þorgestsson
+98_Rosa hyp    Tinni      Sölkuson 
+98_Rosa op       S           S     
+98_Rosa #csid 0 2 0 0
+99_Dora ref  Vilfríður  Valfríður  Hectorsdóttir
+99_Dora hyp  Vilfríður  Valfríður   Heddudóttir 
+99_Dora op       C          C            S      
+99_Dora #csid 2 1 0 0
+100_Dilja ref  Sævarður  Ástgeir  Sókratesson
+100_Dilja hyp  Sævarður  Ástgeir  Sókratesson
+100_Dilja op       C        C          C     
+100_Dilja #csid 3 0 0 0
+101_Dilja_v2 ref  Bjarnfinnur  Hallgrímur  Manfreð  Gissurarson
+101_Dilja_v2 hyp     '***'     Hallgrímur  Manfreð  Gissurarson
+101_Dilja_v2 op        D            C         C          C     
+101_Dilja_v2 #csid 3 0 0 1
+102_Karl ref  Emerentíana  Júníana  Hjörtþórsdóttir
+102_Karl hyp  Emerentíana  Júníana    Hjörtþórsson 
+102_Karl op        C          C            S       
+102_Karl #csid 2 1 0 0
+103_Alfur ref  Fjólar  Kjölvararson
+103_Alfur hyp   '***'     Þjóðar   
+103_Alfur op      D          S     
+103_Alfur #csid 0 1 0 1
+104_Karl ref  Örbrún  Björnveig  Verónika  Asaríasdóttir
+104_Karl hyp  Örbrún  Björnveig  Verónika     Asarías   
+104_Karl op      C        C          C           S      
+104_Karl #csid 3 1 0 0
+105_Alfur ref  Bjargar  Þorgilsínuson
+105_Alfur hyp  Bjargar  Þorgilsínuson
+105_Alfur op      C           C      
+105_Alfur #csid 2 0 0 0
+106_Alfur_v2 ref  Gógó  Lundfríðardóttir
+106_Alfur_v2 hyp  Gógó  Lundfríðardóttir
+106_Alfur_v2 op     C           C       
+106_Alfur_v2 #csid 2 0 0 0
+107_Alfur ref  Mánadís  Sigdís  Sælaugardóttir
+107_Alfur hyp  Mánadís  Sigdís  Sælaugardóttir
+107_Alfur op      C        C           C      
+107_Alfur #csid 3 0 0 0
+108_Dilja ref  Elínberg  Heinsson
+108_Dilja hyp  Elínberg  Heinsson
+108_Dilja op       C         C   
+108_Dilja #csid 2 0 0 0
+109_Dilja ref  Nökkvi  Elentínus  Samúel  Einarlínuson
+109_Dilja hyp  Nökkvi  Elentínus  Samúel  Einarlínuson
+109_Dilja op      C        C         C          C     
+109_Dilja #csid 4 0 0 0
+110_Dilja_v2 ref  Brestir  Chefasarson
+110_Dilja_v2 hyp  Þröstur   Tómasarson
+110_Dilja_v2 op      S          S     
+110_Dilja_v2 #csid 0 2 0 0
+111_Dilja_v2 ref  Ísabel  Finndísardóttir
+111_Dilja_v2 hyp  Ísabel  Finndísardóttir
+111_Dilja_v2 op      C           C       
+111_Dilja_v2 #csid 2 0 0 0
+112_Karl ref  Sigurvaldur  Betúelínuson
+112_Karl hyp  Sigurvaldur     Betúel   
+112_Karl op        C             S     
+112_Karl #csid 1 1 0 0
+113_Karl ref  Ríkhard  Marselíusson
+113_Karl hyp  Ríkharð   Marsellíus 
+113_Karl op      S           S     
+113_Karl #csid 0 2 0 0
+114_Alfur_v2 ref  Hildibjartur  Antonsson
+114_Alfur_v2 hyp  Hildibjartur    '***'  
+114_Alfur_v2 op         C           D    
+114_Alfur_v2 #csid 1 0 0 1
+115_Karl ref  Leonhard  Adser  Theobald  Ölmuson
+115_Karl hyp  Leonhard  Adser  Theobald   '***' 
+115_Karl op       C       C        C        D   
+115_Karl #csid 3 0 0 1
+116_Bjartur ref  Kolbeinn  Rasmusínuson
+116_Bjartur hyp  Kolbeinn  Rasmusínuson
+116_Bjartur op       C           C     
+116_Bjartur #csid 2 0 0 0
+117_Dilja ref  Soffónías  Brimdísarson
+117_Dilja hyp  Soffónías  Brimdísarson
+117_Dilja op       C            C     
+117_Dilja #csid 2 0 0 0
+118_Dora ref  Sigurmundur  Björgúlfur  Hjalti  Lokason
+118_Dora hyp  Sigurmundur  Björgúlfur  Hjalti    Loki 
+118_Dora op        C            C         C       S   
+118_Dora #csid 3 1 0 0
+119_Dora ref  Dan  Ölver  Brúnó  Mortínuson
+119_Dora hyp  Dan  Ölver  Brúnó    Mortína 
+119_Dora op    C     C      C         S    
+119_Dora #csid 3 1 0 0
+120_Dilja_v2 ref  Jóab  Freysteinn  Torfeyjarson
+120_Dilja_v2 hyp  Jóab  Freysteinn  Torfeyjarson
+120_Dilja_v2 op     C        C            C     
+120_Dilja_v2 #csid 3 0 0 0
+121_Dilja_v2 ref  Vörður  Hjörtlaugarson
+121_Dilja_v2 hyp  Vörður  Hjörtlaugarson
+121_Dilja_v2 op      C           C      
+121_Dilja_v2 #csid 2 0 0 0
+122_Dilja_v2 ref  Árnína  Hnikarrsdóttir
+122_Dilja_v2 hyp  Árnína  Hnikarrsdóttir
+122_Dilja_v2 op      C           C      
+122_Dilja_v2 #csid 2 0 0 0
+123_Dilja ref  Grani  Ísfeld  Knöttur  Thorbergsson
+123_Dilja hyp  Grani  Ísfeld  Knöttur  Thorbergsson
+123_Dilja op     C       C       C           C     
+123_Dilja #csid 4 0 0 0
+124_Bjartur ref  Geir  Ebbi  Jóann  Margrímsson
+124_Bjartur hyp  Geir  Ebbi  Jóann  Margrímsson
+124_Bjartur op     C     C     C         C     
+124_Bjartur #csid 4 0 0 0
+125_Dilja_v2 ref  Valentín  Sophaníasarson
+125_Dilja_v2 hyp  Valentín  Sophaníasarson
+125_Dilja_v2 op       C            C      
+125_Dilja_v2 #csid 2 0 0 0
+126_Dilja ref  Gíslín  Ylfardóttir
+126_Dilja hyp   '***'    Gíslína  
+126_Dilja op      D         S     
+126_Dilja #csid 0 1 0 1
+127_Dilja ref  Svipmundur  Thorleif   Þórðuson 
+127_Dilja hyp     '***'     Vignes   Þorberuson
+127_Dilja op        D          S          S    
+127_Dilja #csid 0 2 0 1
+128_Alfur ref  Ísrún  Salómonsdóttir
+128_Alfur hyp  Ísrún    Salómonsson 
+128_Alfur op     C           S      
+128_Alfur #csid 1 1 0 0
+129_Karl ref  Jakobea  Rafnsdóttir
+129_Karl hyp  Jakobía    Rafnsson 
+129_Karl op      S          S     
+129_Karl #csid 0 2 0 0
+130_Alfur_v2 ref  Elínmundur  Bjartmar  Blær  Guðmundarson
+130_Alfur_v2 hyp  Elínmundur  Bjartmar  Blær    Guðmunda  
+130_Alfur_v2 op        C          C       C         S     
+130_Alfur_v2 #csid 3 1 0 0
+131_Dora ref  Dípa  Elíza  Loftsína  Hallgrímsdóttir
+131_Dora hyp  Dípa  Elíza  Loftsína    Hallgrímsson 
+131_Dora op     C     C        C            S       
+131_Dora #csid 3 1 0 0
+132_Dora ref  Grímkell  Geirvaldur  Vestarr  Glóeyjarson
+132_Dora hyp  Grímkell  Geirvaldur  Vestarr      Glói   
+132_Dora op       C          C         C          S     
+132_Dora #csid 3 1 0 0
+133_Karl ref  Lísibet  Loftveig  Ólafardóttir
+133_Karl hyp  Lísibet  Loftveig  Ólafardóttir
+133_Karl op      C         C           C     
+133_Karl #csid 3 0 0 0
+134_Alfur ref  Franziska  Snælaug  Helenardóttir
+134_Alfur hyp  Fransiska  Snælaug  Helenardóttir
+134_Alfur op       S         C           C      
+134_Alfur #csid 2 1 0 0
+135_Bjartur ref  Játmundur  Ljósbjartarson
+135_Bjartur hyp  Játmundur  Ljósbjartarson
+135_Bjartur op       C             C      
+135_Bjartur #csid 2 0 0 0
+136_Bjartur ref  Kristmey  Livardóttir
+136_Bjartur hyp  Kristmey  Livardóttir
+136_Bjartur op       C          C     
+136_Bjartur #csid 2 0 0 0
+137_Dilja_v2 ref  Hanný  Hinrika  Svipmundsdóttir
+137_Dilja_v2 hyp  Hanný  Hinrika  Svipmundsdóttir
+137_Dilja_v2 op     C       C            C       
+137_Dilja_v2 #csid 3 0 0 0
+138_Karl ref  Erminrekur  Mildríðarson
+138_Karl hyp  Erminrekur    Mildríður 
+138_Karl op        C            S     
+138_Karl #csid 1 1 0 0
+139_Bjartur ref  Þórsteinn  Safír  Sigurfinnur  Aresson
+139_Bjartur hyp  Þórsteinn  Safír  Sigurfinnur  Aresson
+139_Bjartur op       C        C         C          C   
+139_Bjartur #csid 4 0 0 0
+140_Alfur_v2 ref   Hjörfríður  Hóseasardóttir
+140_Alfur_v2 hyp  Hjörtfríður    Hóseasarson 
+140_Alfur_v2 op        S              S      
+140_Alfur_v2 #csid 0 2 0 0
+141_Bjartur ref  Sesil  Þjálfason
+141_Bjartur hyp  Sesil  Þjálfason
+141_Bjartur op     C        C    
+141_Bjartur #csid 2 0 0 0
+142_Dilja_v2 ref  Baldrún  Snæfríður  Elspudóttir
+142_Dilja_v2 hyp  Baldrún  Snæfríður  Elspudóttir
+142_Dilja_v2 op      C         C           C     
+142_Dilja_v2 #csid 3 0 0 0
+143_Bjartur ref  Guðsteinn  Baldur  Hólmfreð  Emilíönuson
+143_Bjartur hyp  Guðsteinn  Baldur  Hólmfreð  Emilíönuson
+143_Bjartur op       C         C        C          C     
+143_Bjartur #csid 4 0 0 0
+144_Dilja_v2 ref  Hjörvar  Viktorsson
+144_Dilja_v2 hyp  Hjörvar  Viktorsson
+144_Dilja_v2 op      C          C    
+144_Dilja_v2 #csid 2 0 0 0
+145_Bjartur ref  Rúnhildur  Elíasínudóttir
+145_Bjartur hyp  Rúnhildur  Elíasínudóttir
+145_Bjartur op       C             C      
+145_Bjartur #csid 2 0 0 0
+146_Karl ref  Úndína  Kristeyjardóttir
+146_Karl hyp  Úndína    Kristeyjarson 
+146_Karl op      C            S       
+146_Karl #csid 1 1 0 0
+147_Dilja_v2 ref  Indíra  Sólborg  Sigurfúsardóttir
+147_Dilja_v2 hyp  Indíra  Sólborg  Sigurfúsardóttir
+147_Dilja_v2 op      C       C             C       
+147_Dilja_v2 #csid 3 0 0 0
+148_Rosa ref  Rúndís  Freybjarnardóttir
+148_Rosa hyp   Ungi     Bjartmannsson  
+148_Rosa op      S            S        
+148_Rosa #csid 0 2 0 0
+149_Bjartur ref  Sigfúsína  Þórudóttir
+149_Bjartur hyp  Sigfúsína  Þórudóttir
+149_Bjartur op       C           C    
+149_Bjartur #csid 2 0 0 0
+150_Alfur ref  Guðbirna  Hagbertsdóttir
+150_Alfur hyp  Guðbirna  Hagbertsdóttir
+150_Alfur op       C            C      
+150_Alfur #csid 2 0 0 0
+151_Rosa ref  Dagfríður  Svanhildur  Valbjargardóttir
+151_Rosa hyp  Dagfríður  Svanhildur  Valbjargardóttir
+151_Rosa op       C           C              C       
+151_Rosa #csid 3 0 0 0
+152_Bjartur ref  Hólmjárn  Elisarson
+152_Bjartur hyp  Hólmjárn  Elisarson
+152_Bjartur op       C         C    
+152_Bjartur #csid 2 0 0 0
+153_Dora ref  Alberta  Dalbjarkardóttir
+153_Dora hyp  Alberta    Dalbjarkarson 
+153_Dora op      C             S       
+153_Dora #csid 1 1 0 0
+154_Dora ref  Munnveig  Skaptadóttir
+154_Dora hyp  Munnveig  Skaptadóttir
+154_Dora op       C           C     
+154_Dora #csid 2 0 0 0
+155_Karl ref  Árnía  Ívarardóttir
+155_Karl hyp  Árnía      Ívar    
+155_Karl op     C          S     
+155_Karl #csid 1 1 0 0
+156_Dilja_v2 ref  Hallgunnur  Sveinjóna  Hjörný  Sveinbjartsdóttir
+156_Dilja_v2 hyp  Hallgunnur  Sveinjóna  Hjörný  Sveinbjartsdóttir
+156_Dilja_v2 op        C          C         C            C        
+156_Dilja_v2 #csid 4 0 0 0
+157_Rosa ref  Cathinca  Inger  Hafsteinsdóttir
+157_Rosa hyp   Katinka  Inger  Hafsteinsdóttir
+157_Rosa op       S       C           C       
+157_Rosa #csid 2 1 0 0
+158_Dilja_v2 ref  Herúlfur  Jeremías  Bertuson
+158_Dilja_v2 hyp  Herúlfur  Jeremías  Bertuson
+158_Dilja_v2 op       C         C         C   
+158_Dilja_v2 #csid 3 0 0 0
+159_Rosa ref  Hrund  Dagmar  Daníela  Bárðardóttir
+159_Rosa hyp  Hrund  Dagmar  Daníela  Bárðardóttir
+159_Rosa op     C       C       C           C     
+159_Rosa #csid 4 0 0 0
+160_Dilja ref  Angi  Annmar  Septimiusarson
+160_Dilja hyp  Angi  Annmar  Septimiusarson
+160_Dilja op     C      C           C      
+160_Dilja #csid 3 0 0 0
+161_Alfur_v2 ref  Sigfred  Arnesson
+161_Alfur_v2 hyp  Sigfred  Arnesson
+161_Alfur_v2 op      C         C   
+161_Alfur_v2 #csid 2 0 0 0
+162_Alfur ref  Bergfríður  Agneta  Júníana  Eddudóttir
+162_Alfur hyp  Bergfríður  Agneta  Júníana  Eddudóttir
+162_Alfur op        C         C       C          C    
+162_Alfur #csid 4 0 0 0
+163_Dora ref  Nikolai  Ynjuson
+163_Dora hyp   '***'   Nikolaj
+163_Dora op      D        S   
+163_Dora #csid 0 1 0 1
+164_Rosa ref  Elínrós  Arnodda  Arnríður  Sigurgyðudóttir
+164_Rosa hyp  Elínrós  Arnodda  Arnríður  Sigurgyðudóttir
+164_Rosa op      C        C         C            C       
+164_Rosa #csid 4 0 0 0
+165_Dilja ref  Sveingerður  Arnþórudóttir
+165_Dilja hyp  Sveingerður      '***'    
+165_Dilja op        C             D      
+165_Dilja #csid 1 0 0 1
+166_Alfur_v2 ref  Vala  Kýrunnur  Þóroddudóttir
+166_Alfur_v2 hyp  Vala  Kýrunnur  Þóroddudóttir
+166_Alfur_v2 op     C       C           C      
+166_Alfur_v2 #csid 3 0 0 0
+167_Bjartur ref  Eidís  María  Hnefilsdóttir
+167_Bjartur hyp  Eidís  María  Hnefilsdóttir
+167_Bjartur op     C      C          C      
+167_Bjartur #csid 3 0 0 0
+168_Karl ref  Heiðbjörk  Heiðreksdóttir
+168_Karl hyp  Heiðbjörk  Heiðreksdóttir
+168_Karl op       C             C      
+168_Karl #csid 2 0 0 0
+169_Rosa ref  Laíla  Guðmey  Sunnudóttir
+169_Rosa hyp  Laíla  Guðmey  Sunnudóttir
+169_Rosa op     C       C         C     
+169_Rosa #csid 3 0 0 0
+170_Karl ref  Tóbías  Sigfinnur  Friðsteinsson
+170_Karl hyp  Tóbías  Sigfinnur  Friðsteinsson
+170_Karl op      C        C            C      
+170_Karl #csid 3 0 0 0
+171_Dilja ref  Sölvína  Hugraun  Evfemía  Þurudóttir
+171_Dilja hyp  Sölvína  Hugraun  Evfemía     '***'  
+171_Dilja op      C        C        C          D    
+171_Dilja #csid 3 0 0 1
+172_Alfur_v2 ref  Bjargmundur  Augustsson
+172_Alfur_v2 hyp  Bjarnhildur    August  
+172_Alfur_v2 op        S            S    
+172_Alfur_v2 #csid 0 2 0 0
+173_Rosa ref   Boga  Cecilía  Sigdís  Sigurástardóttir
+173_Rosa hyp  '***'   '***'    Þórða   Sveinbjörnsson 
+173_Rosa op     D       D        S            S       
+173_Rosa #csid 0 2 0 2
+174_Rosa ref  Svía  Petrónella  Hagbarðsdóttir
+174_Rosa hyp  Svía  Petrónella  Hagbarðsdóttir
+174_Rosa op     C        C             C      
+174_Rosa #csid 3 0 0 0
+175_Dora ref  Baldvina  Sera  Leónharðsdóttir
+175_Dora hyp  Baldvina  Sera  Leónharðsdóttir
+175_Dora op       C       C          C       
+175_Dora #csid 3 0 0 0
+176_Alfur_v2 ref  Hilaríus  Guðrúnarson
+176_Alfur_v2 hyp  Hilaríus     Guðrún  
+176_Alfur_v2 op       C          S     
+176_Alfur_v2 #csid 1 1 0 0
+177_Dora ref  Vigtýr  Ríkharður  Aríel  Mattsson
+177_Dora hyp  Vigtýr  Ríkharður  Aríel    '***' 
+177_Dora op      C        C        C        D   
+177_Dora #csid 3 0 0 1
+178_Bjartur ref  Bergrós  Freymarsdóttir
+178_Bjartur hyp  Bergrós  Freymarsdóttir
+178_Bjartur op      C            C      
+178_Bjartur #csid 2 0 0 0
+179_Dora ref  Ronald  Hallfreð  Willy  Garibaldason
+179_Dora hyp  Ronald  Hallfreð  Villy    Garibaldi 
+179_Dora op      C        C       S          S     
+179_Dora #csid 2 2 0 0
+180_Dilja_v2 ref  Eberhard  Ólafíuson
+180_Dilja_v2 hyp  Eberhard  Ólafíuson
+180_Dilja_v2 op       C         C    
+180_Dilja_v2 #csid 2 0 0 0
+181_Dora ref  Donaldur  Hólmgeir  Unnþór  Snorruson
+181_Dora hyp  Donaldur  Hólmgeir  Unnþór     Snót  
+181_Dora op       C         C        C        S    
+181_Dora #csid 3 1 0 0
+182_Alfur_v2 ref  Frank  Sigurhans  Kristinsson
+182_Alfur_v2 hyp  Frank  Sigurhans  Kristinsson
+182_Alfur_v2 op     C        C           C     
+182_Alfur_v2 #csid 3 0 0 0
+183_Alfur ref  Vitalis  Vagnfríðarson
+183_Alfur hyp  Vitalis      '***'    
+183_Alfur op      C           D      
+183_Alfur #csid 1 0 0 1
+184_Bjartur ref   Vilberg  Björnleifsson
+184_Bjartur hyp  Lindberg  Bjarnleifsson
+184_Bjartur op       S           S      
+184_Bjartur #csid 0 2 0 0
+185_Alfur ref  Sumarliði  Örn  Guðrúníusson
+185_Alfur hyp  Sumarliði  Örn  Guðrúníusson
+185_Alfur op       C       C         C     
+185_Alfur #csid 3 0 0 0
+186_Alfur_v2 ref  Eyjalín  Hrafntinna  Esradóttir
+186_Alfur_v2 hyp  Eyjalín  Hrafntinna     '***'  
+186_Alfur_v2 op      C          C           D    
+186_Alfur_v2 #csid 2 0 0 1
+187_Rosa ref  Krister  Sigursælsson
+187_Rosa hyp  Krister  Sigursælsson
+187_Rosa op      C           C     
+187_Rosa #csid 2 0 0 0
+188_Karl ref  Brynsteinn  Eulalíuson
+188_Karl hyp  Brynsteinn    Eulalía 
+188_Karl op        C           S    
+188_Karl #csid 1 1 0 0
+189_Bjartur ref  Geirharður  Goðmundur  Lýtingsson
+189_Bjartur hyp  Geirharður  Goðmundur  Lýtingsson
+189_Bjartur op        C          C           C    
+189_Bjartur #csid 3 0 0 0
+190_Bjartur ref  Gottsveinn  Auðbert  Ýrarsson
+190_Bjartur hyp  Gottsveinn  Auðbert  Ýrarsson
+190_Bjartur op        C         C         C   
+190_Bjartur #csid 3 0 0 0
+191_Rosa ref  Malaleel  Sólver  Nadiuson
+191_Rosa hyp  Malaleel  Sólver  Nadiuson
+191_Rosa op       C        C        C   
+191_Rosa #csid 3 0 0 0
+192_Dilja_v2 ref  Arnmóður  Marjón  Ásgrímur  Þrymsson
+192_Dilja_v2 hyp  Arnmóður  Marjón  Ásgrímur    '***' 
+192_Dilja_v2 op       C        C        C         D   
+192_Dilja_v2 #csid 3 0 0 1
+193_Alfur ref  Ósklín  Snjófríður  Viborgardóttir
+193_Alfur hyp  Ósklín  Snjófríður  Viborgardóttir
+193_Alfur op      C         C             C      
+193_Alfur #csid 3 0 0 0
+194_Alfur_v2 ref  Diðrika  Tekludóttir
+194_Alfur_v2 hyp  Diðrika  Tekludóttir
+194_Alfur_v2 op      C          C     
+194_Alfur_v2 #csid 2 0 0 0
+195_Dora ref  Hallmann   Olaf  Ariliusson
+195_Dora hyp  Hallmann  Lúlla   Marelíus 
+195_Dora op       C       S         S    
+195_Dora #csid 1 2 0 0
+196_Alfur ref  Ótilía  Galdursdóttir
+196_Alfur hyp  Ótilía    Galdursson 
+196_Alfur op      C          S      
+196_Alfur #csid 1 1 0 0
+197_Dora ref  Kár  Valtýsson
+197_Dora hyp  Kár  Valtýsson
+197_Dora op    C       C    
+197_Dora #csid 2 0 0 0
+198_Karl ref  Mattína  Rúbensdóttir
+198_Karl hyp  Mattína    Rúbensson 
+198_Karl op      C           S     
+198_Karl #csid 1 1 0 0
+199_Karl ref  Friðný  Vildísardóttir
+199_Karl hyp  Friðný  Vildísardóttir
+199_Karl op      C           C      
+199_Karl #csid 2 0 0 0
+200_Dilja ref  Gautviður  Daníelluson
+200_Dilja hyp    '***'      Daníela  
+200_Dilja op       D           S     
+200_Dilja #csid 0 1 0 1

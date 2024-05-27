@@ -1,0 +1,4 @@
+compute-wer --mode=present ark:data/unit-conversion-sept/test_set/text ark,p:- 
+%WER 5.37 [ 167 / 3111, 0 ins, 90 del, 77 sub ]
+%SER 49.50 [ 99 / 200 ]
+Scored 200 sentences, 0 not present in hyp.

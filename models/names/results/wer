@@ -1,0 +1,4 @@
+compute-wer --mode=present ark:data/names-sept/test_set/text ark,p:- 
+%WER 22.46 [ 124 / 552, 0 ins, 33 del, 91 sub ]
+%SER 42.50 [ 85 / 200 ]
+Scored 200 sentences, 0 not present in hyp.

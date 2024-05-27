@@ -1,0 +1,34 @@
+átján átján auː_B t_I j_I au_I n_E
+átta átta au_B h_I t_I a_E
+áttatíu áttatíu au_B h_I t_I a_I t_I iː_I j_I ʏ_E
+áttatíu áttatíu au_B h_I t_I a_I t_I i_I j_I ʏ_E
+einn einn ei_B t_I n̥_E
+ellefu ellefu ɛ_B t_I l_I ɛ_I v_I ʏ_E
+<eps> <eps> sil
+fimm fimm f_B ɪ_I m_E
+fimmtán fimmtán f_B ɪ_I m̥_I t_I au_I n_E
+fimmtíu fimmtíu f_B ɪ_I m̥_I t_I i_I j_I ʏ_E
+fjórir fjórir f_B j_I ouː_I r_I ɪ_I r_E
+fjórtán fjórtán f_B j_I ou_I r̥_I t_I au_I n_E
+fjörutíu fjörutíu f_B j_I œː_I r_I t_I i_I j_I ʏ_E
+fjörutíu fjörutíu f_B j_I œ_I r_I t_I i_I j_I ʏ_E
+nítján nítján n_B iː_I t_I j_I au_I n_E
+níu níu n_B iː_I j_I ʏ_E
+níutíu níutíu n_B iː_I t_I i_I j_I ʏ_E
+núll núll n_B u_I l_E
+og og ɔː_B ɣ_E
+sautján sautján s_B œyː_I t_I j_I au_I n_E
+sex sex s_B ɛ_I k_I s_E
+sextán sextán s_B ɛ_I k_I s_I t_I au_I n_E
+sextíu sextíu s_B ɛ_I k_I s_I t_I i_I j_I ʏ_E
+sjö sjö s_B j_I œː_E
+sjötíu sjötíu s_B j_I œː_I t_I i_I j_I ʏ_E
+tíu tíu tʰ_B iː_I j_I ʏ_E
+tólf tólf tʰ_B ou_I l_I v_E
+tuttugu tuttugu tʰ_B ʏ_I h_I t_I ʏ_I ɣ_I ʏ_E
+tveir tveir t_B v_I eiː_I r_E
+tveir tveir tʰ_B v_I eiː_I r_E
+<unk> <unk> oov_S
+þrettán þrettán θ_B r_I ɛ_I h_I t_I au_I n_E
+þrír þrír θ_B r_I iː_I r_E
+þrjátíu þrjátíu θ_B r_I j_I auː_I t_I i_I j_I ʏ_E

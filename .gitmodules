@@ -1,0 +1,15 @@
+[submodule "code/create_models-M9"]
+	path = code/create_models-M9
+	url = ../asr_create_models
+[submodule "code/is-trivia-questions-M9"]
+	path = code/is-trivia-questions-M9
+	url = ../is-trivia-questions.git
+[submodule "code/lm-is-forms-M9"]
+	path = code/lm-is-forms-M9
+	url = ../lm-is-forms.git
+[submodule "code/numi-M9"]
+	path = code/numi-M9
+	url = ../numi.git
+[submodule "code/unit-conversion-M9"]
+	path = code/unit-conversion-M9
+	url = ../unit-conversion.git

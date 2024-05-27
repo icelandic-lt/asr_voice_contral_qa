@@ -1,0 +1,4 @@
+compute-wer --mode=present ark:data/phone_numbers-sept/test_set/text ark,p:- 
+%WER 16.66 [ 276 / 1657, 1 ins, 212 del, 63 sub ]
+%SER 71.00 [ 142 / 200 ]
+Scored 200 sentences, 0 not present in hyp.

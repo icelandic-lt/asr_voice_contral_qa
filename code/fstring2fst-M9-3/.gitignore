@@ -1,0 +1,9 @@
+env/
+__pycache__/
+*.fst
+*.txt
+*.jpg
+*.gv
+*.egg-info/
+!README.txt
+!LICENSE.txt

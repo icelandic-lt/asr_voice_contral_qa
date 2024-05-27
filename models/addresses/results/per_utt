@@ -1,0 +1,800 @@
+1_Dora ref  Leiðólfsstaðir
+1_Dora hyp      Miðháls   
+1_Dora op          S      
+1_Dora #csid 0 1 0 0
+2_Dilja ref  Kárastaðir
+2_Dilja hyp     None   
+2_Dilja op        S    
+2_Dilja #csid 0 1 0 0
+3_Dilja ref  Túnhvammur  sjö
+3_Dilja hyp  Túnhvammur  sjö
+3_Dilja op        C       C 
+3_Dilja #csid 2 0 0 0
+4_Rosa ref  Miðsandur
+4_Rosa hyp    Hnaus  
+4_Rosa op       S    
+4_Rosa #csid 0 1 0 0
+5_Dilja ref  Hamarsgata   tíu 
+5_Dilja hyp     '***'    Hamar
+5_Dilja op        D        S  
+5_Dilja #csid 0 1 0 1
+6_Dilja_v2 ref  Dalahraun  þrettán    C  
+6_Dilja_v2 hyp  Dalahraun  þrettán  '***'
+6_Dilja_v2 op       C         C       D  
+6_Dilja_v2 #csid 2 0 0 1
+7_Dora ref  Eyrar  tuttugu    og    tvö 
+7_Dora hyp  Eyrar  tuttugu  '***'  '***'
+7_Dora op     C       C       D      D  
+7_Dora #csid 2 0 0 2
+8_Rosa ref  Skólatröð  sautján
+8_Rosa hyp  Skólatröð  sautján
+8_Rosa op       C         C   
+8_Rosa #csid 2 0 0 0
+9_Dilja_v2 ref  Digranesvegur  fimmtíu  og  átta
+9_Dilja_v2 hyp  Digranesvegur  fimmtíu  og  átta
+9_Dilja_v2 op         C           C      C    C 
+9_Dilja_v2 #csid 4 0 0 0
+10_Dilja ref  Hjarðarhagi  þrettán
+10_Dilja hyp  Hjarðarhagi   '***' 
+10_Dilja op        C          D   
+10_Dilja #csid 1 0 0 1
+11_Dora ref  Torfufell   land
+11_Dora hyp  Torfufell  '***'
+11_Dora op       C        D  
+11_Dora #csid 1 0 0 1
+12_Dora ref  Hömluholt
+12_Dora hyp    Hemla  
+12_Dora op       S    
+12_Dora #csid 0 1 0 0
+13_Alfur_v2 ref  Björkurstekkur  tvö
+13_Alfur_v2 hyp  Björkurstekkur  tvö
+13_Alfur_v2 op          C         C 
+13_Alfur_v2 #csid 2 0 0 0
+14_Alfur_v2 ref  Brúnavegur  þrjú
+14_Alfur_v2 hyp  Brúnavegur  þrjú
+14_Alfur_v2 op        C        C 
+14_Alfur_v2 #csid 2 0 0 0
+15_Karl ref  Flesjakór  sextán
+15_Karl hyp  Flesjakór    sex 
+15_Karl op       C         S  
+15_Karl #csid 1 1 0 0
+16_Bjartur ref  Lindargata  þrjátíu  og  eitt
+16_Bjartur hyp  Lindargata  þrjátíu  og  eitt
+16_Bjartur op        C         C      C    C 
+16_Bjartur #csid 4 0 0 0
+17_Bjartur ref  Fjárhústunga  þrjátíu  og  þrjú
+17_Bjartur hyp  Fjárhústunga  þrjátíu  og  þrjú
+17_Bjartur op         C          C      C    C 
+17_Bjartur #csid 4 0 0 0
+18_Dora ref  Ystasel  ellefu
+18_Dora hyp  Ystasel   '***'
+18_Dora op      C        D  
+18_Dora #csid 1 0 0 1
+19_Karl ref  Staðarsund  fjórtán
+19_Karl hyp  Staðarsund  fjórtán
+19_Karl op        C         C   
+19_Karl #csid 2 0 0 0
+20_Bjartur ref  Hásæti  sjö  A
+20_Bjartur hyp  Hásæti  sjö  A
+20_Bjartur op      C     C   C
+20_Bjartur #csid 3 0 0 0
+21_Alfur_v2 ref  Miðbraut   sex 
+21_Alfur_v2 hyp  Miðbraut  '***'
+21_Alfur_v2 op       C       D  
+21_Alfur_v2 #csid 1 0 0 1
+22_Dilja_v2 ref  Faxahvarf  eitt
+22_Dilja_v2 hyp  Faxahvarf  eitt
+22_Dilja_v2 op       C        C 
+22_Dilja_v2 #csid 2 0 0 0
+23_Alfur_v2 ref  Mýraholt  sex  A
+23_Alfur_v2 hyp  Mýraholt  sex  A
+23_Alfur_v2 op       C      C   C
+23_Alfur_v2 #csid 3 0 0 0
+24_Dilja_v2 ref  Tungufell
+24_Dilja_v2 hyp     Tún   
+24_Dilja_v2 op       S    
+24_Dilja_v2 #csid 0 1 0 0
+25_Dora ref  Háaleitisbraut  tuttugu  og  níu
+25_Dora hyp  Háaleitisbraut  tuttugu  og  níu
+25_Dora op          C           C      C   C 
+25_Dora #csid 4 0 0 0
+26_Alfur_v2 ref  Grófin  eitt
+26_Alfur_v2 hyp  Grófin  eitt
+26_Alfur_v2 op      C      C 
+26_Alfur_v2 #csid 2 0 0 0
+27_Alfur ref  Stekkjardalur       sjö     
+27_Alfur hyp      '***'      Skeggjastaðir
+27_Alfur op         D              S      
+27_Alfur #csid 0 1 0 1
+28_Alfur_v2 ref  Bjargslundur  sautján
+28_Alfur_v2 hyp  Bjargslundur   '***' 
+28_Alfur_v2 op         C          D   
+28_Alfur_v2 #csid 1 0 0 1
+29_Alfur ref  Lónabraut  þrjátíu    og    tvö 
+29_Alfur hyp  Lónabraut  þrjátíu  '***'  '***'
+29_Alfur op       C         C       D      D  
+29_Alfur #csid 2 0 0 2
+30_Karl ref  Lautarvegur  þrjátíu  og  sex
+30_Karl hyp  Lautarvegur  þrjátíu  og  sex
+30_Karl op        C          C      C   C 
+30_Karl #csid 4 0 0 0
+31_Karl ref  Bakkabakki  fjögur    a  
+31_Karl hyp  Bakkabakki  fjögur  '***'
+31_Karl op        C         C      D  
+31_Karl #csid 2 0 0 1
+32_Rosa ref  Fljótsmörk  fjórtán
+32_Rosa hyp  Fljótsmörk   '***' 
+32_Rosa op        C         D   
+32_Rosa #csid 1 0 0 1
+33_Rosa ref  Lómatjörn  fjórtán
+33_Rosa hyp  Lómatjörn   '***' 
+33_Rosa op       C         D   
+33_Rosa #csid 1 0 0 1
+34_Bjartur ref  Iðunnarbrunnur  þrettán
+34_Bjartur hyp  Iðunnarbrunnur  þrettán
+34_Bjartur op          C           C   
+34_Bjartur #csid 2 0 0 0
+35_Karl ref  Breiðhóll   tíu 
+35_Karl hyp  Breiðhóll  '***'
+35_Karl op       C        D  
+35_Karl #csid 1 0 0 1
+36_Alfur_v2 ref  Hraunbær  hundrað  og  ellefu
+36_Alfur_v2 hyp  Hraunbær  hundrað  og   '***'
+36_Alfur_v2 op       C        C      C     D  
+36_Alfur_v2 #csid 3 0 0 1
+37_Rosa ref  Rauðhella  fjórtán
+37_Rosa hyp  Rauðhella   '***' 
+37_Rosa op       C         D   
+37_Rosa #csid 1 0 0 1
+38_Karl ref  Grettisgata  fjörutíu    og    níu 
+38_Karl hyp  Grettisgata  fjörutíu  '***'  '***'
+38_Karl op        C           C       D      D  
+38_Karl #csid 2 0 0 2
+39_Dora ref  Nesbakki  þrettán
+39_Dora hyp  Nesbakki    þrjú 
+39_Dora op       C        S   
+39_Dora #csid 1 1 0 0
+40_Rosa ref  Miðtún  sextíu  og  fjögur
+40_Rosa hyp   '***'  sextíu  og    sjö 
+40_Rosa op      D       C     C     S  
+40_Rosa #csid 2 1 0 1
+41_Dilja_v2 ref  Hæðarbyggð  fimmtán
+41_Dilja_v2 hyp  Hæðarbyggð   '***' 
+41_Dilja_v2 op        C         D   
+41_Dilja_v2 #csid 1 0 0 1
+42_Dilja_v2 ref  Vatnsdalshólar
+42_Dilja_v2 hyp      Vatnsás   
+42_Dilja_v2 op          S      
+42_Dilja_v2 #csid 0 1 0 0
+43_Dilja_v2 ref  Gaddstaðir  þrjátíu  og  níu
+43_Dilja_v2 hyp  Gaddstaðir  þrjátíu  og  níu
+43_Dilja_v2 op        C         C      C   C 
+43_Dilja_v2 #csid 4 0 0 0
+44_Alfur_v2 ref  Heiðarvegur  fjórtán    b  
+44_Alfur_v2 hyp  Heiðarvegur  fjórtán  '***'
+44_Alfur_v2 op        C          C       D  
+44_Alfur_v2 #csid 2 0 0 1
+45_Dilja ref  Kópavogsbakki   níu 
+45_Dilja hyp      '***'      Bakki
+45_Dilja op         D          S  
+45_Dilja #csid 0 1 0 1
+46_Alfur_v2 ref  Fitjahlíð  áttatíu  og  þrjú
+46_Alfur_v2 hyp  Fitjahlíð  áttatíu  og   sjö
+46_Alfur_v2 op       C         C      C    S 
+46_Alfur_v2 #csid 3 1 0 0
+47_Dilja ref  Aðalgata  tuttugu  og  fjögur
+47_Dilja hyp  Aðalgata  tuttugu  og    sjö 
+47_Dilja op       C        C      C     S  
+47_Dilja #csid 3 1 0 0
+48_Alfur ref  Kúludalsá  fjögur    D  
+48_Alfur hyp  Kúludalsá  fjögur  '***'
+48_Alfur op       C         C      D  
+48_Alfur #csid 2 0 0 1
+49_Dilja_v2 ref  Gerðakot   Perla   tvö 
+49_Dilja_v2 hyp    '***'   Gerðar  Klöpp
+49_Dilja_v2 op       D        S      S  
+49_Dilja_v2 #csid 0 2 0 1
+50_Bjartur ref  Höfði  eitt
+50_Bjartur hyp  Höfði  eitt
+50_Bjartur op     C      C 
+50_Bjartur #csid 2 0 0 0
+51_Dora ref  Kirkjubrekka   sjö 
+51_Dora hyp  Kirkjubrekka  '***'
+51_Dora op         C         D  
+51_Dora #csid 1 0 0 1
+52_Karl ref  Ketilsstaðir   tvö 
+52_Karl hyp  Ketilsstaðir  '***'
+52_Karl op         C         D  
+52_Karl #csid 1 0 0 1
+53_Dora ref  Grenigrund  þrettán
+53_Dora hyp  Grenigrund    þrjú 
+53_Dora op        C         S   
+53_Dora #csid 1 1 0 0
+54_Alfur ref  Sólarsalir  ellefu
+54_Alfur hyp  Sólarsalir     L  
+54_Alfur op        C         S  
+54_Alfur #csid 1 1 0 0
+55_Dora ref  Bjarnastaðir  svæði  tvö   fimm
+55_Dora hyp  Bjarnastaðir  svæði  tvö  '***'
+55_Dora op         C         C     C     D  
+55_Dora #csid 3 0 0 1
+56_Alfur ref  Hamravík  sextíu
+56_Alfur hyp  Hamravík    sex 
+56_Alfur op       C        S  
+56_Alfur #csid 1 1 0 0
+57_Rosa ref  Lóuás  fjórtán
+57_Rosa hyp   lóð     sjö  
+57_Rosa op     S       S   
+57_Rosa #csid 0 2 0 0
+58_Alfur ref  Klifabotn   tvö 
+58_Alfur hyp  Klifabotn  '***'
+58_Alfur op       C        D  
+58_Alfur #csid 1 0 0 1
+59_Alfur ref  Austurhólar   tíu 
+59_Alfur hyp  Austurhólar  '***'
+59_Alfur op        C         D  
+59_Alfur #csid 1 0 0 1
+60_Dilja ref  Melás   tvö
+60_Dilja hyp  '***'  None
+60_Dilja op     D      S 
+60_Dilja #csid 0 1 0 1
+61_Rosa ref  Víkurholt   eitt
+61_Rosa hyp  Víkurholt  '***'
+61_Rosa op       C        D  
+61_Rosa #csid 1 0 0 1
+62_Bjartur ref  Engjagil  sex
+62_Bjartur hyp  Engjagil  sex
+62_Bjartur op       C      C 
+62_Bjartur #csid 2 0 0 0
+63_Dilja ref  Kaldárholt   lóð         B      
+63_Dilja hyp     '***'    '***'  Hallgerðartún
+63_Dilja op        D        D          S      
+63_Dilja #csid 0 1 0 2
+64_Rosa ref  Vallarbraut  sautján
+64_Rosa hyp  Vallarbraut  sautján
+64_Rosa op        C          C   
+64_Rosa #csid 2 0 0 0
+65_Dilja_v2 ref  Flaga  lóð  fjögur
+65_Dilja_v2 hyp  Flaga  lóð    sjö 
+65_Dilja_v2 op     C     C      S  
+65_Dilja_v2 #csid 2 1 0 0
+66_Alfur ref  Víðiteigur   tíu     A  
+66_Alfur hyp  Víðiteigur  '***'  '***'
+66_Alfur op        C        D      D  
+66_Alfur #csid 1 0 0 2
+67_Karl ref  Döllugata   eitt
+67_Karl hyp  Döllugata  '***'
+67_Karl op       C        D  
+67_Karl #csid 1 0 0 1
+68_Karl ref  Selvogsgata  átján
+68_Karl hyp  Selvogsgata    H  
+68_Karl op        C         S  
+68_Karl #csid 1 1 0 0
+69_Dilja ref  Heiðarsel   tvö
+69_Dilja hyp    '***'    None
+69_Dilja op       D        S 
+69_Dilja #csid 0 1 0 1
+70_Dora ref  Asparteigur   tólf
+70_Dora hyp  Asparteigur  '***'
+70_Dora op        C         D  
+70_Dora #csid 1 0 0 1
+71_Alfur_v2 ref  Hjallaland  þrjátíu  og  eitt
+71_Alfur_v2 hyp  Hjallaland  þrjátíu  og  eitt
+71_Alfur_v2 op        C         C      C    C 
+71_Alfur_v2 #csid 4 0 0 0
+72_Dora ref  Gulaþing  tuttugu    og    þrjú
+72_Dora hyp  Gulaþing  tuttugu  '***'  '***'
+72_Dora op       C        C       D      D  
+72_Dora #csid 2 0 0 2
+73_Alfur ref  Álftagerði
+73_Alfur hyp     átta   
+73_Alfur op        S    
+73_Alfur #csid 0 1 0 0
+74_Karl ref  Gata  norðurljósanna  ellefu
+74_Karl hyp  Gata  norðurljósanna     L  
+74_Karl op     C          C           S  
+74_Karl #csid 2 1 0 0
+75_Dilja ref  Smyrlahraun  fjörutíu        og       þrjú
+75_Dilja hyp     '***'       '***'   Hraunsfjörður   tíu
+75_Dilja op        D           D           S          S 
+75_Dilja #csid 0 2 0 2
+76_Alfur ref  Mýrargata  þrjátíu
+76_Alfur hyp    Mýrar      þrjú 
+76_Alfur op       S         S   
+76_Alfur #csid 0 2 0 0
+77_Rosa ref  Brautarsel  fimmtíu  og  fjögur
+77_Rosa hyp  Brautarsel  fimmtíu  og    sjö 
+77_Rosa op        C         C      C     S  
+77_Rosa #csid 3 1 0 0
+78_Alfur ref  Sunnuhlíð  tvö    B  
+78_Alfur hyp  Sunnuhlíð  tvö  '***'
+78_Alfur op       C       C     D  
+78_Alfur #csid 2 0 0 1
+79_Dilja ref  Vallholt  þrjátíu    og   átta
+79_Dilja hyp    '***'    '***'   '***'   tíu
+79_Dilja op       D        D       D      S 
+79_Dilja #csid 0 1 0 3
+80_Dilja_v2 ref  Bólstaðarhlíð  fimmtíu  og  átta
+80_Dilja_v2 hyp  Bólstaðarhlíð  fimmtíu  og  átta
+80_Dilja_v2 op         C           C      C    C 
+80_Dilja_v2 #csid 4 0 0 0
+81_Alfur ref  Eikarlundur  ellefu
+81_Alfur hyp  Eikarlundur   '***'
+81_Alfur op        C          D  
+81_Alfur #csid 1 0 0 1
+82_Bjartur ref  Fuglavík  fimmtán
+82_Bjartur hyp  Fuglavík  fimmtán
+82_Bjartur op       C        C   
+82_Bjartur #csid 2 0 0 0
+83_Dilja ref  Iðavellir   fimm       B    
+83_Dilja hyp    '***'    '***'  Hekluhraun
+83_Dilja op       D        D         S    
+83_Dilja #csid 0 1 0 2
+84_Bjartur ref  Gerðavegur  þrjátíu  og  þrjú
+84_Bjartur hyp  Gerðavegur  þrjátíu  og  þrjú
+84_Bjartur op        C         C      C    C 
+84_Bjartur #csid 4 0 0 0
+85_Dilja ref  Melgerði    ellefu 
+85_Dilja hyp    '***'   Gagnheiði
+85_Dilja op       D         S    
+85_Dilja #csid 0 1 0 1
+86_Dilja_v2 ref  Dúfnahólar   tvö 
+86_Dilja_v2 hyp  Dúfnahólar  '***'
+86_Dilja_v2 op        C        D  
+86_Dilja_v2 #csid 1 0 0 1
+87_Karl ref  Starrahólar   tíu 
+87_Karl hyp  Starrahólar  '***'
+87_Karl op        C         D  
+87_Karl #csid 1 0 0 1
+88_Karl ref  Hraukbær  lóð
+88_Karl hyp  Hraukbær  lóð
+88_Karl op       C      C 
+88_Karl #csid 2 0 0 0
+89_Alfur_v2 ref  Sunnuvegur  tvö
+89_Alfur_v2 hyp  Sunnuvegur  tvö
+89_Alfur_v2 op        C       C 
+89_Alfur_v2 #csid 2 0 0 0
+90_Alfur ref  Höfðaholt     fimm   
+90_Alfur hyp    '***'    Hellnaholt
+90_Alfur op       D           S    
+90_Alfur #csid 0 1 0 1
+91_Dilja ref  Háabarð  átta
+91_Dilja hyp   '***'     H 
+91_Dilja op      D       S 
+91_Dilja #csid 0 1 0 1
+92_Alfur ref  Þverárdalur   tólf
+92_Alfur hyp  Þverárdalur  '***'
+92_Alfur op        C         D  
+92_Alfur #csid 1 0 0 1
+93_Bjartur ref  Tandrastaðir  vegsvæði
+93_Bjartur hyp  Tandrastaðir  vegsvæði
+93_Bjartur op         C           C   
+93_Bjartur #csid 2 0 0 0
+94_Karl ref  Birkiás  þrjátíu    og    sex 
+94_Karl hyp  Birkiás  þrjátíu  '***'  '***'
+94_Karl op      C        C       D      D  
+94_Karl #csid 2 0 0 2
+95_Dora ref  Borgarbraut  fjögur
+95_Dora hyp  Borgarbraut  fjögur
+95_Dora op        C          C  
+95_Dora #csid 2 0 0 0
+96_Alfur ref  Víkurbraut  eitt    B  
+96_Alfur hyp  Víkurbraut  eitt  '***'
+96_Alfur op        C        C     D  
+96_Alfur #csid 2 0 0 1
+97_Alfur_v2 ref  Rimatjörn  þrettán
+97_Alfur_v2 hyp  Rimatjörn  þrettán
+97_Alfur_v2 op       C         C   
+97_Alfur_v2 #csid 2 0 0 0
+98_Karl ref  Dalhús  skíðalyfta
+98_Karl hyp  Dalhús  skíðalyfta
+98_Karl op      C         C    
+98_Karl #csid 2 0 0 0
+99_Dora ref  Útibær
+99_Dora hyp   Útey 
+99_Dora op      S  
+99_Dora #csid 0 1 0 0
+100_Karl ref  Hofteigur  þrjátíu
+100_Karl hyp    Teigur     þrjú 
+100_Karl op       S         S   
+100_Karl #csid 0 2 0 0
+101_Alfur ref  Tröllagil   tíu 
+101_Alfur hyp  Tröllagil  '***'
+101_Alfur op       C        D  
+101_Alfur #csid 1 0 0 1
+102_Bjartur ref  Lyngheiði  tvö
+102_Bjartur hyp  Lyngheiði  tvö
+102_Bjartur op       C       C 
+102_Bjartur #csid 2 0 0 0
+103_Dilja_v2 ref  Urðartjörn   tvö
+103_Dilja_v2 hyp     '***'    None
+103_Dilja_v2 op        D        S 
+103_Dilja_v2 #csid 0 1 0 1
+104_Dilja ref  Fannafold   tvö   hundruð  fjörutíu   og  þrjú
+104_Dilja hyp    '***'    '***'   '***'     '***'   tíu    H 
+104_Dilja op       D        D       D         D      S     S 
+104_Dilja #csid 0 2 0 4
+105_Rosa ref  Faxabraut  fjörutíu  og  sjö
+105_Rosa hyp  Faxabraut  fjörutíu  og  sjö
+105_Rosa op       C          C      C   C 
+105_Rosa #csid 4 0 0 0
+106_Alfur ref  Jörundarholt  tvö  hundruð
+106_Alfur hyp   Lindarholt   tvö   '***' 
+106_Alfur op         S        C      D   
+106_Alfur #csid 1 1 0 1
+107_Dilja_v2 ref  Austurvegur  átján
+107_Dilja_v2 hyp  Austurvegur   átta
+107_Dilja_v2 op        C         S  
+107_Dilja_v2 #csid 1 1 0 0
+108_Rosa ref  Mosgerði  sex
+108_Rosa hyp  Mosgerði  sex
+108_Rosa op       C      C 
+108_Rosa #csid 2 0 0 0
+109_Alfur ref  Bakkagata   fimm
+109_Alfur hyp  Bakkagata  '***'
+109_Alfur op       C        D  
+109_Alfur #csid 1 0 0 1
+110_Rosa ref  Miðgarður  sjö    a  
+110_Rosa hyp  Miðgarður  sjö  '***'
+110_Rosa op       C       C     D  
+110_Rosa #csid 2 0 0 1
+111_Rosa ref  Veitubakki  tuttugu    og    þrjú
+111_Rosa hyp  Veitubakki  tuttugu  '***'  '***'
+111_Rosa op        C         C       D      D  
+111_Rosa #csid 2 0 0 2
+112_Dilja ref  Brávellir  ellefu
+112_Dilja hyp    '***'    Vellir
+112_Dilja op       D         S  
+112_Dilja #csid 0 1 0 1
+113_Dora ref  Sandalda  fjórtán
+113_Dora hyp  Sandalda   '***' 
+113_Dora op       C        D   
+113_Dora #csid 1 0 0 1
+114_Rosa ref  Norðurgata  fimmtíu
+114_Rosa hyp  Norðurgata   '***' 
+114_Rosa op        C         D   
+114_Rosa #csid 1 0 0 1
+115_Bjartur ref  Helgafell  fimm
+115_Bjartur hyp  Helgafell  fimm
+115_Bjartur op       C        C 
+115_Bjartur #csid 2 0 0 0
+116_Alfur ref  Kjalvararstaðir        tvö     
+116_Alfur hyp       '***'       Kjalvarastaðir
+116_Alfur op          D                S      
+116_Alfur #csid 0 1 0 1
+117_Alfur_v2 ref  Bollatangi  ellefu
+117_Alfur_v2 hyp  Bollatangi  ellefu
+117_Alfur_v2 op        C         C  
+117_Alfur_v2 #csid 2 0 0 0
+118_Dilja_v2 ref  Seiðakvísl   fimm
+118_Dilja_v2 hyp  Seiðakvísl  '***'
+118_Dilja_v2 op        C        D  
+118_Dilja_v2 #csid 1 0 0 1
+119_Karl ref  Móavegur  fjögur
+119_Karl hyp  Móavegur   '***'
+119_Karl op       C        D  
+119_Karl #csid 1 0 0 1
+120_Bjartur ref  Grænlandsleið  tuttugu  og  sjö    A  
+120_Bjartur hyp  Grænlandsleið  tuttugu  og  sjö  '***'
+120_Bjartur op         C           C      C   C     D  
+120_Bjartur #csid 4 0 0 1
+121_Alfur ref  Lyngmóar   tíu 
+121_Alfur hyp  Lyngmóar  '***'
+121_Alfur op       C       D  
+121_Alfur #csid 1 0 0 1
+122_Bjartur ref  Spilda
+122_Bjartur hyp   None 
+122_Bjartur op      S  
+122_Bjartur #csid 0 1 0 0
+123_Dilja_v2 ref  Stekkjarberg       átta     
+123_Dilja_v2 hyp      '***'     Stekkjarbrekka
+123_Dilja_v2 op         D              S      
+123_Dilja_v2 #csid 0 1 0 1
+124_Karl ref  Bergstaðastræti  sjötíu    og    tvö 
+124_Karl hyp  Bergstaðastræti  sjötíu  '***'  '***'
+124_Karl op          C            C      D      D  
+124_Karl #csid 2 0 0 2
+125_Rosa ref  Mosabarð  þrettán
+125_Rosa hyp  Mosabarð  þrettán
+125_Rosa op       C        C   
+125_Rosa #csid 2 0 0 0
+126_Dora ref  Brekkubraut  fjórtán
+126_Dora hyp  Brekkubraut   '***' 
+126_Dora op        C          D   
+126_Dora #csid 1 0 0 1
+127_Dilja ref    Bogatún   tuttugu    og   fjögur
+127_Dilja hyp  Hekluhraun  tuttugu  '***'     C  
+127_Dilja op        S         C       D       S  
+127_Dilja #csid 1 2 0 1
+128_Bjartur ref  Fannafold  níutíu  og  sjö
+128_Bjartur hyp  Fannafold  níutíu  og  sjö
+128_Bjartur op       C         C     C   C 
+128_Bjartur #csid 4 0 0 0
+129_Rosa ref  Asparhvarf  nítján
+129_Rosa hyp   Stakkholt  nítján
+129_Rosa op        S         C  
+129_Rosa #csid 1 1 0 0
+130_Alfur ref  Skógarflöt  tuttugu    og    tvö 
+130_Alfur hyp  Skógarhlíð  tuttugu  '***'  '***'
+130_Alfur op        S         C       D      D  
+130_Alfur #csid 1 1 0 2
+131_Bjartur ref  Sogavegur  hundrað  og  níu
+131_Bjartur hyp  Sogavegur  hundrað  og  níu
+131_Bjartur op       C         C      C   C 
+131_Bjartur #csid 4 0 0 0
+132_Rosa ref  Reynigrund  sjötíu  og  sjö
+132_Rosa hyp  Reynigrund  sjötíu  og  sjö
+132_Rosa op        C         C     C   C 
+132_Rosa #csid 4 0 0 0
+133_Rosa ref  Kerhraun  fimmtíu    og    eitt
+133_Rosa hyp  Kerhraun  fimmtíu  '***'  '***'
+133_Rosa op       C        C       D      D  
+133_Rosa #csid 2 0 0 2
+134_Dilja_v2 ref  Tryggvagata  sautján
+134_Dilja_v2 hyp   Þykkvaflöt  sautján
+134_Dilja_v2 op        S          C   
+134_Dilja_v2 #csid 1 1 0 0
+135_Dora ref  Litlahlíð  fjögur     H  
+135_Dora hyp    Litla     Hlíð   fjögur
+135_Dora op       S         S       S  
+135_Dora #csid 0 3 0 0
+136_Karl ref  Efstihjalli  eitt    B  
+136_Karl hyp  Efstihjalli  eitt  '***'
+136_Karl op        C         C     D  
+136_Karl #csid 2 0 0 1
+137_Bjartur ref  Urðarteigur  tuttugu  og  tvö
+137_Bjartur hyp  Urðarteigur  tuttugu  og  tvö
+137_Bjartur op        C          C      C   C 
+137_Bjartur #csid 4 0 0 0
+138_Dilja_v2 ref  Skúlaskeið  tuttugu
+138_Dilja_v2 hyp  Skúlaskeið  tuttugu
+138_Dilja_v2 op        C         C   
+138_Dilja_v2 #csid 2 0 0 0
+139_Dilja_v2 ref  Réttartorfa     lóð  
+139_Dilja_v2 hyp     '***'     Torfabær
+139_Dilja_v2 op        D           S   
+139_Dilja_v2 #csid 0 1 0 1
+140_Dora ref  Kögursel  þrjátíu  og  eitt
+140_Dora hyp  Kögursel  þrjátíu  og  eitt
+140_Dora op       C        C      C    C 
+140_Dora #csid 4 0 0 0
+141_Dora ref  Sogsvegur   átta
+141_Dora hyp  Sogsvegur  '***'
+141_Dora op       C        D  
+141_Dora #csid 1 0 0 1
+142_Dora ref  Gerðarbrunnur  fimmtán
+142_Dora hyp  Gerðarbrunnur    fimm 
+142_Dora op         C           S   
+142_Dora #csid 1 1 0 0
+143_Dora ref  Hallkelshólar  lóð  tuttugu    og    níu 
+143_Dora hyp  Hallkelshólar  lóð  tuttugu  '***'  '***'
+143_Dora op         C         C      C       D      D  
+143_Dora #csid 3 0 0 2
+144_Alfur_v2 ref  Álfhólsvegur  fjörutíu  og  sex    D  
+144_Alfur_v2 hyp  Álfhólsvegur  fjörutíu  og  sex  '***'
+144_Alfur_v2 op         C           C      C   C     D  
+144_Alfur_v2 #csid 4 0 0 1
+145_Dilja_v2 ref  Áskot   tvö 
+145_Dilja_v2 hyp  Áskot  '***'
+145_Dilja_v2 op     C      D  
+145_Dilja_v2 #csid 1 0 0 1
+146_Karl ref  Smáraflöt  eitt
+146_Karl hyp  Smáraflöt  eitt
+146_Karl op       C        C 
+146_Karl #csid 2 0 0 0
+147_Rosa ref  Farbraut  tuttugu  og  tvö
+147_Rosa hyp  Farbraut  tuttugu  og  tvö
+147_Rosa op       C        C      C   C 
+147_Rosa #csid 4 0 0 0
+148_Bjartur ref  Laugarbrekka  tuttugu  og  þrjú
+148_Bjartur hyp  Laugarbrekka  tuttugu  og  þrjú
+148_Bjartur op         C          C      C    C 
+148_Bjartur #csid 4 0 0 0
+149_Dora ref  Tjarnarás  fimmtán
+149_Dora hyp  Tjarnarás    fimm 
+149_Dora op       C         S   
+149_Dora #csid 1 1 0 0
+150_Dora ref  Hlíðarvegur  tuttugu    og    átta
+150_Dora hyp  Hlíðarvegur  tuttugu  '***'  '***'
+150_Dora op        C          C       D      D  
+150_Dora #csid 2 0 0 2
+151_Dora ref  Bakkakot   tvö 
+151_Dora hyp  Bakkakot  '***'
+151_Dora op       C       D  
+151_Dora #csid 1 0 0 1
+152_Rosa ref  Tindfjallaskáli
+152_Rosa hyp  Tindfjallaskáli
+152_Rosa op          C       
+152_Rosa #csid 1 0 0 0
+153_Karl ref  Landahólsviti
+153_Karl hyp  Landahólsviti
+153_Karl op         C      
+153_Karl #csid 1 0 0 0
+154_Dora ref  Stangarbraut  fjörutíu
+154_Dora hyp  Stangarbraut    '***' 
+154_Dora op         C           D   
+154_Dora #csid 1 0 0 1
+155_Alfur_v2 ref  Reykjasel
+155_Alfur_v2 hyp     eitt  
+155_Alfur_v2 op       S    
+155_Alfur_v2 #csid 0 1 0 0
+156_Dora ref  Sólbrekka  fjórtán
+156_Dora hyp  Sólbrekka   '***' 
+156_Dora op       C         D   
+156_Dora #csid 1 0 0 1
+157_Dilja_v2 ref  Heiðarból  þrjátíu  og  eitt
+157_Dilja_v2 hyp  Heiðarból  þrjátíu  og  eitt
+157_Dilja_v2 op       C         C      C    C 
+157_Dilja_v2 #csid 4 0 0 0
+158_Rosa ref  Stapasíða  ellefu  B
+158_Rosa hyp  Stapasíða  ellefu  B
+158_Rosa op       C         C    C
+158_Rosa #csid 3 0 0 0
+159_Dilja ref  Fljótsdalur   þrjú 
+159_Dilja hyp     '***'     fjögur
+159_Dilja op        D          S  
+159_Dilja #csid 0 1 0 1
+160_Dora ref  Iðngarðar  átján
+160_Dora hyp  Iðngarðar  átján
+160_Dora op       C        C  
+160_Dora #csid 2 0 0 0
+161_Alfur_v2 ref  Sólvallagata  sextán
+161_Alfur_v2 hyp  Sólvallagata    sex 
+161_Alfur_v2 op         C          S  
+161_Alfur_v2 #csid 1 1 0 0
+162_Dora ref  Ísleifsgata  tíu
+162_Dora hyp  Ísleifsgata  tvö
+162_Dora op        C        S 
+162_Dora #csid 1 1 0 0
+163_Bjartur ref  Hrafnagilsstræti  sextán
+163_Bjartur hyp  Hrafnagilsstræti  sextán
+163_Bjartur op           C            C  
+163_Bjartur #csid 2 0 0 0
+164_Dora ref  Birkivellir  átján
+164_Dora hyp  Birkivellir  átján
+164_Dora op        C         C  
+164_Dora #csid 2 0 0 0
+165_Bjartur ref  Sandavegur  átján
+165_Bjartur hyp  Sandavegur  átján
+165_Bjartur op        C        C  
+165_Bjartur #csid 2 0 0 0
+166_Dora ref  Helgamagrastræti  tuttugu  og  níu  tuttugu  og  níu  til  fjörutíu    og    eitt
+166_Dora hyp  Helgamagrastræti  tuttugu  og  níu  tuttugu  og  níu  til  fjörutíu  '***'  '***'
+166_Dora op           C            C      C   C      C      C   C    C       C       D      D  
+166_Dora #csid 9 0 0 2
+167_Karl ref  Miðengi  sautján
+167_Karl hyp  Miðengi  sautján
+167_Karl op      C        C   
+167_Karl #csid 2 0 0 0
+168_Dilja_v2 ref  Borgarleynir  sex
+168_Dilja_v2 hyp  Borgarleynir  sjö
+168_Dilja_v2 op         C        S 
+168_Dilja_v2 #csid 1 1 0 0
+169_Dora ref  Víkurbraut  átján
+169_Dora hyp  Víkurbraut  '***'
+169_Dora op        C        D  
+169_Dora #csid 1 0 0 1
+170_Dilja_v2 ref  Hamrabrekkur  fjögur
+170_Dilja_v2 hyp  Hamrabrekkur    sjö 
+170_Dilja_v2 op         C          S  
+170_Dilja_v2 #csid 1 1 0 0
+171_Alfur ref  Bjarnhólastígur  fjögur
+171_Alfur hyp  Bjarnhólastígur   '***'
+171_Alfur op          C            D  
+171_Alfur #csid 1 0 0 1
+172_Dilja ref  Engimýri      I    
+172_Dilja hyp    '***'   Hraunkimi
+172_Dilja op       D         S    
+172_Dilja #csid 0 1 0 1
+173_Dilja_v2 ref  Hrauntunga  þrjátíu  og  sex
+173_Dilja_v2 hyp  Hrauntunga  þrjátíu  og  sex
+173_Dilja_v2 op        C         C      C   C 
+173_Dilja_v2 #csid 4 0 0 0
+174_Dilja_v2 ref  Miðholt  þrjátíu  og  þrjú    B  
+174_Dilja_v2 hyp  Miðholt  þrjátíu  og  þrjú  '***'
+174_Dilja_v2 op      C        C      C    C     D  
+174_Dilja_v2 #csid 4 0 0 1
+175_Dora ref  Mávahlíð  tuttugu    og    níu 
+175_Dora hyp  Mávahlíð  tuttugu  '***'  '***'
+175_Dora op       C        C       D      D  
+175_Dora #csid 2 0 0 2
+176_Bjartur ref  Birkibraut  fjögur    a  
+176_Bjartur hyp  Birkibraut  fjögur  '***'
+176_Bjartur op        C         C      D  
+176_Bjartur #csid 2 0 0 1
+177_Alfur ref  Hestur  lóð  fjörutíu    og   sex
+177_Alfur hyp  Hestur  lóð    '***'   '***'  tíu
+177_Alfur op      C     C       D       D     S 
+177_Alfur #csid 2 1 0 2
+178_Alfur ref  Smárarimi  hundrað  og  sextán
+178_Alfur hyp  Smárarimi  hundrað  og    sex 
+178_Alfur op       C         C      C     S  
+178_Alfur #csid 3 1 0 0
+179_Dilja ref   Holtagerði  tuttugu  og  sex
+179_Dilja hyp  Brekkuheiði  tuttugu  og  sex
+179_Dilja op        S          C      C   C 
+179_Dilja #csid 3 1 0 0
+180_Karl ref  Ketilsstaðaland   tvö 
+180_Karl hyp  Ketilsstaðaland  '***'
+180_Karl op          C           D  
+180_Karl #csid 1 0 0 1
+181_Dilja ref  Gata  sólarinnar  níu
+181_Dilja hyp  Gata  sólarinnar  níu
+181_Dilja op     C        C       C 
+181_Dilja #csid 3 0 0 0
+182_Alfur_v2 ref  Dagverðarnes  hundrað  og  ellefu
+182_Alfur_v2 hyp  Dagverðarnes  hundrað  og   eitt 
+182_Alfur_v2 op         C          C      C     S  
+182_Alfur_v2 #csid 3 1 0 0
+183_Bjartur ref  Kjarnagata  þrjátíu  og  sex
+183_Bjartur hyp  Kjarnagata  þrjátíu  og  sex
+183_Bjartur op        C         C      C   C 
+183_Bjartur #csid 4 0 0 0
+184_Dilja ref  Byggakur  tólf
+184_Dilja hyp    '***'   eitt
+184_Dilja op       D       S 
+184_Dilja #csid 0 1 0 1
+185_Dilja_v2 ref  Hryggjarsel   átta
+185_Dilja_v2 hyp  Hryggjarsel  '***'
+185_Dilja_v2 op        C         D  
+185_Dilja_v2 #csid 1 0 0 1
+186_Karl ref  Kleppustaðir  m  Aratun
+186_Karl hyp  Kleppustaðir  m   '***'
+186_Karl op         C       C     D  
+186_Karl #csid 2 0 0 1
+187_Dora ref  Svöluás  fjörutíu  og  átta
+187_Dora hyp  Svöluás  fjörutíu  og  eitt
+187_Dora op      C         C      C    S 
+187_Dora #csid 3 1 0 0
+188_Bjartur ref  Merkjateigur  eitt
+188_Bjartur hyp  Merkjateigur  eitt
+188_Bjartur op         C         C 
+188_Bjartur #csid 2 0 0 0
+189_Dilja ref  Ástún   tvö      A  
+189_Dilja hyp  '***'  '***'  Ásbrún
+189_Dilja op     D      D       S  
+189_Dilja #csid 0 1 0 2
+190_Karl ref  Uppsalavegur  tólf
+190_Karl hyp  Uppsalavegur  tólf
+190_Karl op         C         C 
+190_Karl #csid 2 0 0 0
+191_Dilja ref  Hvannalundur  átta
+191_Dilja hyp      '***'     None
+191_Dilja op         D         S 
+191_Dilja #csid 0 1 0 1
+192_Bjartur ref  Ljósvallagata  átta
+192_Bjartur hyp  Ljósvallagata  átta
+192_Bjartur op         C          C 
+192_Bjartur #csid 2 0 0 0
+193_Karl ref  Krummastekkur   eitt
+193_Karl hyp  Krummastekkur  '***'
+193_Karl op         C          D  
+193_Karl #csid 1 0 0 1
+194_Dilja_v2 ref  Vogatunga  sextíu  og  fimm
+194_Dilja_v2 hyp  Vogatunga  sextíu  og  fimm
+194_Dilja_v2 op       C         C     C    C 
+194_Dilja_v2 #csid 4 0 0 0
+195_Dora ref  Hrísás  tuttugu    og    sjö 
+195_Dora hyp  Hrísás  tuttugu  '***'  '***'
+195_Dora op      C       C       D      D  
+195_Dora #csid 2 0 0 2
+196_Dilja_v2 ref  Laugavegur  tuttugu  og  sex
+196_Dilja_v2 hyp  Laugavegur  tuttugu  og  sex
+196_Dilja_v2 op        C         C      C   C 
+196_Dilja_v2 #csid 4 0 0 0
+197_Bjartur ref  Hlunnavogur  þrettán
+197_Bjartur hyp  Hlunnavogur  þrettán
+197_Bjartur op        C          C   
+197_Bjartur #csid 2 0 0 0
+198_Alfur ref  Hafnargata  fimmtíu  og  fjögur
+198_Alfur hyp  Hafnargata  fimmtíu  og    sjö 
+198_Alfur op        C         C      C     S  
+198_Alfur #csid 3 1 0 0
+199_Karl ref  Fjóluás   tíu 
+199_Karl hyp  Fjóluás  '***'
+199_Karl op      C       D  
+199_Karl #csid 1 0 0 1
+200_Karl ref  Kjarlaksstaðir  eitt
+200_Karl hyp  Kjarlaksstaðir  eitt
+200_Karl op          C          C 
+200_Karl #csid 2 0 0 0
